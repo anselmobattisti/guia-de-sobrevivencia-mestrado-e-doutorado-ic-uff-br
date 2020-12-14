@@ -4,6 +4,9 @@
   <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
 </p>
 
+```diff
+- Cuidado, você poderá ler neste documento algumas verdades inconvenientes.
+```
 
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
@@ -89,7 +92,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Se não souber de algo, não fique na dúvida. PERGUNTE! e compartilhe informações, você poderá ajudar o seu colega. É exatamente isso que este manual faz.
 
-## Por Onde Começo
+## Informações Gerais
 
 * Se você não poder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega, ele poderá fazer a inscrição nas disciplinas pra você, geralmente as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
 
@@ -137,9 +140,11 @@ Dado todos os avisos, vamos começar com o .....
 
 ## As Disciplinas 
 
-* Nunca faça duas discipinas básicas no mesmo semestre, elas geralmente são puxadas e você pode acabar tendo problemas.
+* Evite fazer duas discipinas básicas no mesmo semestre, elas geralmente são puxadas e você pode acabar tendo problemas.
 
-* Estrutura de Dados é uma matéria MUITO importante! Estude e tire notas  boas, muita gente PEDE PRA SAIR, você não vai ser um deles. Procure pelo livro do Thomas H. Cormen. Ele é sua bíblia e nada te faltará. 
+* Estrutura de Dados (para os íntimo ED) é uma matéria MUITO importante! Estude e tire notas boas, muita gente PEDE PRA SAIR, você não vai ser um deles. Procure pelo livro do Thomas H. Cormen. Ele é sua bíblia e nada te faltará.  
+
+* Ainda sobre ED, https://github.com/anselmobattisti/ed_2019 esse repositório tem algumas coisas que pode te ajudar, boa sorte!
 
 * Verifique com seu orientador quais disciplinas básicas você deve se inscrever, e tire notas boas nessas disciplinas básicas, pois elas podem salvar vidas, em um eventual doutorado, se você tirar notas realmente boas, você não precisará cursa-las novamente. 
 
@@ -147,7 +152,9 @@ Dado todos os avisos, vamos começar com o .....
 
 * Você precisa de no mínimo 75% de presença.
 
-* A nota mínima para ser aprovado é 7.0
+* A nota mínima para ser aprovado é 6.0, mas a realidade é dura e vocÊ terá que buscar pelo 7.0, no mínimo.
+
+* Diferentemente do ensino fundalmentel e médio que você é aprovado por participação, na pós a  taxa de reprovação em algumas disciplinas é alta. Alguns exemplos são: Estrutura de Dados, Sistemas de Computação, ASA. Não basta assistir as aulas e ser um cara legal, tem que fazer a coisa acontecer, estude.
 
 * Se você é bolsista, você deverá ir a todos os seminários, na verdade, todos deveriam ir, lá aparece oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto. A frequência é controlada por um livro de presença.
 
@@ -155,8 +162,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos, eles podem ser uma boa fonte de informação sobre como você será cobrado, pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc, eles certamente podem, vão te ajudar e te fornecerão informações valiosas.
 
-* Você precisará fazer uma prova de inglês até começar a sua pesquisa. Aqui tem algum material de estudo https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA
- a prova é bem tranquila, sem pânico.
+* Você precisará fazer uma prova de inglês até começar a sua pesquisa. Aqui tem algum material de estudo https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA  a prova é bem tranquila, sem pânico.
  
  * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda,  pergunte aos veteranos se eles possuem um modelo, você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo
  
@@ -170,23 +176,61 @@ Dado todos os avisos, vamos começar com o .....
 
 * Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
 
+## Dica de Como Escolher Disciplinas 
+
+Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma)
+
+OC = 2 - Obrigatória pelo curso 
+OA = 1 - Obrigatória pela área 
+TA = 3 - Tópicos Avançados (Máximo 3)
+AL = 2 - "Aleatórias"
+
+Disciplinas OC - Obrigatórias pelo custo - MÍNIMO DUAS
+=========================================
+* Análise e Síntese de Algoritmos
+* Estrutura de Dados e Algoritmos
+* Sistemas de Computação
+* Teoria da Computação
+* Tratamento de Incertezas
+
+Por exmeplo, se você está na área de Sistemas de Computação então você tem que fazer uma das disciplinas abaixo, obrigarotiamente:
+
+* Algoritmos Distribuídos
+* Algoritmos Paralelos
+* Arquiteturas Paralelas I
+* Computação Móvel
+* Redes de Computadores
+* Sistemas de Tempo Real e Embarcados
+
+Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
+
+* Antes de escolher a discplina acesse o ementário do programa, lá tem informação sobre o que cada disciplina te ensinará http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf
+
+* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação
+
+* Por fim, se a dúvida ainda persistir fale com o seu orientador (caso já tenha) ou com o professor da disciplina.
+
 ## Seu Orientador 
 
-* Você precisa de um orientador para fazer a dissertação ou a tese.
+* Você necessariamente precisa de um orientador para fazer a dissertação ou tese.
 
 * Os professores tem um limite de alunos que eles podem orientador por período, regra do programa, então o ideal é conversar com um professor antes de começar o mestrado se ele terá vaga para orietnando quando for a sua vez de escrever a dissertação ou tese.
 
-* Seu orientador provavelmente não estudou no IC e muitas vezes é um professor novo na casa, por conta disso geralmente ele não conhece todas as regras do programa. Leia o manual!
+* Seu orientador provavelmente não estudou no IC e muitas vezes é um professor novo na casa, por conta disso geralmente ele não conhece todas as regras do programa. Leia o manual, se não achou a resposta mande um e-mail para a secretaria acadêmica da pós.
 
-* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele, imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Então, não ia funcionar né, é VOCÊ que se alinha com a pesquisa do orientador e não o contrário.
+* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele, imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Então, não ia funcionar né! Perceba que é VOCÊ que se alinha com a pesquisa do orientador e não o contrário.
 
-* Seu orientador é um cara ocupado, para saber o que ele já pesquisou vá até o lattes dele, veja o que ele já publicou.
+* Mas eu quero pesquisar um tema que ninguém do programa estuda. Bom, nesse caso você tem que se perguntar se o IC é realmente o melhor lugar para você estudar, talvez em outro programa já exista essa linha de pesquisa, acredite, sua vida será muito mais fácil se o tema de pesquisa for alinhado com o tema do orientador. Mas como vc sabe disso? Eu já fiz a cagada quando fiz um mestrado em outra instituição. Foi muito, mas muito doloroso. Aprender com os erros dos outros é sempre mais barato.
 
-* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele.
+* Seu futuro orientador é um cara ocupado, para saber o que ele já pesquisou vá até o lattes dele, veja o que ele já publicou.
 
-* Cada orientador tem um perfil de trabalho, pense muito bem se o seu perfil de trabalho é parecido com o perfil de professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do Whats.
+* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes
 
-* Seu orientador não seu inimigo e nem seu amigo (Isso pode ocorrer com o tempo). Ele é um colega de trabalho, da mesma forma que você tem seus objetivos (termianr o mestrado/doutorado) pesquisa ele tem os dele, tenha sempre isso em mente.
+* Cada orientador tem um perfil de trabalho, pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do Whats.
+
+* Seu orientador não é seu inimigo e nem seu amigo, ele é um colega de trabalho, da mesma forma que você tem seus objetivos (terminar o mestrado/doutorado) ele têm os dele. Tenha sempre isso em mente e tudo dará certo. 
+
+* Seu orientador não vai pegar leve com você. Ele quer bons orientandos que produzam bons trabalhos.Você acha que ele vai gastar tempo te orientando para que?
 
 * Uma coisa IMPORTANTE, existem professores em vias de se aposentar, veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
 
