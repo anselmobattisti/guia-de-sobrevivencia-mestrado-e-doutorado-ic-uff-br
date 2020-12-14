@@ -53,7 +53,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante!
 
-# Comunidade Acadêmica
+## Comunidade Acadêmica
 
 * Quer falar algo para todos? "Alunos da Pós Graduação (IC/UFF)" <posgrad@ic.uff.br>,"Professores da Pós Graduação (IC/UFF)" <profspg@ic.uff.br>, . Essa é a lista dos alunos, é bastante interessante, e pode gerar ótimas discussões
 
@@ -290,7 +290,7 @@ realmente se esforçando.
 
 * No aeroporto do galeão, existe um ônibus chamado GALEÃO – 998, que você pode pegar no EMBARQUE, e ele de deixará em Icaraí, Centro, Ingá por uma bagatela se comparado ao preço de um taxi. Se você não tem carro, e vai sair de férias, você pode pegá-lo na praia em Icaraí. Use sempre o Google Maps, ele pode te ajudar
 
-## Almas Caridosas Quem Escreveram Esse Documento
+# Almas Caridosas Quem Escreveram Esse Documento
 
 *Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
 
