@@ -8,6 +8,10 @@
 - Cuidado, você poderá ler neste documento algumas verdades inconvenientes.
 ```
 
+```diff
++ Feito com ❤️, de aluno para aluno.
+```
+
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
 Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF
