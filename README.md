@@ -17,6 +17,7 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 * ESSE É UMA GUIA INFORMAL
 * O IC/UFF/BR NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
+* AS REGRAS MUDAM ENTÃO SEMPRE FIQUE ATENTO AS ATAS DE REUNIÃO DE DEPARTAMENTO
 * LEIA POR SUA CONTA E RISCO
 * Se achou algo errado, inconsistente por favor ajude a corrigir
 
@@ -72,7 +73,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Existem diversas modalidades de bolsas, algumas permitem trabalho concomitante, outras não, tome cuidado para não ter problema.
 
-# Seja Pró-ativo
+## Seja Pró-ativo
 
 * Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz.
 
