@@ -11,3 +11,129 @@ Saudações pequeno gafanhoto, se você chegou até aqui isso significa que voc�
 Dado todos os avisos, vamos começar com o .....
 
 # Guia Informal de Sobrevivência do Mestrando e Doutorando no ICC/UFF/BR
+
+## Informações Oficiais
+
+* Site oficial: http://www.ic.uff.br/index.php/pt/pos-graduacao
+
+* E-mail para pedir informações: secretaria.pos@ic.uff.br (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
+
+* Nesta página estão às atas e documentos importantes da Pós-Graduação, acesse-as regularmente: http://www.ic.uff.br/PosGraduacao/regras_e_procedimentos.php 
+
+# Onde Encontrar Seus Colegas
+
+* Quer falar algo para todos? "Alunos da Pós Graduação (IC/UFF)" <posgrad@ic.uff.br>,"Professores da Pós Graduação (IC/UFF)" <profspg@ic.uff.br>, . Essa é a lista dos alunos, é bastante interessante, e pode gerar ótimas discussões
+
+* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
+
+
+## O Ingresso 
+
+* Ao se inscrever no mestrado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
+
+* Se você é aluno regular, você pode pegar sua carteirinha de estudante na secretaria, ela te dará muitos privilégios em : teatros, cinemas e shows, e o mais importante, te permitirá alugar livros na biblioteca! ☺
+
+# Seja Pró-ativo
+
+* Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz
+
+* Quando algum colega começar a contar sobre a pesqusia dele, se você puder esute, muitas vezes falar sobre a própria pesquisa é uma boa forma de evoluir, então escute e de se puder de sugestões construtivas.
+
+* Mantenha atualizado o seu currículo lattes, todas as pessoas da academia utilizam ele sempre.
+
+* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de
+fome, procure os murais do Instituto, procure os professores individualmente, provavelmente eles terão algum projeto para você trabalhar. Se você não se esforçar, uma bolsa não cairá do céu para você. Não adianta olhar pro céu, com muita fé e pouca luta. 
+
+## Por Onde Começo
+
+* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação, essa página pode te ajudar: http://suporte.ic.uff.br/ , quem resolve isso é o Carlos ou o Rafael. 
+
+## Laboratórios 
+
+* Quer saber se o IC está com energia e rede, acesse: https://uptime.ic.uff.br/
+
+* Existe uma impressora a sua disposição, entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pósgraduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
+
+* Na copa do mestrado existe uma “Caixinha do Café”, o que isto significa? A água é DIGRATIS, o café e os biscoitos são das pessoas que contribuem para a caixinha do café, acho que a responsável pela caixinha é a Ângela, secretária do IC.
+
+* Se você precisar entrar no Instituto de Computação durante final de semana e feriados, você pode deixar seu nome na secretária da pósgraduação, eles irão fazer uma lista com as pessoas autorizadas a entrar durante o final de semana, o guardinha terá essa lista, apresente seu documento, e você terá livre acesso para trabalhar no FDS! Sem autorização, sem acesso as instalações do IC.
+
+* Se você precisar utilizar a sala de seminários, agende com antecedência da secretária da pós-graduação, solicite também o agendamento do Datashow, você pode ter a sala alocada, mas não ter o Datashow. 
+
+## As Disciplinas 
+
+* Verifique com seu orientador quais disciplinas básicas você deve se inscrever, e tire notas boas nessas disciplinas básicas, pois elas podem salvar vidas, em um eventual doutorado, se você tirar notas realmente boas, você não precisará cursa-las novamente. 
+
+* Se você tem uma aula de 4 horas de duração, apenas uma vez por semana, não ouse faltar esta aula, o professor demorou no mínimo umas 20 horas estudando aquele conteúdo e preparando aulas para você, certamente você vai gastar mais tempo para aprender todo esse conteúdo, talvez 40 horas, portanto não vale a pena ganhar 4 horas para perder 40 horas. 
+
+* Você precisa de no mínimo 75% de presença.
+
+* A nota mínima para ser aprovado é 7.0
+
+* Se você é bolsista, você deverá ir a todos os seminários, na verdade, todos deveriam ir, lá aparece oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto. A frequência é controlada por um livro de presença.
+
+* Quando você for se inscrever nas disciplinas do mestrado ou do doutorado, lembre-se que antes de entregar sua inscrição, o seu orientador precisa assinar a inscrição em cada disciplina, no mesmo formulário da sua inscrição
+
+* Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos, eles podem ser uma boa fonte de informação sobre como você será cobrado, pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc, eles certamente podem, vão te ajudar e te fornecerão informações valiosas.
+
+* Você precisará fazer uma prova de inglês até começar a sua pesquisa. Aqui tem algum material de estudo https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA
+ a prova é bem tranquila, sem pânico.
+ 
+## A Pesquisa
+
+* No primeiro semestre foque nas disciplinas, se você não passar nas disciplinas você não chegará na pesquisa.
+
+* No segundo semestre, tente fazer um estudo orientado com seu provável orientador, isso pode adiantar a sua pesquisa em seis mêses.
+
+* Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação! 
+
+* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de
+Dados), se você é aluno regular, você deve ter carteirinha, se você é aluno especial, consiga uma declaração na secretária da pós
+
+*  Agende reuniões semanais com seu orientador, isso vai ajudar a você a não se perder, de preferência no mesmo horário em um dia fixo
+
+* Assista as defesas de mestrado, se você assistir ao menos meia dúzia delas, você evitará muitas críticas na sua própria defesa, acredite, essas 12 horas que você vai gastar, te salvará de horas de trabalho. 
+
+* Escreva Papers! O seu orientador vai ficar muito feliz. Mesmo que você não tenha um trabalho muito bom, os revisores vão te dar dicas de como melhorar, provavelmente você vai conseguir muitos aceites. 
+
+* Você quer viajar pelo mundo? Publique! Se você publicar, o instituto provavelmente irá bancar sua viagem e inscrição no congresso, faça essa solicitação na secretaria do mestrado: leve o aceite do seu paper, o empenho da inscrição no congresso, opções de transporte e opções de hospedagem, o seu caso será julgado pelo colegiado, boa sorte!
+
+* Se você viajou pelo instituto para apresentar algum trabalho, guarde os bilhetes, os comprovantes e etc. Você deverá prestar contas na secretaria,
+caso contrário o governo te mandará e-mails incessantemente.  
+
+* Se você é bolsista, você tem a obrigação de fazer “Estágio em Docência”, que nada mais é do que aprender com um professor sobre dar aulas, ajudar
+na disciplina, corrigir trabalhos e etc, é uma boa oportunidade de aprender um monte de coisas bacanas. É necessário oficializar isso na secretaria do
+mestrado, entregando um plano de trabalho, após finalizar o estágio, também é preciso entregar um relatório com tudo que foi realizado, assinado pelo professor que está te orientando no estágio. 
+
+* Se você tem bolsa CAPES, o seu santo dinheirinho sempre cairá no quinto dia útil do mês.
+
+* Alunos possuem uma senha muito bacana, de um proxy, que te dá acesso aos periódicos da CAPES, desta forma você pode baixar papers
+da sua casa, apenas configurando seu navegador. 
+
+* Lembre-se o Google Scholar é o seu melhor amigo. Nada de Wikipedia! 
+
+* Antes de submeter o seu paper para algum lugar, verifique o seu QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente, é muito importante. 
+
+* De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
+
+## Eventos 
+
+* Se qualquer evento foi marcado por exemplo, as 14:00, você tem permissão de chegar alguns minutos atrasados, nada começa exatamente no horário em uma cidade grande como Niterói ou Rio de Janeiro. 
+
+* Você está em uma universidade top, então, muitos eventos legais ocorrem por aqui, sempre que puder participe, isso vai te ajudar bastante, ou no mínimo vai te ensinar algumas coisas novas
+
+* Não se esqueça de se inscrever na lista de discussão da SBC, é básico para todo acadêmico. 
+
+## Onde Comer?
+
+* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é selfservice, e você pode almoçar por lá, existe também o bandejão, detalhe: tickets não são vendidos ali, portanto, compre seus tickets no devido lugar.
+
+## Aluno Especial 
+
+* Você é aluno especial? Tire notas boas e faça por merecer, isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
+realmente se esforçando. 
+
+
+# Isso aqui vale ainda????
+
+* No andar inferior ao Instituto existe uma copiadora, lá você pode conseguir muitos materiais interessantes.
