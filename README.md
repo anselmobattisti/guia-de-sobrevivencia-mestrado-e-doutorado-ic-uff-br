@@ -14,8 +14,9 @@
 
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
-Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF
-99 dicas úteis – O GUIA DEFINITIVO *. 
+No Brasil a CAPES atribui notas aos programas de mestrado e doutorado. A nota varia entre 3 e 7, sendo 3 um programa novo e com pouca expressividade e 7 um programa nível internacional. O IC/UFF é nível 6, são poucos os programas de computação que tem esse nível no Brasil. Essa nota foi conquistado com MUITO esforço por todos os que compõem o programa: Professora, Alunos e Técnicos. Por conta disso, saiba que em seus ombros "isso mesmo você que está lendo isso" também está a responsabilidade de não apenas manter a notas 6 mas produzir o máximo que der para ajudar o programa a chegar na nota 7. O bastão está em suas mãos, não pare de correr meu jovem! 
+
+Essas dicas começaram a ser escritas por alguém em 2010 (o principal suspeito é o Gabriel Gazolla, mas não temos certeza), o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF - 99 dicas úteis – O GUIA DEFINITIVO *. 
 
 O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf
 
@@ -337,5 +338,5 @@ realmente se esforçando.
 
 *Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
 
-* Autor Original - Anônimo (2010)
+* Gabriel Gazolla - (Autor da versão original, 2010) - http://lattes.cnpq.br/4143795598794555
 * Anselmo Luiz Éden Battisti - http://lattes.cnpq.br/6937214674204474 
