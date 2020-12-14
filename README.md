@@ -257,3 +257,8 @@ realmente se esforçando.
 * No andar inferior ao Instituto existe uma copiadora, lá você pode conseguir muitos materiais interessantes.
 
 * No aeroporto do galeão, existe um ônibus chamado GALEÃO – 998, que você pode pegar no EMBARQUE, e ele de deixará em Icaraí, Centro, Ingá por uma bagatela se comparado ao preço de um taxi. Se você não tem carro, e vai sair de férias, você pode pegá-lo na praia em Icaraí. Use sempre o Google Maps, ele pode te ajudar
+
+## Almas Caridosas
+
+* Autor Original - Anônimo (2010)
+* Anselmo Luiz Éden Battisti - http://lattes.cnpq.br/6937214674204474
