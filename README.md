@@ -162,6 +162,28 @@ fome, procure os murais do Instituto, procure os professores individualmente, pr
 
 * Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
 
+## Seu Orientador 
+
+* Você precisa de um orientador para fazer a dissertação ou a tese.
+
+* Os professores tem um limite de alunos que eles podem orientador por período, regra do programa, então o ideal é conversar com um professor antes de começar o mestrado se ele terá vaga para orietnando quando for a sua vez de escrever a dissertação ou tese.
+
+* Seu orientador provavelmente não estudou no IC e muitas vezes é um professor novo na casa, por conta disso geralmente ele não conhece todas as regras do programa. Leia o manual!
+
+* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele, imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Então, não ia funcionar né, é VOCÊ que se alinha com a pesquisa do orientador e não o contrário.
+
+* Seu orientador é um cara ocupado, para saber o que ele já pesquisou vá até o lattes dele, veja o que ele já publicou.
+
+* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele.
+
+* Cada orientador tem um perfil de trabalho, pense muito bem se o seu perfil de trabalho é parecido com o perfil de professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do Whats.
+
+* Seu orientador não seu inimigo e nem seu amigo (Isso pode ocorrer com o tempo). Ele é um colega de trabalho, da mesma forma que você tem seus objetivos (termianr o mestrado/doutorado) pesquisa ele tem os dele, tenha sempre isso em mente.
+
+* Uma coisa IMPORTANTE, existem professores em vias de se aposentar, veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
+
+* Antes de mandar um e-mail para o seu orientador se pergunte, eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no google?
+
 ## A Pesquisa
 
 * No primeiro semestre foque nas disciplinas, se você não passar nas disciplinas você não chegará na pesquisa.
