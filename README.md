@@ -182,22 +182,17 @@ Dado todos os avisos, vamos começar com o .....
 
 ## Dica de Como Escolher Disciplinas 
 
-Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma)
+Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma) 2 - Obrigatória pelo curso, 1 - Obrigatória pela área, 3 - Tópicos Avançados (Máximo 3) e 2 - "Aleatórias"
 
-OC = 2 - Obrigatória pelo curso 
-OA = 1 - Obrigatória pela área 
-TA = 3 - Tópicos Avançados (Máximo 3)
-AL = 2 - "Aleatórias"
+As disciplinas obrigatórias pelo curso são:  
 
-Disciplinas OC - Obrigatórias pelo custo - MÍNIMO DUAS
-=========================================
 * Análise e Síntese de Algoritmos
 * Estrutura de Dados e Algoritmos
 * Sistemas de Computação
 * Teoria da Computação
 * Tratamento de Incertezas
 
-Por exmeplo, se você está na área de Sistemas de Computação então você tem que fazer uma das disciplinas abaixo, obrigarotiamente:
+Se você está na área de Sistemas de Computação então você tem que fazer uma das disciplinas abaixo, obrigarotiamente:
 
 * Algoritmos Distribuídos
 * Algoritmos Paralelos
@@ -208,9 +203,9 @@ Por exmeplo, se você está na área de Sistemas de Computação então você te
 
 Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
 
-* Antes de escolher a discplina acesse o ementário do programa, lá tem informação sobre o que cada disciplina te ensinará http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf
+* Antes de escolher a disciplina acesse o ementário do programa, lá tem informação sobre o que cada disciplina te ensinará http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf
 
-* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação
+* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação, isso ocorre geralmente com os tópicos especiais
 
 * Por fim, se a dúvida ainda persistir fale com o seu orientador (caso já tenha) ou com o professor da disciplina.
 
