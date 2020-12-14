@@ -230,9 +230,9 @@ Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/
 
 * Cada orientador tem um perfil de trabalho, pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do Whats.
 
-* Seu orientador não é seu inimigo e nem seu amigo, ele é um colega de trabalho, da mesma forma que você tem seus objetivos (terminar o mestrado/doutorado) ele têm os dele. Tenha sempre isso em mente e tudo dará certo. 
+* Seja profissinal com seu orientador. 
 
-* Seu orientador não vai pegar leve com você. Ele quer bons orientandos que produzam bons trabalhos.Você acha que ele vai gastar tempo te orientando para que?
+* Seu orientador não vai pegar leve com você. Ele quer bons orientandos que produzam bons trabalhos.
 
 * Uma coisa IMPORTANTE, existem professores em vias de se aposentar, veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
 
