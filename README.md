@@ -1,4 +1,9 @@
-Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado e doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/BR. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida desagradável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
+Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado e doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/BR. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
+
+Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF
+99 dicas úteis – O GUIA DEFINITIVO *. 
+
+O documento original é esse aqui: 
 
 *ATENÇÃO*
 
@@ -15,6 +20,8 @@ Dado todos os avisos, vamos começar com o .....
 ## Você é o seu maior ativo
 
 * Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões do mestrado, manterá a forma e não ficará maluco. 
+
+* Apesar disso, você não é especial para os outros, então se cuide, você está por sua conta e risco. É perigoso lá fora..pegue esse pokemon e vá!
 
 * Pense seriamente em gastar uma parte da sua bolsa com plano de saúde, pode ser uma boa.
 
