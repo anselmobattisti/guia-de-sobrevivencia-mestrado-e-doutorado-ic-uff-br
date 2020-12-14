@@ -1,7 +1,7 @@
 ## Introdução
 
 <p align="center">
-  <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia.jpg" />
+  <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
 </p>
 
 
