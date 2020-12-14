@@ -23,17 +23,17 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 
 Dado todos os avisos, vamos começar com o .....
 
-# Guia Informal de Sobrevivência do Mestrando e Doutorando no ICC/UFF/BR
+# Guia Informal de Sobrevivência ao Mestrando e Doutorando no ICC/UFF/BR
 
-## Você é o seu maior ativo
+## Você é o Seu Maior Ativo!
 
 * Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões do mestrado, manterá a forma e não ficará maluco. 
 
-* Apesar disso, você não é especial para os outros, então se cuide, você está por sua conta e risco. É perigoso lá fora..pegue esse pokemon e vá!
+* Apesar disso, você não é especial para os outros, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
 
-* Pense seriamente em gastar uma parte da sua bolsa com plano de saúde, pode ser uma boa.
+* Pense seriamente em gastar uma parte da sua bolsa com plano de saúde.
 
-* Seguro de viagem não é algo opcional, se for viajar pra fora do Brasil, faça o seguro, acredite, isso literealmente pode salvar sua vida.
+* Seguro de viagem NÃO é algo opcional, se for viajar pra fora do Brasil então, ai que é vida ou morte mesmo! Faça o seguro, acredite, isso literealmente pode salvar sua vida.
 
 ## Informações Oficiais
 
@@ -41,7 +41,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * E-mail para pedir informações: secretaria.pos@ic.uff.br (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
 
-* Nesta página estão às atas e documentos importantes da Pós-Graduação, acesse-as regularmente: http://www.ic.uff.br/PosGraduacao/regras_e_procedimentos.php 
+* Nesta página estão as regras e procedimentos do programa. Pelo amor de Deus, leia isso aqui, http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos não adianta reclamar do jogo se nem ao menos você leu as regras!
 
 * As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante! 
 
