@@ -1,1 +1,1 @@
-# guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br
+# Guia Informal de Sobrevivência do Mestrando e Doutorando no ICC/UFF/BR
