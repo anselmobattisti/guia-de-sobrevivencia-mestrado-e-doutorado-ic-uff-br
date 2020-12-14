@@ -1,3 +1,4 @@
+## Introdução
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado e doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/BR. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
 Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF
@@ -5,13 +6,17 @@ Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas
 
 O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf
 
-*ATENÇÃO*
+### ATENÇÃO
 
 * ESSE É UMA GUIA INFORMAL
 * O IC/UFF/BR NÃO TEM NENHUMA RESPOSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
 * LEIA POR SUA CONTA E RISCO
-* PARA CONTRIBUIR BASTA MANDAR UM PULL REQUEST 
+
+### Como Posso Contriduir?
+
+* Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
+* Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request que ele será inserido neste guia. Se você não como fazer isso, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
 
 Dado todos os avisos, vamos começar com o .....
 
