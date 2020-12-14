@@ -91,7 +91,7 @@ fome, procure os murais do Instituto, procure os professores individualmente, pr
 
 * Não existe um caixa eletrônico do Banco do Brasil dentro do campus da praia vermelha, isso é bem triste. Talvez o caixa mais próximo, fique dentro do supermercado SENDAS no ingá.
 
-* No mestrado, você deve cursar no mínimo duas disciplinas básicas, uma da linha de pesquisa, e no máximo 3 disciplinas de tópicos avançados. Dica: no segundo semestre Utilize a disciplina de estudo orientado, vale a pena. 
+* No mestrado, você deve cursar no mínimo duas disciplinas básicas, uma da linha de pesquisa, e no máximo 3 disciplinas de tópicos avançados. 
 
 * Você é bolsista da CAPES? Tenho quase certeza que você é obrigado a cursar 4 disciplinas por período.
 
@@ -154,8 +154,6 @@ fome, procure os murais do Instituto, procure os professores individualmente, pr
  
 * No estágio de docência você não deverá substituir o professor, mas sim apoiá-lo
 
-* Existe uma disciplina que vale créditos, chamada Estudo Orientado, você pode usá-la ao seu favor para pesquisar coisas relacionadas ao seu tema de dissertação ou tese, converse com seu orientador, um plano de trabalho deve ser apresentado na secretária da pós-graduação, no ato da inscrição. 
-
 * Mesmo tendo acabado as disciplinas, você também precisa se matricular numa disciplina chamada dissertação
 
 * Se você não estiver gostando de uma disciplina você pode cancelar esta disciplina, isso não é uma boa prática, converse com o professor responsável pela disciplina, antes de se inscrever. 
@@ -188,12 +186,13 @@ fome, procure os murais do Instituto, procure os professores individualmente, pr
 
 * No primeiro semestre foque nas disciplinas, se você não passar nas disciplinas você não chegará na pesquisa.
 
-* No segundo semestre, tente fazer um estudo orientado com seu provável orientador, isso pode adiantar a sua pesquisa em seis mêses.
+* No segundo semestre, tente fazer um estudo orientado com seu provável orientador, isso pode adiantar a sua pesquisa em seis mêses. Estudo orientado conta como disciplina! 
+
+* O Estudo Orientado é uma pesquisa sobre o seu tema de dissertação ou tese, converse com seu orientador, um plano de trabalho deve ser apresentado na secretária da pós-graduação, no ato da inscrição. 
 
 * Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação! 
 
-* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de
-Dados), se você é aluno regular, você deve ter carteirinha, se você é aluno especial, consiga uma declaração na secretária da pós
+* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de Dados), se você é aluno regular, você deve ter carteirinha, se você é aluno especial, consiga uma declaração na secretária da pós
 
 *  Agende reuniões semanais com seu orientador, isso vai ajudar a você a não se perder, de preferência no mesmo horário em um dia fixo
 
