@@ -5,7 +5,7 @@
 </p>
 
 
-Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado e doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/BR. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
+Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
 Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF
 99 dicas úteis – O GUIA DEFINITIVO *. 
@@ -18,16 +18,19 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 * O IC/UFF/BR NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
 * LEIA POR SUA CONTA E RISCO
-* Se achou algo errado, incosistente por favor ajude a corrigir
+* Se achou algo errado, inconsistente por favor ajude a corrigir
 
 ### Como Posso Contriduir?
 
 * Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
-* Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request que ele será inserido neste guia. Se você não como fazer isso, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
+
+* Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request. Se você não como fazer isso, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
+
+* Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom :)!
 
 Dado todos os avisos, vamos começar com o .....
 
-# Guia Informal de Sobrevivência ao Mestrando e Doutorando no ICC/UFF/BR
+# Guia Informal de Sobrevivência do Mestrando/Doutorando no ICC/UFF/BR
 
 ## Você é o Seu Maior Ativo!
 
