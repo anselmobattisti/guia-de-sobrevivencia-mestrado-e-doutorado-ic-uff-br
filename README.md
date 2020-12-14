@@ -52,7 +52,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
 
-* Os alunos da pós-graduação possuem um representante perante ao colegiado, certifique-se que você o conhece, ele é seu representante. Atualmente ele é o XXXXXXXXXXXXXX
+* Os alunos da pós-graduação possuem um representante perante ao colegiado, certifique-se que você o conhece, ele é seu representante. Atualmente ela é a Mônica da Silva (2020)
 
 ## O Ingresso 
 
