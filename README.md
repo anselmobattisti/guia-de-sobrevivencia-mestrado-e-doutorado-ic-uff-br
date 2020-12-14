@@ -3,7 +3,7 @@ Saudações pequeno gafanhoto, se você chegou até aqui isso significa que voc�
 Essas dicas começaram a ser escritas por alguém em 2010, não sei quem foi mas o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF
 99 dicas úteis – O GUIA DEFINITIVO *. 
 
-O documento original é esse aqui: 
+O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf
 
 *ATENÇÃO*
 
