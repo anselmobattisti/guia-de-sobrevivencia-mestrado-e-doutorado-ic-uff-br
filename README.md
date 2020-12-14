@@ -55,15 +55,17 @@ Dado todos os avisos, vamos começar com o .....
 
 * Site oficial: http://www.ic.uff.br/index.php/pt/pos-graduacao
 
-* E-mail para pedir informações: secretaria.pos@ic.uff.br (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
+* E-mail para pedir informações:  (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
+
+<p align="center">
+  <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
+</p>
 
 * Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte!
 
 * As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante!
 
 ## Comunidade Acadêmica
-
-* Quer falar algo para todos? "Alunos da Pós Graduação (IC/UFF)" <posgrad@ic.uff.br>,"Professores da Pós Graduação (IC/UFF)" <profspg@ic.uff.br>, . Essa é a lista dos alunos, é bastante interessante, e pode gerar ótimas discussões
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
 
