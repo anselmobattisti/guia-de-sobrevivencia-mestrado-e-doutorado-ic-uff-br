@@ -34,13 +34,13 @@ Dado todos os avisos, vamos começar com o .....
 
 ## Você é o Seu Maior Ativo!
 
-* Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões do mestrado, manterá a forma e não ficará maluco. 
+* Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo). 
 
-* Apesar disso, você não é especial para os outros, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
+* Tendo isso em mente, acredite, você não é especial para os outros, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
 
-* Pense seriamente em gastar uma parte da sua bolsa com plano de saúde.
+* Pense seriamente em gastar uma parte da sua bolsa com plano de saúde / academia.
 
-* Seguro de viagem NÃO é algo opcional, se for viajar pra fora do Brasil então, ai que é vida ou morte mesmo! Faça o seguro, acredite, isso literealmente pode salvar sua vida.
+* Seguro de viagem NÃO é algo opcional quando se viaja pra fora do Brasil! Faça o seguro, acredite, isso literealmente pode salvar sua vida.
 
 ## Informações Oficiais
 
@@ -50,7 +50,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte!
 
-* As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante! 
+* As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante!
 
 # Comunidade Acadêmica
 
@@ -58,7 +58,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
 
-* Os alunos da pós-graduação possuem um representante perante ao colegiado, certifique-se que você o conhece, ele é seu representante. Atualmente ela é a Mônica da Silva (2020)
+* Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020)
 
 ## O Ingresso 
 
@@ -70,20 +70,23 @@ Dado todos os avisos, vamos começar com o .....
 
 * Você precisa de Bolsa? A cada novo período, você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria. 
 
+* Existem diversas modalidades de bolsas, algumas permitem trabalho concomitante, outras não, tome cuidado para não ter problema.
+
 # Seja Pró-ativo
 
-* Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz
+* Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz.
 
-* Quando algum colega começar a contar sobre a pesqusia dele, se você puder esute, muitas vezes falar sobre a própria pesquisa é uma boa forma de evoluir, então escute e de se puder de sugestões construtivas.
+* Quando algum colega começar a contar sobre a pesqusia dele, se você puder esute. Muitas vezes falar sobre a própria pesquisa é uma boa forma de evoluir, então escute a pesquisa dos colegas e se puder de sugestões construtivas.
+
+* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas, geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe, todo filho é bonito, entendeu?
 
 * Mantenha atualizado o seu currículo lattes, todas as pessoas da academia utilizam ele sempre.
 
-* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de
-fome, procure os murais do Instituto, procure os professores individualmente, provavelmente eles terão algum projeto para você trabalhar. Se você não se esforçar, uma bolsa não cairá do céu para você. Não adianta olhar pro céu, com muita fé e pouca luta. 
+* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome, procure os murais do Instituto, procure os professores individualmente, provavelmente eles terão algum projeto para você trabalhar. Se você não se esforçar, uma bolsa não cairá do céu para você. Não adianta olhar pro céu, com muita fé e pouca luta. 
 
 * Crie um blog ou um canal do youtube com a sua pesquisa, é uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
 
-* Se não souber de algo, não fique na dúvida. PERGUNTE! e compartilhe informações, você poderá ajudar o seu colega.
+* Se não souber de algo, não fique na dúvida. PERGUNTE! e compartilhe informações, você poderá ajudar o seu colega. É exatamente isso que este manual faz.
 
 ## Por Onde Começo
 
