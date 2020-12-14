@@ -1,6 +1,4 @@
-<p style="text-align:center">
- <img width="10%" src="./img/capa.PNG" />
- </p>
+<img width="10%" src="./img/capa.PNG" />
 
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado e doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/BR. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
