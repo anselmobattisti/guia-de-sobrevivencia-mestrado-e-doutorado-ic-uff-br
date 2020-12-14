@@ -1,6 +1,6 @@
 ## Introdução
 
-<img width="10%" src="./img/guia.PNG" />
+<img width="10%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia.jpg" />
 
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado e doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/BR. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
@@ -42,7 +42,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * E-mail para pedir informações: secretaria.pos@ic.uff.br (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
 
-* Nesta página estão as regras e procedimentos do programa. Pelo amor de Deus, leia isso aqui, http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos não adianta reclamar do jogo se nem ao menos você leu as regras!
+* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte!
 
 * As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante! 
 
