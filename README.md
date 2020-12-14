@@ -12,9 +12,10 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 ### ATENÇÃO
 
 * ESSE É UMA GUIA INFORMAL
-* O IC/UFF/BR NÃO TEM NENHUMA RESPOSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
+* O IC/UFF/BR NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
 * LEIA POR SUA CONTA E RISCO
+* Se achou algo errado, incosistente por favor ajude a corrigir
 
 ### Como Posso Contriduir?
 
