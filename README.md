@@ -183,6 +183,24 @@ Dado todos os avisos, vamos começar com o .....
 
 * Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
 
+## Seminários
+
+* Aqui na UFF existe uma "disciplina" chamada seminários, ela não conta crédito mas você é obrigado a fazer.
+
+* Ela tem que ser feita até o término das disciplinas normais. No caso do mestrado você pode fazer ou no primeiro ou no segundo semestre, recomendo fazer no primeiro semestre como forma de conhecer o pessoal da UFF.
+
+* Essa disciplina é composta por diversas apresentaçõees feitas por pesquisadores tanto da UFF como visitantes. É muito bom para achar temas de pesquisa ou conhecer mais sobre os demais grupos de pesquisa da UFF.
+
+* Se você tiver 100% de frequência em alguns cursos específicos da escola de verão ou de inverno você pode pedir dispensa dos seminários.
+
+* Se você é aluno novo no programa eu recomendo que você faça, gera um ótimo network. Eu conheci minha orientadora de doutorado em um seminário.
+
+* Seminário não tem nota, ou vc é aprovado ou reprovado, a aprovação depende da presença no seminário.
+
+* No modo presencial tem que assinar um livro de chamada, a tolerância de atraso é de 15 minutos, não tem o que fazer, se chegou atrasado perde o ponto.
+
+* No modo online são 10 seminários que devem ser assistidos para ser aprovado.
+
 ## Dica de Como Escolher Disciplinas 
 
 Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma) 2 - Obrigatória pelo curso, 1 - Obrigatória pela área, 3 - Tópicos Avançados (Máximo 3) e 2 - "Aleatórias"
