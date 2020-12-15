@@ -340,6 +340,8 @@ deixem assinado essa papelada para você, evitando contratempos.
 * Você é aluno especial? Tire notas boas e faça por merecer, isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
 realmente se esforçando. 
 
+* Se você é um aluno especial procure fazer trabalhos em grupo com aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. 
+
 ## 👨‍💻 Softwares Importantes 
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
