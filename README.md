@@ -300,7 +300,7 @@ da sua casa, apenas configurando seu navegador.
 
 * Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda, utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
 
-## 🙏 Dicas para a Defesa
+## 🏁 Dicas para a Defesa
 
 * Antes de defender, você precisa enviar uma cópia da sua dissertação pra cada membro da banca com NO MINIMO 15 DIAS DE ANTECEDENCIA. (USE O LATEX!), envie a versão eletrônica também em formato PDF
 
@@ -329,7 +329,7 @@ deixem assinado essa papelada para você, evitando contratempos.
 
 * Não se esqueça de se inscrever na lista de discussão da SBC, é básico para todo acadêmico. 
 
-## 🏁 Onde Comer?
+## 🍲 Onde Comer?
 
 * Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é selfservice, e você pode almoçar por lá, existe também o bandejão, detalhe: tickets não são vendidos ali, portanto, compre seus tickets no devido lugar.
 
