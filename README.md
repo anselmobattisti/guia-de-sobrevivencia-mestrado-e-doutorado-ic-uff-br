@@ -20,7 +20,7 @@ Essas dicas começaram a ser escritas por alguém em 2010 (o principal suspeito 
 
 O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf
 
-### ATENÇÃO
+### 🚩 ATENÇÃO
 
 * ESSE É UMA GUIA INFORMAL
 * O IC/UFF/BR NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
@@ -29,7 +29,7 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 * LEIA POR SUA CONTA E RISCO
 * Se achou algo errado, inconsistente por favor ajude a corrigir
 
-### Como Posso Contriduir?
+### 🦮 Como Posso Contriduir?
 
 * Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
@@ -41,7 +41,7 @@ Dado todos os avisos, vamos começar com o .....
 
 # Guia Informal de Sobrevivência do Mestrando/Doutorando no ICC/UFF/BR
 
-## Você é o Seu Maior Ativo!
+## 😀 Você é o Seu Maior Ativo!
 
 * Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo). 
 
@@ -51,7 +51,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Seguro de viagem NÃO é algo opcional quando se viaja pra fora do Brasil! Faça o seguro, acredite, isso literealmente pode salvar sua vida.
 
-## Informações Oficiais
+## 🧙 Informações Oficiais
 
 * Site oficial: http://www.ic.uff.br/index.php/pt/pos-graduacao
 
@@ -65,25 +65,25 @@ Dado todos os avisos, vamos começar com o .....
 
 * As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante!
 
-## Comunidade Acadêmica
+## 🧑‍🤝‍🧑 Comunidade Acadêmica
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
 
 * Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020)
 
-## O Ingresso 
+## 💪 O Ingresso 
 
 * Ao se inscrever no mestrado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
 
 * Se você é aluno regular, você pode pegar sua carteirinha de estudante na secretaria, ela te dará muitos privilégios em : teatros, cinemas e shows, e o mais importante, te permitirá alugar livros na biblioteca!
 
-## Bolsas 
+## 🤑 Bolsas 
 
 * Você precisa de Bolsa? A cada novo período, você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria. 
 
 * Existem diversas modalidades de bolsas, algumas permitem trabalho concomitante, outras não, tome cuidado para não ter problema.
 
-## Seja Pró-ativo
+## 😎 Seja Pró-ativo
 
 * Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz.
 
@@ -99,7 +99,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Se não souber de algo, não fique na dúvida. PERGUNTE! e compartilhe informações, você poderá ajudar o seu colega. É exatamente isso que este manual faz.
 
-## Informações Gerais
+## 📄 Informações Gerais
 
 * Se você não poder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega, ele poderá fazer a inscrição nas disciplinas pra você, geralmente as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
 
@@ -115,7 +115,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Você é bolsista da CAPES? Tenho quase certeza que você é obrigado a cursar 4 disciplinas por período.
 
-## O que pode me fazer ser desligado do programa
+## 😞 O que pode me fazer ser desligado do programa
 
 * Certifique-se que você ficou com média superior a 6 em todos os períodos, caso contrário você será desligado sem choro nem vela.
 
@@ -123,7 +123,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Se você for reprovado duas vezes em disciplinas ou em uma mesma disciplina, você também será desligado
 
-## Laboratórios e Espaço Físico
+## 🧪 Laboratórios e Espaço Físico
 
 * Se uma máquina no lab estiver ligada não mexa, você pode estar atrapalhando a pesquisa de alguém.
 
@@ -145,7 +145,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Se você precisar utilizar a sala de seminários, agende com antecedência da secretária da pós-graduação.
 
-## As Disciplinas 
+## 📚 As Disciplinas 
 
 * Evite fazer duas discipinas básicas no mesmo semestre, elas geralmente são puxadas e você pode acabar tendo problemas.
 
@@ -181,7 +181,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
 
-## Seminários
+## 🧑‍🏫 Seminários
 
 * Se você é bolsista, você deverá ir a todos os seminários, na verdade, todos deveriam ir, lá aparece oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto.
 
@@ -201,7 +201,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * No modo online são 10 seminários que devem ser assistidos para ser aprovado.
 
-## Dica de Como Escolher Disciplinas 
+## 💁 Dica de Como Escolher Disciplinas 
 
 Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma) 2 - Obrigatória pelo curso, 1 - Obrigatória pela área, 3 - Tópicos Avançados (Máximo 3) e 2 - "Aleatórias"
 
@@ -230,7 +230,7 @@ Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/
 
 * Por fim, se a dúvida ainda persistir fale com o seu orientador (caso já tenha) ou com o professor da disciplina.
 
-## Seu Orientador 
+## 👨‍🏫 Seu Orientador 
 
 * Você necessariamente precisa de um orientador para fazer a dissertação ou tese.
 
@@ -256,7 +256,7 @@ Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/
 
 * Antes de mandar um e-mail para o seu orientador se pergunte, eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no google?
 
-## A Pesquisa
+## ✍ A Pesquisa
 
 * No primeiro semestre foque nas disciplinas, se você não passar nas disciplinas você não chegará na pesquisa.
 
@@ -300,7 +300,7 @@ da sua casa, apenas configurando seu navegador.
 
 * Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda, utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
 
-## Dicas para a Defesa
+## 🙏 Dicas para a Defesa
 
 * Antes de defender, você precisa enviar uma cópia da sua dissertação pra cada membro da banca com NO MINIMO 15 DIAS DE ANTECEDENCIA. (USE O LATEX!), envie a versão eletrônica também em formato PDF
 
@@ -321,7 +321,7 @@ deixem assinado essa papelada para você, evitando contratempos.
 
 * Na banca do mestrado, você precisará de um membro externo que não seja da UFF, informe também um suplente, isso pode salvar seu dia da defesa, no caso de algum membro da banca ter um contratempo. 
 
-## Eventos 
+## 🎫 Eventos 
 
 * Se qualquer evento foi marcado por exemplo, as 14:00, você tem permissão de chegar alguns minutos atrasados, nada começa exatamente no horário em uma cidade grande como Niterói ou Rio de Janeiro. 
 
@@ -329,18 +329,18 @@ deixem assinado essa papelada para você, evitando contratempos.
 
 * Não se esqueça de se inscrever na lista de discussão da SBC, é básico para todo acadêmico. 
 
-## Onde Comer?
+## 🏁 Onde Comer?
 
 * Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é selfservice, e você pode almoçar por lá, existe também o bandejão, detalhe: tickets não são vendidos ali, portanto, compre seus tickets no devido lugar.
 
 * O restaurante do Luiz abre as 11:30, se você for lá nesse horário, não estará um tumulto de gente por lá, e a comida ainda estará bastante apresentável. Se você for rico, vá ao restaurante do Jambeiro em frente a entrada da UFF. 
 
-## Aluno Especial 
+## 🚸 Aluno Especial 
 
 * Você é aluno especial? Tire notas boas e faça por merecer, isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
 realmente se esforçando. 
 
-## Softwares Importantes 
+## 👨‍💻 Softwares Importantes 
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
 
@@ -348,13 +348,13 @@ realmente se esforçando.
 
 * Se for escrever sua dissertação ou tese usando o LaTex recomendo o uso do https://www.overleaf.com/
 
-# Isso aqui vale ainda????
+# 🤷🏻 Isso aqui vale ainda????
 
 * No andar inferior ao Instituto existe uma copiadora, lá você pode conseguir muitos materiais interessantes.
 
 * No aeroporto do galeão, existe um ônibus chamado GALEÃO – 998, que você pode pegar no EMBARQUE, e ele de deixará em Icaraí, Centro, Ingá por uma bagatela se comparado ao preço de um taxi. Se você não tem carro, e vai sair de férias, você pode pegá-lo na praia em Icaraí. Use sempre o Google Maps, ele pode te ajudar
 
-# Almas Caridosas Quem Escreveram Esse Documento
+# 👻 Almas Caridosas Quem Escreveram Esse Documento
 
 *Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
 
