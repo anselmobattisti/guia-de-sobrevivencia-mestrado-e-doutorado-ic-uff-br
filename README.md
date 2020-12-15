@@ -143,7 +143,7 @@ Dado todos os avisos, vamos começar com o .....
 
 * Se você precisar entrar no Instituto de Computação durante final de semana e feriados, você pode deixar seu nome na secretária da pósgraduação, eles irão fazer uma lista com as pessoas autorizadas a entrar durante o final de semana, o guardinha terá essa lista, apresente seu documento, e você terá livre acesso para trabalhar no FDS! Sem autorização, sem acesso as instalações do IC.
 
-* Se você precisar utilizar a sala de seminários, agende com antecedência da secretária da pós-graduação, solicite também o agendamento do Datashow, você pode ter a sala alocada, mas não ter o Datashow. 
+* Se você precisar utilizar a sala de seminários, agende com antecedência da secretária da pós-graduação.
 
 ## As Disciplinas 
 
@@ -162,8 +162,6 @@ Dado todos os avisos, vamos começar com o .....
 * A nota mínima para ser aprovado é 6.0, mas a realidade é dura e vocÊ terá que buscar pelo 7.0, no mínimo.
 
 * Diferentemente do ensino fundalmentel e médio que você é aprovado por participação, na pós a  taxa de reprovação em algumas disciplinas é alta. Alguns exemplos são: Estrutura de Dados, Sistemas de Computação, ASA. Não basta assistir as aulas e ser um cara legal, tem que fazer a coisa acontecer, estude.
-
-* Se você é bolsista, você deverá ir a todos os seminários, na verdade, todos deveriam ir, lá aparece oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto. A frequência é controlada por um livro de presença.
 
 * Quando você for se inscrever nas disciplinas do mestrado ou do doutorado, lembre-se que antes de entregar sua inscrição, o seu orientador precisa assinar a inscrição em cada disciplina, no mesmo formulário da sua inscrição
 
@@ -184,6 +182,8 @@ Dado todos os avisos, vamos começar com o .....
 * Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
 
 ## Seminários
+
+* Se você é bolsista, você deverá ir a todos os seminários, na verdade, todos deveriam ir, lá aparece oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto.
 
 * Aqui na UFF existe uma "disciplina" chamada seminários, ela não conta crédito mas você é obrigado a fazer.
 
