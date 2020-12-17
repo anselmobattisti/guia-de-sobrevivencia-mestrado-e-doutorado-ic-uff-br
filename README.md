@@ -1,4 +1,4 @@
-## Introdução
+# Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR
 
 <p align="center">
   <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
@@ -11,6 +11,8 @@
 ```diff
 + Feito com ❤️, de aluno para aluno.
 ```
+
+## Introdução
 
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
@@ -27,7 +29,7 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
 * AS REGRAS MUDAM ENTÃO SEMPRE FIQUE ATENTO AS ATAS DE REUNIÃO DE DEPARTAMENTO
 * LEIA POR SUA CONTA E RISCO
-* Se achou algo errado, inconsistente por favor ajude a corrigir
+* Se achou algo errado ou inconsistente, por favor ajude na correção deste documento
 
 ### 🦮 Como Posso Ajudar?
 
@@ -37,15 +39,13 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 
 * Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom :)!
 
-Dado todos os avisos, vamos começar com o .....
-
-# Guia Informal de Sobrevivência do Mestrando/Doutorando no ICC/UFF/BR
+Dado todos os avisos, vamos começar com o você, isso mesmo.
 
 ## 😀 Você é o Seu Maior Ativo!
 
 * Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo). 
 
-* Tendo isso em mente, acredite, você não é especial para os outros, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
+* Tendo isso em mente, acredite nessa palavras, a pessoa que mais deveria se importa com você é  você mesmo, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
 
 * Pense seriamente em gastar uma parte da sua bolsa com plano de saúde / academia.
 
@@ -69,7 +69,9 @@ Dado todos os avisos, vamos começar com o .....
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
 
-* Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020)
+* Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020).
+
+* Seja sempre legal com seus colegas no IC. Existe uma chance muito grande de você trabalhar com algum dos seus colegas no futuro.
 
 ## 💪 O Ingresso 
 
@@ -77,11 +79,15 @@ Dado todos os avisos, vamos começar com o .....
 
 * Se você é aluno regular, você pode pegar sua carteirinha de estudante na secretaria, ela te dará muitos privilégios em : teatros, cinemas e shows, e o mais importante, te permitirá alugar livros na biblioteca!
 
+* Fique atento aos prazos, se você perder algum prazo a chance de você ter problema é grande. Fique alerta escoteiro.
+
 ## 🤑 Bolsas 
 
 * Você precisa de Bolsa? A cada novo período, você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria. 
 
 * Existem diversas modalidades de bolsas, algumas permitem trabalho concomitante, outras não, tome cuidado para não ter problema.
+
+* Você pode perder sua bolsa se seu resultado acadêmico for ruim, portanto, se você é bolsista você tem que ralar muito.
 
 ## 😎 Seja Pró-ativo
 
