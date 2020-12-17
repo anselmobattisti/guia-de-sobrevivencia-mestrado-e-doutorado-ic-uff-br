@@ -29,7 +29,7 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 * LEIA POR SUA CONTA E RISCO
 * Se achou algo errado, inconsistente por favor ajude a corrigir
 
-### 🦮 Como Posso Contriduir?
+### 🦮 Como Posso Ajudar?
 
 * Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
@@ -340,7 +340,9 @@ deixem assinado essa papelada para você, evitando contratempos.
 * Você é aluno especial? Tire notas boas e faça por merecer, isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
 realmente se esforçando. 
 
-* Se você é um aluno especial procure fazer trabalhos em grupo com aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. 
+* Se você é um aluno especial procure fazer trabalhos em grupo com outro aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. Caso faça grupo com um aluno regular você tem a obrigação moral de não desistir do curso para não prejudicar o colega.
+
+* A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre, ou seja, se você está como aluno especial e quer ser um aluno regular então você precisa se inscrever no processo de seleção no respectivo semestre e^, se você for aprovado você entrará como aluno regular no próximo semestre.
 
 ## 👨‍💻 Softwares Importantes 
 
