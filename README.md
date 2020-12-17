@@ -344,6 +344,8 @@ realmente se esforçando.
 
 * A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre, ou seja, se você está como aluno especial e quer ser um aluno regular então você precisa se inscrever no processo de seleção no respectivo semestre e^, se você for aprovado você entrará como aluno regular no próximo semestre.
 
+* As datas de selção sempre estão no site do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/resultados-de-selecoes
+
 ## 👨‍💻 Softwares Importantes 
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
