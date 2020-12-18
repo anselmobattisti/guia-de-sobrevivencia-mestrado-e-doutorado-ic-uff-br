@@ -211,13 +211,17 @@ Dado todos os avisos, vamos começar com o você, isso mesmo.
 
 Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma) 2 - Obrigatória pelo curso, 1 - Obrigatória pela área, 3 - Tópicos Avançados (Máximo 3) e 2 - "Aleatórias"
 
-As disciplinas obrigatórias pelo curso são:  
+As disciplinas obrigatórias pelo curso são:
 
 * Análise e Síntese de Algoritmos
 * Estrutura de Dados e Algoritmos
 * Sistemas de Computação
 * Teoria da Computação
 * Tratamento de Incertezas
+
+Mais detalhes podem ser vistos aqui: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-do-curso-de-mestrado
+
+As disciplinas obrigatórias por área podem ser encontradas aqui: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-da-area-de-concentracao
 
 Se você está na área de Sistemas de Computação então você tem que fazer uma das disciplinas abaixo, obrigarotiamente:
 
