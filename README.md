@@ -5,7 +5,7 @@
 </p>
 
 ```diff
-- Cuidado, você poderá ler neste documento algumas verdades inconvenientes.
+- Cuidado, você poderá ler neste documento algumas coisas inconvenientes.
 ```
 
 ```diff
@@ -14,9 +14,9 @@
 
 ## Introdução
 
-Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
+Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC/UFF está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
 
-No Brasil a CAPES atribui notas aos programas de mestrado e doutorado. A nota varia entre 3 e 7, sendo 3 um programa novo e com pouca expressividade e 7 um programa nível internacional. O IC/UFF é nível 6, são poucos os programas de computação que tem esse nível no Brasil. Essa nota foi conquistado com MUITO esforço por todos os que compõem o programa: Professora, Alunos e Técnicos. Por conta disso, saiba que em seus ombros "isso mesmo você que está lendo isso" também está a responsabilidade de não apenas manter a notas 6 mas produzir o máximo que der para ajudar o programa a chegar na nota 7. O bastão está em suas mãos, não pare de correr meu jovem! 
+No Brasil a CAPES atribui notas aos programas de mestrado e doutorado. A nota varia entre 3 e 7, sendo 3 um programa novo e com pouca expressividade e 7 um programa nível internacional. O IC/UFF é nível 6, são poucos os programas de computação que tem esse nível no Brasil. Essa nota foi conquistado com MUITO esforço por todos os que compõem o programa (geralmente na academia abrevia-se 'programa de pós-graduação' para 'programa'): Professora, Alunos e Técnicos. Por conta disso, saiba que em seus ombros, isso mesmo você que está lendo, também está a responsabilidade de não apenas manter a notas 6 mas produzir o máximo que der para ajudar o programa a chegar no tão almejado 7. O bastão está em suas mãos, não pare de correr meu jovem! 
 
 Essas dicas começaram a ser escritas por alguém em 2010 (o principal suspeito é o Gabriel Gazolla, mas não temos certeza), o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF - 99 dicas úteis – O GUIA DEFINITIVO *. 
 
@@ -25,25 +25,24 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 ### 🚩 ATENÇÃO
 
 * ESSE É UMA GUIA INFORMAL
-* O IC/UFF/BR NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
+* O IC/UFF NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
-* AS REGRAS MUDAM ENTÃO SEMPRE FIQUE ATENTO AS ATAS DE REUNIÃO DE DEPARTAMENTO
+* AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO, ENTÃO SEMPRE FIQUE ATENTO AS ATAS DE REUNIÃO DE DEPARTAMENTO, VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
 * LEIA POR SUA CONTA E RISCO
-* Se achou algo errado ou inconsistente, por favor ajude na correção deste documento
 
 ### 🦮 Como Posso Ajudar?
 
 * Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
-* Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request. Se você não como fazer isso, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
+* Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request. Se você não como fazer, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
 
 * Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom :)!
 
-Dado todos os avisos, vamos começar com o você, isso mesmo.
+Dado todos os avisos, vamos começar.
 
 ## 😀 Você é o Seu Maior Ativo!
 
-* Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo). 
+* Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo).
 
 * Tendo isso em mente, acredite nessa palavras, a pessoa que mais deveria se importa com você é  você mesmo, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
 
@@ -61,13 +60,15 @@ Dado todos os avisos, vamos começar com o você, isso mesmo.
   <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
 </p>
 
-* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte!
+* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte, leia o manual!
 
-* As reuniões do colegiado são feitas a cada mês, se não me engano, no fim do mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante!
+* As reuniões do colegiado são feitas a no fim de cada mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante, o pessoal do programa é muito sério e sege as regras estabelecidas, não tem 'jeitinho'!
 
 ## 🧑‍🤝‍🧑 Comunidade Acadêmica
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
+
+* O foco do grupo é discutir temas relacionados ao IC, computação, vagas de empregos, dúvidas sobre disciplinas. Evite polêmica, temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
 
 * Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020).
 
@@ -75,17 +76,17 @@ Dado todos os avisos, vamos começar com o você, isso mesmo.
 
 ## 💪 O Ingresso 
 
-* Ao se inscrever no mestrado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
+* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
 
-* Se você é aluno regular, você pode pegar sua carteirinha de estudante na secretaria, ela te dará muitos privilégios em : teatros, cinemas e shows, e o mais importante, te permitirá alugar livros na biblioteca!
+* Se você é aluno regular, você pode pegar sua carteirinha de estudante na secretaria, ela te dará muitos privilégios em: teatros, cinemas e shows, e o mais importante, te permitirá emprestar livros na biblioteca!
 
 * Fique atento aos prazos, se você perder algum prazo a chance de você ter problema é grande. Fique alerta escoteiro.
 
 ## 🤑 Bolsas 
 
-* Você precisa de Bolsa? A cada novo período, você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria. 
+* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria para que você possa concorrer. 
 
-* Existem diversas modalidades de bolsas, algumas permitem trabalho concomitante, outras não, tome cuidado para não ter problema.
+* Existem vários alunos que além de trabalharem como mestrando e doutorando ainda acumulam algum outro trabalho. Essas pessoas estão na modalidade de "Tempo parcial". Fique atento pois alguma bolsas permitem alunos em tempo parcial mas algumas são restitas aos alunos em "Tempo integral".
 
 * Você pode perder sua bolsa se seu resultado acadêmico for ruim, portanto, se você é bolsista você tem que ralar muito.
 
