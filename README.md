@@ -126,7 +126,7 @@ Dado todos os avisos, vamos começar.
 
 * Você é bolsista da CAPES? Tenho quase certeza que você é obrigado a cursar 4 disciplinas por período.
 
-## 😞 O que pode me fazer ser desligado do programa
+## 😞 O que pode me fazer ser desligado do programa?
 
 * Certifique-se que você ficou com média superior a 6 em todos os períodos, caso contrário você será desligado sem choro nem vela.
 
