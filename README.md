@@ -68,6 +68,8 @@ Dado todos os avisos, vamos começar.
 
 * Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
 
+* Temos um grupo no Telegram https://t.me/joinchat/T68Px1oIJl9YE_Gc e também um canal https://t.me/joinchat/UfHSreAHm6OPjpdA
+
 * O foco do grupo é discutir temas relacionados ao IC, computação, vagas de empregos, dúvidas sobre disciplinas. Evite polêmica, temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
 
 * Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020).
