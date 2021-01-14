@@ -74,6 +74,10 @@ Dado todos os avisos, vamos começar.
 
 * Seja sempre legal com seus colegas no IC. Existe uma chance muito grande de você trabalhar com algum dos seus colegas no futuro.
 
+* Uma forma super legal de ajudar seus colegas é preenchendo formulários de pesquisas para coleta de dados usados nas dissertações e teses. É uma troca, hoje você preenche o formulário dos colegas e depois os colegas preenchem o seu formulário.
+
+* Outra forma simples de ajudar é participar de experimentos como por exemplo testes de usabilidade de software. Ajudar os outros nas suas pesquisas é uma ótima forma de melhorar a sua própria pesquisa.
+
 ## 💪 O Ingresso 
 
 * Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
