@@ -66,7 +66,7 @@ Dado todos os avisos, vamos começar.
 
 ## 🧑‍🤝‍🧑 Comunidade Acadêmica
 
-* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V
+* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V estamos migrando para o Telegram pois gostamos de um pouco de privacidade.
 
 * Temos um grupo no Telegram https://t.me/joinchat/T68Px1oIJl9YE_Gc e também um canal https://t.me/joinchat/UfHSreAHm6OPjpdA
 
