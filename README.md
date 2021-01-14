@@ -375,7 +375,7 @@ realmente se esforçando.
 
 * No aeroporto do galeão, existe um ônibus chamado GALEÃO – 998, que você pode pegar no EMBARQUE, e ele de deixará em Icaraí, Centro, Ingá por uma bagatela se comparado ao preço de um taxi. Se você não tem carro, e vai sair de férias, você pode pegá-lo na praia em Icaraí. Use sempre o Google Maps, ele pode te ajudar
 
-# 👻 Almas Caridosas Quem Escreveram Esse Documento
+# 👻 Almas Caridosas 
 
 *Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
 
