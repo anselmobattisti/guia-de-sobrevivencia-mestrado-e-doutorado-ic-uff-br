@@ -42,9 +42,9 @@ Dado todos os avisos, vamos começar.
 
 ## 📙 Glossário
 
-* **Aluno novo**: aluno que foi aprovado no mestrado ou doutorado e iniciará sua jornada no respectivo curso. O aluno que fez mestrado no IC e foi aprovado no doutorado também é considerado aluno novo.
+* **Aluno novo**: aluno que foi aprovado no mestrado ou doutorado e iniciará sua jornada no respectivo curso. O aluno que fez mestrado no IC e foi aprovado no doutorado também é considerado aluno novo. Ou seja, ainda não tem código de matrícula.
 
-* **Aluno antigo**: aluno que já cursou o primeiro semestre do mestrado ou doutorado.
+* **Aluno antigo**: aluno que já cursou o primeiro semestre do mestrado ou doutorado. Ou seja, já tem código de matrícula.
 
 ## 😀 Você é o Seu Maior Ativo!
 
