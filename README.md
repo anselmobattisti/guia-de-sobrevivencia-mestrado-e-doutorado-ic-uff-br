@@ -40,6 +40,12 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 
 Dado todos os avisos, vamos começar.
 
+## 📙 Glossário
+
+* 'Aluno novo': aluno que foi aprovado no mestrado ou doutorado e iniciará sua jornada no respectivo curso. O aluno que fez mestrado no IC e foi aprovado no doutorado também é considerado aluno novo.
+
+* 'Aluno antigo': aluno que já cursou o primeiro semestre do mestrado ou doutorado.
+
 ## 😀 Você é o Seu Maior Ativo!
 
 * Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo).
