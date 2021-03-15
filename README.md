@@ -12,6 +12,35 @@
 + Feito com ❤️, de aluno para aluno.
 ```
 
+Sumário
+
+- [Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR](#guia-informal-de-sobrevivência-do-mestrandodoutorando-do-iciffbr)
+  - [Introdução](#introdução)
+    - [🚩 Alerta "Red Flag"](#-alerta-red-flag)
+  - [🦮 Como Posso Ajudar?](#-como-posso-ajudar)
+  - [📙 Glossário](#-glossário)
+  - [😀 Você é o Seu Maior Ativo!](#-você-é-o-seu-maior-ativo)
+  - [🧙 Informações Oficiais](#-informações-oficiais)
+  - [🧑‍🤝‍🧑 Comunidade Acadêmica](#-comunidade-acadêmica)
+  - [💪 O Ingresso](#-o-ingresso)
+  - [🤑 Bolsas](#-bolsas)
+  - [😎 Seja Pró-ativo](#-seja-pró-ativo)
+  - [📄 Informações Gerais](#-informações-gerais)
+  - [😞 O que pode me fazer ser desligado do programa?](#-o-que-pode-me-fazer-ser-desligado-do-programa)
+  - [🧪 Laboratórios e Espaço Físico](#-laboratórios-e-espaço-físico)
+  - [📚 As Disciplinas](#-as-disciplinas)
+  - [🧑‍🏫 Seminários](#-seminários)
+  - [💁 Dica de Como Escolher Disciplinas](#-dica-de-como-escolher-disciplinas)
+  - [👨‍🏫 Seu Orientador](#-seu-orientador)
+  - [✍ A Pesquisa](#-a-pesquisa)
+  - [🏁 Dicas para a Defesa](#-dicas-para-a-defesa)
+  - [🎫 Eventos](#-eventos)
+  - [🍲 Onde Comer?](#-onde-comer)
+  - [🚸 Aluno Especial](#-aluno-especial)
+  - [👨‍💻 Softwares Importantes](#-softwares-importantes)
+- [🤷🏻 Isso aqui vale ainda????](#-isso-aqui-vale-ainda)
+- [👻 Almas Caridosas](#-almas-caridosas)
+
 ## Introdução
 
 Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC/UFF está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
@@ -22,7 +51,7 @@ Essas dicas começaram a ser escritas por alguém em 2010 (o principal suspeito 
 
 O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf
 
-### 🚩 ATENÇÃO
+### 🚩 Alerta "Red Flag"
 
 * ESSE É UMA GUIA INFORMAL
 * O IC/UFF NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
@@ -30,7 +59,7 @@ O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-s
 * AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO, ENTÃO SEMPRE FIQUE ATENTO AS ATAS DE REUNIÃO DE DEPARTAMENTO, VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
 * LEIA POR SUA CONTA E RISCO
 
-### 🦮 Como Posso Ajudar?
+## 🦮 Como Posso Ajudar?
 
 * Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
