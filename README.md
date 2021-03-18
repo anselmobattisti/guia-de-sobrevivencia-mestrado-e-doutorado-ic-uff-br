@@ -38,6 +38,7 @@ Sumário
   - [🍲 Onde Comer?](#-onde-comer)
   - [🚸 Aluno Especial](#-aluno-especial)
   - [👨‍💻 Softwares Importantes](#-softwares-importantes)
+  - [🆓 Benefícios](#-benefícios)
 - [🤷🏻 Isso aqui vale ainda????](#-isso-aqui-vale-ainda)
 - [👻 Almas Caridosas](#-almas-caridosas)
 
@@ -405,6 +406,16 @@ realmente se esforçando.
 * Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos, isso pode salvar vidas. Use o github ou outro versionador de sua preferência
 
 * Se for escrever sua dissertação ou tese usando o LaTex recomendo o uso do https://www.overleaf.com/
+
+
+## 🆓 Benefícios
+
+Pelo fato de você ser aluno do IC/UFF, existem alguns covênios e benefícios que você pode solicitar, alguns deles são:
+
+* GitHub Pro = https://education.github.com/pack
+* AWS = https://aws.amazon.com/pt/education/awseducate/
+* MongoDB = https://studio3t.com/ (se você mandar um e-mail dizendo que é estudante eles liberam a versão professional da plataforma deles)
+
 
 # 🤷🏻 Isso aqui vale ainda????
 
