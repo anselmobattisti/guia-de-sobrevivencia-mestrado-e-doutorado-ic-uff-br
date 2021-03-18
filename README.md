@@ -415,7 +415,7 @@ Pelo fato de você ser aluno do IC/UFF, existem alguns covênios e benefícios q
 * GitHub Pro = https://education.github.com/pack
 * AWS = https://aws.amazon.com/pt/education/awseducate/
 * MongoDB = https://studio3t.com/ (se você mandar um e-mail dizendo que é estudante eles liberam a versão professional da plataforma deles)
-
+* Overleaf = https://www.overleaf.com/blog/278-how-to-use-overleaf-with-ieee-collabratec-your-quick-guide-to-getting-started (crie uma conta no IEEE Collabratec e use a versão completa gratuitamente)
 
 # 🤷🏻 Isso aqui vale ainda????
 
