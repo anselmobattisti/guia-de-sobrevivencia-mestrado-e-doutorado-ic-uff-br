@@ -184,7 +184,7 @@ Dado todos os avisos, vamos começar.
 
 * O Laboratório não é lugar de se alimentar, as pessoas veem com maus olhos quem fica comendo lá dentro
 
-* Quer saber se o IC está com energia e rede, acesse: https://uptime.ic.uff.br/
+* Quer saber se tem energia no IC? Se as redes e se o cluster está funcionando?  Acesse: https://uptime.ic.uff.br/
 
 * Existe uma impressora a sua disposição, entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pósgraduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
 
@@ -406,7 +406,6 @@ realmente se esforçando.
 * Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos, isso pode salvar vidas. Use o github ou outro versionador de sua preferência
 
 * Se for escrever sua dissertação ou tese usando o LaTex recomendo o uso do https://www.overleaf.com/
-
 
 ## 🆓 Benefícios
 
