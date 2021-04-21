@@ -21,6 +21,7 @@ Sumário
   - [📙 Glossário](#-glossário)
   - [😀 Você é o Seu Maior Ativo!](#-você-é-o-seu-maior-ativo)
   - [🧙 Informações Oficiais](#-informações-oficiais)
+  - [🐧 Redes Sociais do Programa](#-redes-sociais-do-programa)
   - [🧑‍🤝‍🧑 Comunidade Acadêmica](#-comunidade-acadêmica)
   - [💪 O Ingresso](#-o-ingresso)
   - [🤑 Bolsas](#-bolsas)
@@ -99,6 +100,14 @@ Dado todos os avisos, vamos começar.
 * Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte, leia o manual!
 
 * As reuniões do colegiado são feitas a no fim de cada mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante, o pessoal do programa é muito sério e sege as regras estabelecidas, não tem 'jeitinho'!
+
+## 🐧 Redes Sociais do Programa
+
+* Twitter: https://twitter.com/DeComputacao
+* Facebook: https://www.facebook.com/informeic
+* Instagram: https://www.instagram.com/computacaouff/
+* Youtube: https://www.youtube.com/channel/UChW1_qGA-ey9hTPRG3qvtKg
+
 
 ## 🧑‍🤝‍🧑 Comunidade Acadêmica
 
