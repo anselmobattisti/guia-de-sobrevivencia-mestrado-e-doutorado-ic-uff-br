@@ -473,7 +473,7 @@ tem que rolar a tela! |
 
 ## Periódicos Capes
 
-* Link para o manual em PDF de como fazer o login com o seu CPF e a senha do idUFF.
+* <a href="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf">Link para o manual em PDF de como fazer o login com o seu CPF e a senha do idUFF.</a>
 
 # 🤷🏻 Isso aqui vale ainda????
 
