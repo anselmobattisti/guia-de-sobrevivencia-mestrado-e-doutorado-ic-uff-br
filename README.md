@@ -38,6 +38,9 @@ Sumário
   - [🎫 Eventos](#-eventos)
   - [🍲 Onde Comer?](#-onde-comer)
   - [🚸 Aluno Especial](#-aluno-especial)
+  - [Instruções sobre acesso ao Portal IdUFF](#instruções-sobre-acesso-ao-portal-iduff)
+  - [Instruções Para criação de UFFMail:](#instruções-para-criação-de-uffmail)
+  - [Instrução para emitir declarações e solicitar carteira de estudante, entre outros serviços:](#instrução-para-emitir-declarações-e-solicitar-carteira-de-estudante-entre-outros-serviços)
   - [👨‍💻 Softwares Importantes](#-softwares-importantes)
   - [🆓 Benefícios](#-benefícios)
 - [🤷🏻 Isso aqui vale ainda????](#-isso-aqui-vale-ainda)
@@ -407,6 +410,42 @@ realmente se esforçando.
 * A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre, ou seja, se você está como aluno especial e quer ser um aluno regular então você precisa se inscrever no processo de seleção no respectivo semestre e^, se você for aprovado você entrará como aluno regular no próximo semestre.
 
 * As datas de selção sempre estão no site do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/resultados-de-selecoes
+
+## Instruções sobre acesso ao Portal IdUFF
+
+1.1. Acesse o link https://inscricao.id.uff.br/
+1.2. Se você nunca acessou o portal ou esqueceu sua senha de acesso, clique no
+link "Ative ou recupere sua conta aqui";
+1.3. Você precisará informar o seu CPF e responder ao pequeno questionário que virá em seguida.
+1.3.1 Se seu CPF estiver cadastrado, responda o questionário e confirme o envio
+do e-mail de recuperação.
+1.3.2 Se o seu CPF ainda não estiver cadastrado (problema que pode ocorrer com os novos alunos), entre em contato com a central de atendimento IdUFF
+(atendimento@id.uff.br ou 21 2629-2042), lembrando que esse é um problema que apenas o portal IdUFF poderá resolver.
+1.4. Ao responder o questionário, o sistema enviará um e-mail com as informações para acessar o sistema. O endereço onde as informações foram enviadas será exibido juntamente com a confirmação de que tal e-mail foi enviado.
+
+## Instruções Para criação de UFFMail:
+
+1.1. entrar no Portal idUFF https://app.uff.br/portal/login;
+1.2. logar em sua conta do idUFF (CPF e senha do idUFF);
+1.3. clicar em “Criar UFFMail”;
+1.4. aceitar termos de uso;
+1.5. escolher um nome de usuário, dentre os oferecido pelo gmail (após a criação do e-mail, esta informação não poderá ser alterada) e clicar no ícone do final da tela para confirmar;
+
+## Instrução para emitir declarações e solicitar carteira de estudante, entre outros serviços:
+
+1.1. Acesse o link https://inscricao.id.uff.br/
+1.2. Entre com o seu CPF e sua Senha (se você já possui o cadastro no IdUFF).
+1.3. No menu do lado esquerdo, selecione a matrícula que deseja utilizar (alunos
+que fizeram outros cursos pela UFF terão mais de uma matrícula - selecione a
+matrícula atual).
+1.4. Na caixa "Acesso a outros sistemas", clique em "Acessar sispos (aluno)".
+1.5. Você será redirecionado e seus dados de acesso serão novamente exigidos.
+Entre com seu CPF e sua senha de acesso.
+1.6. Selecione o número de matrícula a ser utilizado.
+1.7. Nessa nova página você encontrará um conjunto de serviços. Entre eles, a
+emissão da declaração de regularidade (emitida instantaneamente), acesso aos
+periódicos da UFF, solicitação de carteirinha (carteirinha magnética para acesso
+ao Bandejão, Biblioteca, meia entrada, identificação, etc.), entre outros serviços.  
 
 ## 👨‍💻 Softwares Importantes 
 
