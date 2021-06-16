@@ -95,6 +95,8 @@ Dado todos os avisos, vamos começar.
 
 * Site oficial: http://www.ic.uff.br/index.php/pt/pos-graduacao
 
+* Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use apenas em caso de extrema necessidade, talvez a informação não esteja 100% atualizada nesse site)
+
 * E-mail para pedir informações:  (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
 
 <p align="center">
