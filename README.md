@@ -151,17 +151,17 @@ Dado todos os avisos, vamos começar.
 
 * Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz.
 
-* Quando algum colega começar a contar sobre a pesqusia dele, se você puder esute. Muitas vezes falar sobre a própria pesquisa é uma boa forma de evoluir, então escute a pesquisa dos colegas e se puder de sugestões construtivas.
+* Quando algum colega começar a contar sobre a pesqusia dele, se você puder escute, e se sugestões construtívas são uma ajuda ainda maior. 
+  
+* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas, geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe todo filho é bonito, entendeu?
 
-* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas, geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe, todo filho é bonito, entendeu?
+* Mantenha atualizado o seu currículo lattes, todas as pessoas da academia utilizam ele.
 
-* Mantenha atualizado o seu currículo lattes, todas as pessoas da academia utilizam ele sempre.
-
-* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome, procure os murais do Instituto, procure os professores individualmente, provavelmente eles terão algum projeto para você trabalhar. Se você não se esforçar, uma bolsa não cairá do céu para você. Não adianta olhar pro céu, com muita fé e pouca luta. 
+* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome, procure nos murais do IC, procure os professores individualmente terão algum projeto para você trabalhar. Uma bolsa não cairá do céu para você se você não procurar por ela. Não adianta olhar pro céu, com muita fé e pouca luta. 
 
 * Crie um blog ou um canal do youtube com a sua pesquisa, é uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
 
-* Se não souber de algo, não fique na dúvida. PERGUNTE! e compartilhe informações, você poderá ajudar o seu colega. É exatamente isso que este manual faz.
+* Se não souber de algo, não fique na dúvida. PERGUNTE! e também compartilhe informações. Você poderá ajudar o seu colega. É exatamente isso que este manual faz.
 
 ## 📄 Informações Gerais
 
