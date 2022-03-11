@@ -379,7 +379,9 @@ deixem assinado essa papelada para você, evitando contratempos.
 
 * Grave sua apresentação e escute ela várias vezes, isso vai ajudar você a refinar sua apresentação
 
-* Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca, essa ficha demora 3 dias para ficar pronta
+* Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca. O link ára realizar a solicitação é https://bibliotecas.uff.br/bee/fichacatalografica/. Essa ficha demora até 3 dias para ficar pronta.
+
+* Você também vai precisar do "Nada Consta" da biblioteca. Esse documento pode ser solicitado via e-mail bee.sdc@id.uff.br.
 
 * Após sua defesa, se você foi aprovado sem restrições, você terá apenas um mês para efetuar todas as modificações em sua dissertação. O tempo voa. 
 
