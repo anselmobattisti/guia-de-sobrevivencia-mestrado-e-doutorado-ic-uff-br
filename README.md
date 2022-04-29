@@ -95,6 +95,8 @@ Dado todos os avisos, vamos começar.
 
 * Site oficial: http://www.ic.uff.br/index.php/pt/pos-graduacao
 
+* Agora a carteira de estudante é digital: https://play.google.com/store/apps/details?id=br.uff.carteirinha_uff_digital
+
 * Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use apenas em caso de extrema necessidade, talvez a informação não esteja 100% atualizada nesse site)
 
 * E-mail para pedir informações:  (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
@@ -134,8 +136,6 @@ Dado todos os avisos, vamos começar.
 ## 💪 O Ingresso 
 
 * Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
-
-* Se você é aluno regular, você pode pegar sua carteirinha de estudante na secretaria, ela te dará muitos privilégios em: teatros, cinemas e shows, e o mais importante, te permitirá emprestar livros na biblioteca!
 
 * Fique atento aos prazos, se você perder algum prazo a chance de você ter problema é grande. Fique alerta escoteiro.
 
