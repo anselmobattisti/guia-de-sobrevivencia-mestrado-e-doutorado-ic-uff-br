@@ -328,70 +328,69 @@ Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/
 
 ## ✍ A Pesquisa
 
-* No primeiro semestre foque nas disciplinas, se você não passar nas disciplinas você não chegará na pesquisa.
+* No primeiro semestre foque nas disciplinas. Se não passar nas disciplinas, não chegará na pesquisa (que é o principal).
 
-* No segundo semestre, tente fazer um estudo orientado com seu provável orientador, isso pode adiantar a sua pesquisa em seis meses. Estudo orientado conta como disciplina! 
+* No segundo semestre, tente fazer um estudo orientado com seu _provável_ orientador. Isso pode adiantar a sua pesquisa em seis meses. Estudo orientado conta como disciplina!
 
-* O Estudo Orientado é uma pesquisa sobre o seu tema de dissertação ou tese, converse com seu orientador, um plano de trabalho deve ser apresentado na secretária da pós-graduação, no ato da inscrição. 
+* O Estudo Orientado é uma pesquisa sobre o seu tema de dissertação ou tese. Converse com seu orientador e elabore um plano de trabalho. O plano deve ser apresentado na secretária da pós-graduação, no ato da inscrição. 
 
-* Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação! 
+* Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação. No caso de doutorado, você já precisa ter definido antes mesmo de entrar. Mas nada impede que você mude ao longo do tempo (porém, não é recomendado).
 
-* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de Dados), se você é aluno regular, você deve ter carteirinha, se você é aluno especial, consiga uma declaração na secretária da pós
+* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de Dados). Se você é aluno regular, você deve ter carteirinha. Se você é aluno especial, consiga uma declaração na secretária da pós.
 
-*  Agende reuniões semanais com seu orientador, isso vai ajudar a você a não se perder, de preferência no mesmo horário em um dia fixo
+* Agende reuniões semanais com seu orientador. Isso vai ajudar a você a não se perder. Marque, de preferência, no mesmo horário em um dia fixo.
 
-* Assista as defesas de mestrado, se você assistir ao menos meia dúzia delas, você evitará muitas críticas na sua própria defesa, acredite, essas 12 horas que você vai gastar, te salvará de horas de trabalho. 
+* Assista as defesas de mestrado. Se você assistir ao menos meia dúzia delas, você evitará muitas críticas na sua própria defesa. Acredite, essas 12 horas que você vai gastar, te salvará de horas de trabalho.
 
-* Escreva Papers! O seu orientador vai ficar muito feliz. Mesmo que você não tenha um trabalho muito bom, os revisores vão te dar dicas de como melhorar, provavelmente você vai conseguir muitos aceites. 
+* Escreva Papers! O seu orientador vai ficar muito feliz. Mesmo que você não tenha um trabalho muito bom, os revisores vão te dar dicas de como melhorar. Provavelmente, no futuro breve, você vai conseguir muitos aceites. 
 
-* Você quer viajar pelo mundo? Publique! Se você publicar, o instituto provavelmente irá bancar sua viagem e inscrição no congresso, faça essa solicitação na secretaria do mestrado: leve o aceite do seu paper, o empenho da inscrição no congresso, opções de transporte e opções de hospedagem, o seu caso será julgado pelo colegiado, boa sorte!
+* Você quer viajar pelo mundo? Publique! Se você publicar, o IC provavelmente irá bancar sua viagem e inscrição no congresso. Faça essa solicitação na secretaria: leve o aceite do seu paper, o empenho da inscrição no congresso, opções de transporte e opções de hospedagem. O seu caso será julgado pelo colegiado. Boa sorte e sucesso!
 
 * Se você viajou pelo instituto para apresentar algum trabalho, guarde os bilhetes, os comprovantes e etc. Você deverá prestar contas na secretaria,
-caso contrário o governo te mandará e-mails incessantemente.  
+caso contrário o governo te mandará e-mails incessantemente.
 
 * Se você é bolsista, você tem a obrigação de fazer “Estágio em Docência”, que nada mais é do que aprender com um professor sobre dar aulas, ajudar
-na disciplina, corrigir trabalhos e etc, é uma boa oportunidade de aprender um monte de coisas bacanas. É necessário oficializar isso na secretaria do
-mestrado, entregando um plano de trabalho, após finalizar o estágio, também é preciso entregar um relatório com tudo que foi realizado, assinado pelo professor que está te orientando no estágio. 
+na disciplina, corrigir trabalhos e etc. É uma boa oportunidade de aprender um monte de coisas bacanas. É necessário oficializar isso na secretaria, entregando um plano de trabalho e se inscrever na matéria "Estágio em Docência". Após finalizar o estágio, é preciso entregar um relatório com tudo que foi realizado, assinado pelo professor que está te orientando no estágio.
 
-* Se você tem bolsa CAPES, o seu santo dinheirinho sempre cairá no quinto dia útil do mês.
+* Se você tem bolsa CAPES, o seu santo dinheirinho sempre cairá no quinto dia útil do mês. No caso da FAPERJ, boa sorte.
 
 * Alunos possuem uma senha muito bacana, de um proxy, que te dá acesso aos periódicos da CAPES, desta forma você pode baixar papers
 da sua casa, apenas configurando seu navegador. 
 
 * Lembre-se o Google Scholar é o seu melhor amigo. Nada de Wikipedia! 
 
-* Antes de submeter o seu paper para algum lugar, verifique o seu QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente, é muito importante. 
+* Antes de submeter o seu paper para algum lugar, verifique o seu QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente! É muito importante! 
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
-* Aprenda a utilizar um editor de texto chamado LATEX, escreva sua dissertação utilizando ele caso seu orientador permitir, mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto profissional. Se você não souber usar o corretor do LATEX, cole seu texto no word. 
+* Aprenda a utilizar um editor de texto chamado LaTeX. Escreva sua dissertação utilizando ele, caso seu orientador permitir. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
 
-* Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. 
+* Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. E a banca irá te julgar de uma forma mais positiva, afinal você não está sendo julgado apenas por eles.
 
-* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda, utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
+* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda. Utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
 
 ## 🏁 Dicas para a Defesa
 
-* Antes de defender, você precisa enviar uma cópia da sua dissertação pra cada membro da banca com NO MINIMO 15 DIAS DE ANTECEDENCIA. (USE O LATEX!), envie a versão eletrônica também em formato PDF
+* Antes de defender, você precisa enviar uma cópia da sua dissertação pra cada membro da banca com NO MÍNIMO 15 DIAS DE ANTECEDÊNCIA. (USE O LaTeX), envie a versão eletrônica também em formato PDF.
 
-* Quando marcar sua defesa, não se esqueça de agendar o horário e a sala de seminários na secretária da pós-graduação
+* Quando marcar sua defesa, não se esqueça de agendar o horário e a sala de seminários na secretária da pós-graduação.
 
-* Não se esqueça de levar para o dia da defesa, as folhas de rosto da sua dissertação, quem sabe, se os membros da banca confiarem, talvez eles já
-deixem assinado essa papelada para você, evitando contratempos. 
+* Não se esqueça de levar para o dia da defesa, as folhas de rosto da sua dissertação. Quem sabe, se os membros da banca confiarem, talvez eles já
+deixem assinado essa papelada para você --- evitando contratempos.
 
-* Grave sua apresentação e escute ela várias vezes, isso vai ajudar você a refinar sua apresentação
+* Grave sua apresentação preliminar e escute ela várias vezes, isso vai ajudar você a refinar sua apresentação final. Treine, treine, treine!
 
-* Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca. O link ára realizar a solicitação é https://bibliotecas.uff.br/bee/fichacatalografica/. Essa ficha demora até 3 dias para ficar pronta.
+* Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca. O link para realizar a solicitação é https://bibliotecas.uff.br/bee/fichacatalografica/. Essa ficha demora até 3 dias para ficar pronta.
 
-* Você também vai precisar do "Nada Consta" da biblioteca. Esse documento pode ser solicitado via e-mail bee.sdc@id.uff.br.
+* Você também vai precisar do "Nada Consta" da biblioteca. Esse documento pode ser solicitado via e-mail: bee.sdc@id.uff.br
 
 * Após sua defesa, se você foi aprovado sem restrições, você terá apenas um mês para efetuar todas as modificações em sua dissertação. O tempo voa. 
 
-* Tente defender seu mestrado ou doutorado no prazo correto, isso é bom para todos, se você for pedir extensão de prazo, precisará apresentar provas do andamento da sua pesquisa, como por exemplo, um rascunho da sua dissertação. 
+* Tente defender seu mestrado ou doutorado no prazo correto. Isso é bom para todos. Se você for pedir extensão de prazo, precisará apresentar provas do andamento da sua pesquisa. Como, por exemplo, um rascunho da sua dissertação. 
 
-* Para agendar sua defesa, será necessário entregar um exemplar dela para solicitar o agendamento.
+* Para agendar sua defesa, será necessário entregar um exemplar para solicitar o agendamento.
 
-* Na banca do mestrado, você precisará de um membro externo que não seja da UFF, informe também um suplente, isso pode salvar seu dia da defesa, no caso de algum membro da banca ter um contratempo. 
+* Na banca do mestrado, você precisará de um membro externo que não seja da UFF. Informe também um suplente, pois isso pode salvar seu dia da defesa, no caso de algum membro da banca ter um contratempo. 
 
 ## 🎫 Eventos 
 
