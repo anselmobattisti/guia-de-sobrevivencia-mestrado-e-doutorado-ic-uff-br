@@ -185,27 +185,27 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Se você ficou por dois períodos consecutivos com nota inferior a 7.0, você também será desligado. Não tem molezza.
 
-* Se você for reprovado duas vezes em disciplinas, ou em uma mesma disciplina, você também será desligado.
+* Na primeira reprovação em disciplinas ou atividades, perde a bolsa (se tiver). Na segunda reprovação, está fora. 
 
 ## 🧪 Laboratórios e Espaço Físico
 
-* Se uma máquina no lab estiver ligada não mexa, você pode estar atrapalhando a pesquisa de alguém.
+* Se uma máquina no lab estiver ligada, **NÃO MEXA!** Você pode estar atrapalhando a pesquisa de alguém.
 
-* Não desconecte os cabos de rede das máquinas do laboratório da pós-graduação, você poderá despertar a ira de muitas pessoas que estão utilizando aquela máquina remotamente ou rodando testes
+* Não desconecte os cabos de rede das máquinas do laboratório da pós-graduação. Você poderá despertar a ira de muitas pessoas que estão utilizando aquela máquina remotamente ou rodando testes.
 
-* Se você precisar de deixar livros, computador, e itens pessoais na universidade, talvez você consiga um armário com a secretaria, existem algumas dezenas deles no laboratório da pós, todos com cadeado
+* Se você precisar deixar livros, computador, ou itens pessoais na universidade, talvez você consiga um armário com a secretaria. Existem algumas dezenas deles no laboratório da pós, todos com cadeado.
 
-* Não utilize o link (conexão) do IC para ficar baixando Torrent, Filmes, P2P e Jogos. Não é uma boa prática e atrapalha bastante a rede
+* Não utilize o link (conexão) do IC para ficar baixando Torrent, Filmes, P2P e Jogos. Não é uma boa prática e atrapalha bastante a rede.
 
-* O Laboratório não é lugar de se alimentar, as pessoas veem com maus olhos quem fica comendo lá dentro
+* O Laboratório não é lugar de se alimentar! As pessoas veem com maus olhos quem fica comendo lá dentro.
 
-* Quer saber se tem energia no IC? Se as redes e se o cluster está funcionando?  Acesse: https://uptime.ic.uff.br/
+* Quer saber se tem energia no IC? Se as redes ou se o cluster estão funcionando? Acesse: https://uptime.ic.uff.br/
 
-* Existe uma impressora a sua disposição, entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pósgraduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
+* Existe uma impressora a sua disposição. Entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pós graduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
 
-* Na copa do mestrado existe uma “Caixinha do Café”, o que isto significa? A água é DIGRATIS, o café e os biscoitos são das pessoas que contribuem para a caixinha do café, acho que a responsável pela caixinha é a Ângela, secretária do IC.
+* Na copa do mestrado existe uma “Caixinha do Café”. O que isto significa? A água é _DIGRATIS_, o café e os biscoitos são das pessoas que contribuem para a caixinha do café. Acho que a responsável pela caixinha é a Ângela, secretária do IC. Se ganhar uma graninha, ajude também. Alguns alunos fazem pesquisa aos trancos e barrancos. Ajuda é sempre bem-vinda! :)
 
-* Se você precisar entrar no Instituto de Computação durante final de semana e feriados, você pode deixar seu nome na secretária da pósgraduação, eles irão fazer uma lista com as pessoas autorizadas a entrar durante o final de semana, o guardinha terá essa lista, apresente seu documento, e você terá livre acesso para trabalhar no FDS! Sem autorização, sem acesso as instalações do IC.
+* Se você precisar entrar no Instituto de Computação durante final de semana e feriados, você pode deixar seu nome na secretária da pós graduação. Eles irão fazer uma lista com as pessoas autorizadas a entrar durante o final de semana. O guardinha terá essa lista. Apresente seu documento e você terá livre acesso para trabalhar no FDS! **Sem autorização, sem acesso as instalações do IC.**
 
 * Se você precisar utilizar a sala de seminários, agende com antecedência da secretária da pós-graduação.
 
