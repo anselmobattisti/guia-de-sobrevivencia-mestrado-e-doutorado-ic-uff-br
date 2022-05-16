@@ -211,39 +211,39 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 📚 As Disciplinas 
 
-* Evite fazer duas discipinas básicas no mesmo semestre, elas geralmente são puxadas e você pode acabar tendo problemas.
+* Evite fazer duas discipinas básicas no mesmo semestre. Geralmente são puxadas e você pode acabar tendo problemas (perder a tão sonhada bolsa, por exemplo).
 
-* Estrutura de Dados (para os íntimo ED) é uma matéria MUITO importante! Estude e tire notas boas, muita gente PEDE PRA SAIR, você não vai ser um deles. Procure pelo livro do Thomas H. Cormen. Ele é sua bíblia e nada te faltará.  
+* Estrutura de Dados (para os íntimos, ED) é uma matéria MUITO importante! Estude e tire notas boas. Muita gente PEDE PRA SAIR, mas você não vai ser um deles, certo? Procure pelo livro do Thomas H. Cormen. Ele é sua Bíblia e nada te faltará.
 
-* Ainda sobre ED, https://github.com/anselmobattisti/ed_2019 esse repositório tem algumas coisas que pode te ajudar, boa sorte!
+* Ainda sobre ED, [esse repositório](https://github.com/anselmobattisti/ed_2019) tem algumas coisas que pode te ajudar. Boa sorte!
 
-* Verifique com seu orientador quais disciplinas básicas você deve se inscrever, e tire notas boas nessas disciplinas básicas, pois elas podem salvar vidas, em um eventual doutorado, se você tirar notas realmente boas, você não precisará cursa-las novamente. 
+* Verifique com seu orientador quais disciplinas básicas você deve se inscrever. Tire notas boas nessas disciplinas básicas, pois elas podem salvar vidas. Em um eventual doutorado, se você tirar notas realmente boas (7.0 pra cima; não vem com choro), você não precisará cursá-las novamente.
 
-* Se você tem uma aula de 4 horas de duração, apenas uma vez por semana, não ouse faltar esta aula, o professor demorou no mínimo umas 20 horas estudando aquele conteúdo e preparando aulas para você, certamente você vai gastar mais tempo para aprender todo esse conteúdo, talvez 40 horas, portanto não vale a pena ganhar 4 horas para perder 40 horas. 
+* Se você tem uma aula de 4 horas de duração, apenas uma vez por semana, não ouse faltar esta aula, o professor demorou no mínimo umas 20 horas estudando aquele conteúdo e preparando aulas para você. Certamente você vai gastar mais tempo para aprender todo esse conteúdo. Talvez, o dobro. Portanto, não vale a pena ganhar 4 horas para perder 40 horas. 
 
-* Você precisa de no mínimo 75% de presença.
+* Você precisa de, no mínimo, 75% de presença.
 
-* A nota mínima para ser aprovado é 6.0, mas a realidade é dura e vocÊ terá que buscar pelo 7.0, no mínimo.
+* A nota mínima para ser aprovado é 6.0. Mas a realidade é dura e você terá que buscar a nota 7.0 para se manter no programa.
 
-* Diferentemente do ensino fundalmentel e médio que você é aprovado por participação, na pós a  taxa de reprovação em algumas disciplinas é alta. Alguns exemplos são: Estrutura de Dados, Sistemas de Computação, ASA. Não basta assistir as aulas e ser um cara legal, tem que fazer a coisa acontecer, estude.
+* Diferentemente do ensino fundamental e médio, que você é aprovado por participação, na pós a taxa de reprovação em algumas disciplinas é alta. Alguns exemplos são: Estrutura de Dados (ED), Sistemas de Computação (Sistemas), Análise e Síntese de Algoritmos (ASA). Não basta assistir as aulas e ser um cara legal. Tem que fazer a coisa acontecer, estude!
 
-* Quando você for se inscrever nas disciplinas do mestrado ou do doutorado, lembre-se que antes de entregar sua inscrição, o seu orientador precisa assinar a inscrição em cada disciplina, no mesmo formulário da sua inscrição
+* Quando for se inscrever nas disciplinas do mestrado ou doutorado, lembre-se que antes de entregar sua inscrição. O seu orientador precisa assinar a inscrição em cada disciplina, no mesmo formulário da sua inscrição.
 
-* Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos, eles podem ser uma boa fonte de informação sobre como você será cobrado, pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc, eles certamente podem, vão te ajudar e te fornecerão informações valiosas.
+* Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos. Eles podem ser uma boa fonte de informação sobre como você será cobrado. Pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc. Alguém, certamente, vai te ajudar e fornecer informações valiosas.
 
-* Você precisará fazer uma prova de inglês até começar a sua pesquisa. Aqui tem algum material de estudo https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA  a prova é bem tranquila, sem pânico.
+* Você precisará fazer uma prova de inglês até começar a sua pesquisa. [Aqui tem o material de estudo (https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA)](https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA). A prova é bem tranquila, **NO PANIC!**
  
- * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda,  pergunte aos veteranos se eles possuem um modelo, você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo
+ * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda. Pergunte aos veteranos se eles possuem um modelo. Você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo.
  
- * Tente escolher temas de trabalho que envolvam o conteúdo de duas disciplinas, assim você pode fazer apenas um trabalho, dedicando mais tempo, obtendo um trabalho de melhor qualidade, publicável e que atenderá as duas disciplinas de uma vez só. Resumindo: você fará um trabalho que atenderá a duas disciplinas
+ * Tente escolher temas de trabalho que envolvam o conteúdo de duas disciplinas, assim você pode fazer apenas um trabalho. Dedicando mais tempo, obtendo um trabalho de melhor qualidade, publicável e que pode atender duas disciplinas de uma vez só.
  
-* No estágio de docência você não deverá substituir o professor, mas sim apoiá-lo
+* No estágio de docência você não deverá substituir o professor, mas sim apoiá-lo.
 
-* Mesmo tendo acabado as disciplinas, você também precisa se matricular numa disciplina chamada dissertação
+* Mesmo tendo acabado as disciplinas, você também precisa se matricular numa disciplina chamada de Pesquisa em Dissertação (mestrado) ou Pesquisa de Tese (doutorado).
 
-* Se você não estiver gostando de uma disciplina você pode cancelar esta disciplina, isso não é uma boa prática, converse com o professor responsável pela disciplina, antes de se inscrever. 
+* Se você não estiver gostando de uma disciplina você pode cancelar esta disciplina. Isso não é uma boa prática, converse com o professor responsável pela disciplina, antes de se inscrever. 
 
-* Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
+* Ao entrar no mestrado você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova. Ou você passa nela, ou você estará fora do mestrado. Você vai precisar ler muitas coisas em inglês, então é de fato importante dominá-lo. 
 
 ## 🧑‍🏫 Seminários
 
