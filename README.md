@@ -163,27 +163,29 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 📄 Informações Gerais
 
-* Se você não poder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega, ele poderá fazer a inscrição nas disciplinas pra você, geralmente as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
+* Se você não puder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega. Ele poderá fazer a inscrição nas disciplinas para você. Geralmente, as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
 
-* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação, essa página pode te ajudar: http://suporte.ic.uff.br/ , quem resolve isso é o Carlos ou o Rafael. 
+* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação. Quem resolve isso é o Carlos, ou o Rafael. Essa página pode te ajudar: http://suporte.ic.uff.br/
 
-* Leia os murais do IC, muita informação valiosa pode ser encontrada por lá. Inclusive já vi muitos informes de bolsa. Alguns professores colocam as notas afixadas por lá. 
+* Leia os murais do IC. Muita informação valiosa pode ser encontrada lá. Inclusive, já vi muitos informes de bolsa. Alguns professores colocam as notas afixadas por lá. 
 
-* O único ônibus que passa em frente ao IC é o 47, ele será seu grande companheiro. Se você não quiser ficar colecionando moedinhas, compre um riocard http://www.riocard.com/ , você utilizar nos ônibus e pode recarregar de casa.
+* O único ônibus que passa em frente ao IC é o 47, ele será seu grande companheiro. Se você não quiser ficar colecionando moedinhas, compre um riocard http://www.riocard.com/, você utilizar nos ônibus e pode recarregar de casa. Ative a integração intermunicipal, caso precise. É uma economia significativa.
 
-* Não existe um caixa eletrônico do Banco do Brasil dentro do campus da praia vermelha, isso é bem triste. Talvez o caixa mais próximo, fique dentro do supermercado SENDAS no ingá.
+* Não existe um caixa eletrônico do Banco do Brasil dentro do campus da Praia Vermelha (PV). Isso é bem triste. O caixa (banco 24h) mais próximo, fica dentro do supermercado Pão de Açúcar no Ingá. Na mesma rua existe o banco Bradesco e Itaú.
 
-* No mestrado, você deve cursar no mínimo duas disciplinas básicas, uma da linha de pesquisa, e no máximo 3 disciplinas de tópicos avançados. 
+* No mestrado, você deve cursar no mínimo duas disciplinas básicas; 01 (uma) da linha de pesquisa, e no máximo 03 (três) disciplinas de tópicos avançados. 
 
-* Você é bolsista da CAPES? Tenho quase certeza que você é obrigado a cursar 4 disciplinas por período.
+* Você é bolsista da CAPES? Então você tem que cursar uma a mais que o restante da galera. Nada vem de graça!
+
+* É bolsista CAPES e está no doutorado? Então recebe de bônus a obrigação de realizar o estágio em docência. Você irá auxiliar o professor na parte mais deliciosa: corrigir trabalhos, provas e auxiliar alunos com dificuldades.
 
 ## 😞 O que pode me fazer ser desligado do programa?
 
-* Certifique-se que você ficou com média superior a 6 em todos os períodos, caso contrário você será desligado sem choro nem vela.
+* Certifique-se que você ficou com média superior a 6.0 em todos os períodos. Caso contrário, você será desligado sem choro nem vela.
 
-* Certifique-se também que você não ficou com dois períodos consecutivos com notas inferiores a 7, você também será desligado. 
+* Se você ficou por dois períodos consecutivos com nota inferior a 7.0, você também será desligado. Não tem molezza.
 
-* Se você for reprovado duas vezes em disciplinas ou em uma mesma disciplina, você também será desligado
+* Se você for reprovado duas vezes em disciplinas, ou em uma mesma disciplina, você também será desligado.
 
 ## 🧪 Laboratórios e Espaço Físico
 
