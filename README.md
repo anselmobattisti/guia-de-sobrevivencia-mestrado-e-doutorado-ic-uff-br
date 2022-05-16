@@ -133,33 +133,33 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 💪 O Ingresso 
 
-* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
+* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou. Para a posteridade não basta um documento que afirma que você colou grau.
 
-* Fique atento aos prazos, se você perder algum prazo a chance de você ter problema é grande. Fique alerta escoteiro.
+* Fique atento aos prazos. Se você perder algum prazo a chance de você ter problema é grande. Sempre alerta, escoteiro!
 
 ## 🤑 Bolsas 
 
-* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria para que você possa concorrer. 
+* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrê-las. Certifique-se que você informou seu nome na secretaria para que você possa concorrer. 
 
-* Existem vários alunos que além de trabalharem como mestrando e doutorando ainda acumulam algum outro trabalho. Essas pessoas estão na modalidade de "Tempo parcial". Fique atento pois alguma bolsas permitem alunos em tempo parcial mas algumas são restitas aos alunos em "Tempo integral".
+* Existem vários alunos que além de trabalharem como mestrando e doutorando ainda acumulam algum outro trabalho. Essas pessoas estão na modalidade de "Tempo parcial". Fique atento, pois alguma bolsas permitem alunos em tempo parcial mas algumas são restitas aos alunos em "Tempo integral".
 
-* Você pode perder sua bolsa se seu resultado acadêmico for ruim, portanto, se você é bolsista você tem que ralar muito.
+* Você pode perder sua bolsa se seu resultado acadêmico for ruim, portanto, se você é bolsista você tem que ralar muito. Work hard, play hard!
 
 ## 😎 Seja Pró-ativo
 
-* Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz.
+* Passe mais tempo na universidade do que em casa. Você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho. Além disso, você deixará seu orientador feliz.
 
-* Quando algum colega começar a contar sobre a pesqusia dele, se você puder escute, e se sugestões construtívas são uma ajuda ainda maior. 
+* Quando algum colega começar a contar sobre a pesqusia dele, escute. Sugestões construtívas são uma ajuda ainda maior. 
   
-* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas, geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe todo filho é bonito, entendeu?
+* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas. Geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe todo filho é bonito, entendeu?
 
-* Mantenha atualizado o seu currículo lattes, todas as pessoas da academia utilizam ele.
+* Mantenha atualizado o seu currículo lattes. Todas as pessoas da academia utilizam ele.
 
-* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome, procure nos murais do IC, procure os professores individualmente terão algum projeto para você trabalhar. Uma bolsa não cairá do céu para você se você não procurar por ela. Não adianta olhar pro céu, com muita fé e pouca luta. 
+* Você não tem bolsa? Isto não é um problema. Os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome. Procure nos murais do IC e, também, procure os professores individualmente. Alguém possui um projeto para você trabalhar. Uma bolsa não cairá do céu para você, caso você não procure por ela. Não adianta olhar pro céu, com muita fé e pouca luta. 
 
-* Crie um blog ou um canal do youtube com a sua pesquisa, é uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
+* Crie um blog ou um canal do youtube com a sua pesquisa. É uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
 
-* Se não souber de algo, não fique na dúvida. PERGUNTE! e também compartilhe informações. Você poderá ajudar o seu colega. É exatamente isso que este manual faz.
+* Se não souber de algo, não fique na dúvida. PERGUNTE! E também compartilhe informações. Você poderá ajudar o seu colega. É exatamente isso que este manual faz.
 
 ## 📄 Informações Gerais
 
