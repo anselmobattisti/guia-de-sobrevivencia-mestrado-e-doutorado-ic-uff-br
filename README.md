@@ -1,4 +1,4 @@
-# Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR
+# Guia Informal de Sobrevivência no Mestrado/Doutorado do IC/UFF
 
 <p align="center">
   <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
@@ -12,7 +12,7 @@
 + Feito com ❤️, de aluno para aluno.
 ```
 
-Sumário
+## Sumário
 
 - [Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR](#guia-informal-de-sobrevivência-do-mestrandodoutorando-do-iciffbr)
   - [Introdução](#introdução)
