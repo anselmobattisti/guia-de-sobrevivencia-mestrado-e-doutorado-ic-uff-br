@@ -302,29 +302,29 @@ Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/
 
 ## 👨‍🏫 Seu Orientador 
 
-* Você necessariamente precisa de um orientador para fazer a dissertação ou tese.
+* Você, necessariamente, precisa de um(a) orientador(a) para fazer a dissertação ou tese.
 
-* Os professores tem um limite de alunos que eles podem orientador por período, regra do programa, então o ideal é conversar com um professor antes de começar o mestrado se ele terá vaga para orietnando quando for a sua vez de escrever a dissertação ou tese.
+* Os professores tem um limite de alunos que eles podem orientador por período. Regra do programa. Então, o ideal é conversar antes de começar o mestrado (ou doutorado) para verificar se terá vagas para orientação quando for a sua vez de escrever a dissertação ou tese.
 
-* Seu orientador provavelmente não estudou no IC e muitas vezes é um professor novo na casa, por conta disso geralmente ele não conhece todas as regras do programa. Leia o manual, se não achou a resposta mande um e-mail para a secretaria acadêmica da pós.
+* Seu orientador, provavelmente, não estudou no IC e muitas vezes é um professor novo na casa. Por conta disso, geralmente, não conhece todas as regras do programa. Leia o manual. Se não achou a resposta, mande um e-mail para a secretaria acadêmica da pós.
 
-* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele, imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Então, não ia funcionar né! Perceba que é VOCÊ que se alinha com a pesquisa do orientador e não o contrário.
+* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele! Imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Não ia funcionar, né!? Perceba que é VOCÊ que se alinha com a pesquisa do orientador, e não o contrário. #ficaadica
 
-* Mas eu quero pesquisar um tema que ninguém do programa estuda. Bom, nesse caso você tem que se perguntar se o IC é realmente o melhor lugar para você estudar, talvez em outro programa já exista essa linha de pesquisa, acredite, sua vida será muito mais fácil se o tema de pesquisa for alinhado com o tema do orientador. Mas como vc sabe disso? Eu já fiz a cagada quando fiz um mestrado em outra instituição. Foi muito, mas muito doloroso. Aprender com os erros dos outros é sempre mais barato.
+* Mas, e se eu quero pesquisar um tema que ninguém do programa estuda? Bom, nesse caso você tem que se perguntar se o IC é realmente o melhor lugar para você estudar. Talvez em outro programa já possua essa linha de pesquisa. Acredite, sua vida será muito mais fácil se o tema de pesquisa for alinhado com o tema do orientador. Mas como aquele que vos escreve sabe disso? Eu já fiz essa cagada quando fiz um mestrado em outra instituição. Foi muito, mas muito doloroso. **Aprender com os erros dos outros é sempre mais barato.**
 
-* Seu futuro orientador é um cara ocupado, para saber o que ele já pesquisou vá até o lattes dele, veja o que ele já publicou.
+* Seu futuro orientador é uma pessoa ocupada. Para saber o que ele já pesquisou, vá até o lattes e verifique o que foi publicado nos últimos anos.
 
-* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes
+* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC: http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes
 
-* Cada orientador tem um perfil de trabalho, pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do Whats.
+* Cada orientador tem um perfil de trabalho. Pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do whats.
 
-* Seja profissinal com seu orientador. 
+* Seja profissinal com seu orientador. Ele será seu melhor amigo durante os períodos difíceis e, acredite, terão vários!
 
 * Seu orientador não vai pegar leve com você. Ele quer bons orientandos que produzam bons trabalhos.
 
-* Uma coisa IMPORTANTE, existem professores em vias de se aposentar, veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
+* Um detalhe importante: existem professores em vias de se aposentar. Veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
 
-* Antes de mandar um e-mail para o seu orientador se pergunte, eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no google?
+* Antes de mandar um e-mail para o seu orientador se pergunte: "Eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no Google?" 
 
 ## ✍ A Pesquisa
 
