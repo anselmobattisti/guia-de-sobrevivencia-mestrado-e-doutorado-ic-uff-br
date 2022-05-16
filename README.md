@@ -394,31 +394,30 @@ deixem assinado essa papelada para você --- evitando contratempos.
 
 ## 🎫 Eventos 
 
-* Se qualquer evento foi marcado por exemplo, as 14:00, você tem permissão de chegar alguns minutos atrasados, nada começa exatamente no horário em uma cidade grande como Niterói ou Rio de Janeiro. 
+* Se qualquer evento foi marcado por exemplo, às 14:00, você tem permissão de chegar alguns minutos atrasados. Nada começa exatamente no horário em uma cidade grande como Niterói ou Rio de Janeiro. 
 
-* Você está em uma universidade top, então, muitos eventos legais ocorrem por aqui, sempre que puder participe, isso vai te ajudar bastante, ou no mínimo vai te ensinar algumas coisas novas
+* Você está em uma universidade top. Então, muitos eventos legais ocorrem por aqui. Sempre que puder, participe! Isso vai te ajudar bastante, ou no mínimo, vai te ensinar algumas coisas novas.
 
-* Não se esqueça de se inscrever na lista de discussão da SBC, é básico para todo acadêmico. 
+* Não se esqueça de se inscrever na lista de discussão da SBC. É o básico para todo acadêmico. 
 
 ## 🍲 Onde Comer?
 
-* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é selfservice, e você pode almoçar por lá, existe também o bandejão, detalhe: tickets não são vendidos ali, portanto, compre seus tickets no devido lugar.
+* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é self-service, e o trailer em frente a biblioteca que possui prato feito. Mas caso você queira economizar, existe também o bandejão. Os tickets para o bandejão não são vendidos ali. Portanto, compre seus tickets no devido lugar (no campus do Gragoatá --- na Cantareira).
 
-* O restaurante do Luiz abre as 11:30, se você for lá nesse horário, não estará um tumulto de gente por lá, e a comida ainda estará bastante apresentável. Se você for rico, vá ao restaurante do Jambeiro em frente a entrada da UFF. 
+* O restaurante do Luiz abre às 11:30. Se você for nesse horário, não estará um tumulto de gente. A comida, ainda, estará bastante apresentável. Se você for bem afortunado, vá ao restaurante do Jambeiro em frente a entrada da UFF.
 
 ## 🚸 Aluno Especial 
 
-* Você é aluno especial? Tire notas boas e faça por merecer, isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
+* Você é aluno especial? Tire notas boas e faça por merecer. Isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
 realmente se esforçando. 
 
-* Se você é um aluno especial procure fazer trabalhos em grupo com outro aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. Caso faça grupo com um aluno regular você tem a obrigação moral de não desistir do curso para não prejudicar o colega.
+* Se você é um aluno especial procure fazer trabalhos em grupo com outro aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. Caso faça grupo com um aluno regular, você tem a obrigação moral de não desistir do curso para não prejudicar o colega.
 
-* A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre, ou seja, se você está como aluno especial e quer ser um aluno regular então você precisa se inscrever no processo de seleção no respectivo semestre e^, se você for aprovado você entrará como aluno regular no próximo semestre.
+* A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre. Ou seja, se você está como aluno especial, e quer se tornar um aluno regular, então você precisa se inscrever no processo de seleção no respectivo semestre. E, se você for aprovado você entrará como aluno regular no próximo semestre.
 
 * As datas de selção sempre estão no site do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/resultados-de-selecoes
 
 ## Instruções sobre acesso ao Portal IdUFF
-
 
 1. Acesse o link https://inscricao.id.uff.br/
 2. Se você nunca acessou o portal ou esqueceu sua senha de acesso, clique no
@@ -458,13 +457,13 @@ ao Bandejão, Biblioteca, meia entrada, identificação, etc.), entre outros ser
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
 
-* Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos, isso pode salvar vidas. Use o github ou outro versionador de sua preferência
+* Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos. Isso pode salvar vidas. Use o github, ou outro versionador de sua preferência.
 
-* Se for escrever sua dissertação ou tese usando o LaTex recomendo o uso do https://www.overleaf.com/
+* Se for escrever sua dissertação ou tese usando o LaTex recomendo o [Overleaf](https://www.overleaf.com/).
 
 ## 🆓 Benefícios
 
-Pelo fato de você ser aluno do IC/UFF, existem alguns covênios e benefícios que você pode solicitar, alguns deles são:
+Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios que você pode solicitar. Os mais importantes são:
 
 | Ferramenta | Link | Dica |
 | :---         | :---      | :--- |
@@ -481,16 +480,10 @@ tem que rolar a tela! |
 
 * <a href="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf">Link para o manual em PDF de como fazer o login com o seu CPF e a senha do idUFF.</a>
 
-# 🤷🏻 Isso aqui vale ainda????
-
-* No andar inferior ao Instituto existe uma copiadora, lá você pode conseguir muitos materiais interessantes.
-
-* No aeroporto do galeão, existe um ônibus chamado GALEÃO – 998, que você pode pegar no EMBARQUE, e ele de deixará em Icaraí, Centro, Ingá por uma bagatela se comparado ao preço de um taxi. Se você não tem carro, e vai sair de férias, você pode pegá-lo na praia em Icaraí. Use sempre o Google Maps, ele pode te ajudar
-
-
 # 👻 Almas Caridosas 
 
 *Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
 
 * Gabriel Gazolla - (Autor da versão original, 2010) - http://lattes.cnpq.br/4143795598794555
 * Anselmo Luiz Éden Battisti - http://lattes.cnpq.br/6937214674204474 
+* R. (ou Ronaldinho) - <anônimo>
