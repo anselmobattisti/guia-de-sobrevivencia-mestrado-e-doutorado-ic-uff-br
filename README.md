@@ -471,8 +471,7 @@ Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios 
 | AWS     |  https://aws.amazon.com/pt/education/awseducate/contact-us/ | Por padrão a opção de ssd não fica ativa na hora de criar uma VM, mas vc pode usar mesmo no plano grátis, é só escolher a opção de SSD que funciona      |
 | MongoDB | https://studio3t.com/ | se você mandar um e-mail dizendo que é estudante eles liberam a versão professional da plataforma deles |
 | Overleaf | https://www.overleaf.com/ | Crie uma conta no IEEE Collabratec e use a versão completa gratuitamente gratuitamente. Mais informações em https://www.overleaf.com/blog/278-how-to-use-overleaf-with-ieee-collabratec-your-quick-guide-to-getting-started| 
-| Notion | https://www.notion.so/ | Crie um cadastro com o seu ID UFF, vá em Configurações >> Upgrade >> Lá tem uma opção de upgrade de estudante, 
-tem que rolar a tela! |
+| Notion | https://www.notion.so/ | Crie um cadastro com o seu ID UFF, vá em Configurações >> Upgrade >> Lá tem uma opção de upgrade de estudante.
 | Office365 | https://www.microsoft.com/pt-br/education/products/office | Uso do Microsoft Office grátis|
 
 
