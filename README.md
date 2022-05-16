@@ -265,7 +265,11 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 💁 Dica de Como Escolher Disciplinas 
 
-Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma) 2 - Obrigatória pelo curso, 1 - Obrigatória pela área, 3 - Tópicos Avançados (Máximo 3) e 2 - "Aleatórias"
+Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma):
+- 02 Obrigatória de curso;
+- 01 Obrigatória de área;
+- 03 Tópicos Avançados (Máximo de 03);
+- 02 "Aleatórias"
 
 As disciplinas obrigatórias pelo curso são:
 
@@ -275,11 +279,11 @@ As disciplinas obrigatórias pelo curso são:
 * Teoria da Computação
 * Tratamento de Incertezas
 
-Mais detalhes podem ser vistos aqui: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-do-curso-de-mestrado
+Mais detalhes podem ser vistos [aqui](http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-do-curso-de-mestrado).
 
-As disciplinas obrigatórias por área podem ser encontradas aqui: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-da-area-de-concentracao
+As disciplinas obrigatórias por área podem ser encontradas [aqui](http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-da-area-de-concentracao).
 
-Se você está na área de Sistemas de Computação então você tem que fazer uma das disciplinas abaixo, obrigarotiamente:
+Se você está na área de Sistemas de Computação então você tem que fazer, pelo menos, uma das disciplinas abaixo:
 
 * Algoritmos Distribuídos
 * Algoritmos Paralelos
@@ -290,9 +294,9 @@ Se você está na área de Sistemas de Computação então você tem que fazer u
 
 Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
 
-* Antes de escolher a disciplina acesse o ementário do programa, lá tem informação sobre o que cada disciplina te ensinará http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf
+* Antes de escolher a disciplina [acesse o ementário do programa](http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf). Lá tem informação sobre o que cada disciplina te ensinará.
 
-* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação, isso ocorre geralmente com os tópicos especiais
+* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação. Isso ocorre geralmente com os tópicos especiais, que possuem ementa variável ou que não são oferecidos todos os períodos.
 
 * Por fim, se a dúvida ainda persistir fale com o seu orientador (caso já tenha) ou com o professor da disciplina.
 
