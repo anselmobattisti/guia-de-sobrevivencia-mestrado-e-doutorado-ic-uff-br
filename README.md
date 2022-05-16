@@ -81,13 +81,13 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 😀 Você é o Seu Maior Ativo!
 
-* Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo).
+* Sem você sua pesquisa não acontecerá, então mantenha-se saudável. Faça alguma atividade física, assim você libera as tensões dos estudos, mantém a forma e não fica maluco (não é figura de linguagem, infelizmente).
 
-* Tendo isso em mente, acredite nessa palavras, a pessoa que mais deveria se importa com você é  você mesmo, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
+* Tendo isso em mente, acredite nessa palavras, a pessoa que mais deveria se importa com você é você mesmo. Se cuide, porque você está por sua conta e risco. *It's dangerous to go alone, take this pokemon and go!*
 
 * Pense seriamente em gastar uma parte da sua bolsa com plano de saúde / academia.
 
-* Seguro de viagem NÃO é algo opcional quando se viaja pra fora do Brasil! Faça o seguro, acredite, isso literealmente pode salvar sua vida.
+* Seguro de viagem NÃO é algo opcional quando se viaja pra fora do Brasil! Faça o seguro. Acredite, isso literealmente pode salvar sua vida.
 
 ## 🧙 Informações Oficiais
 
@@ -95,17 +95,17 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Agora a carteira de estudante é digital: https://play.google.com/store/apps/details?id=br.uff.carteirinha_uff_digital
 
-* Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use apenas em caso de extrema necessidade, talvez a informação não esteja 100% atualizada nesse site)
+* Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use somente em caso de extrema necessidade). Esse 'mirror' é atualizado semanalmente e pode conter informações desatualizadas.
 
-* E-mail para pedir informações:  (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
+* E-mail para pedir informações: (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
 
 <p align="center">
   <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
 </p>
 
-* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte, leia o manual!
+* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **RTFM**!
 
-* As reuniões do colegiado são feitas a no fim de cada mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante, o pessoal do programa é muito sério e sege as regras estabelecidas, não tem 'jeitinho'!
+* As reuniões do colegiado são feitas a no fim de cada mês. Portanto, se você precisa pedir auxílio para alguma viagem, ou qualquer outra coisa, faça com antecedência. Caso contrário, não será anexado na pauta. Isso é muito importante, o pessoal do programa é muito sério e segue as regras estabelecidas. **Não tem 'jeitinho'!**
 
 ## 🐧 Redes Sociais do Programa
 
@@ -117,11 +117,11 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 🧑‍🤝‍🧑 Comunidade Acadêmica
 
-* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V estamos migrando para o Telegram pois gostamos de um pouco de privacidade.
+* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V estamos migrando para o Telegram, pois gostamos de um pouco de privacidade.
 
 * Temos um grupo no Telegram https://t.me/joinchat/T68Px1oIJl9YE_Gc e também um canal https://t.me/joinchat/UfHSreAHm6OPjpdA
 
-* O foco do grupo é discutir temas relacionados ao IC, computação, vagas de empregos, dúvidas sobre disciplinas. Evite polêmica, temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
+* O foco do grupo é discutir temas relacionados ao IC, computação, vagas de emprego, dúvidas sobre disciplinas, _et cetera_. Evite polêmica. Temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
 
 * Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020).
 
@@ -129,7 +129,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Uma forma super legal de ajudar seus colegas é preenchendo formulários de pesquisas para coleta de dados usados nas dissertações e teses. É uma troca, hoje você preenche o formulário dos colegas e depois os colegas preenchem o seu formulário.
 
-* Outra forma simples de ajudar é participar de experimentos como por exemplo testes de usabilidade de software. Ajudar os outros nas suas pesquisas é uma ótima forma de melhorar a sua própria pesquisa.
+* Outra forma simples de ajudar é participar de experimentos como, por exemplo, testes de usabilidade de software. Ajudar os outros nas suas pesquisas é uma ótima forma de melhorar a sua própria pesquisa.
 
 ## 💪 O Ingresso 
 
