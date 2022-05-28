@@ -1,4 +1,4 @@
-# Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR
+# Guia Informal de Sobrevivência no Mestrado/Doutorado do IC/UFF
 
 <p align="center">
   <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
@@ -12,7 +12,7 @@
 + Feito com ❤️, de aluno para aluno.
 ```
 
-Sumário
+## Sumário
 
 - [Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR](#guia-informal-de-sobrevivência-do-mestrandodoutorando-do-iciffbr)
   - [Introdução](#introdução)
@@ -49,31 +49,29 @@ Sumário
 
 ## Introdução
 
-Saudações pequeno gafanhoto, se você chegou até aqui isso significa que você ou é aluno de mestrado / doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF) ou você quer estudar no IC/UFF. Independentemente de qual seja o caso, meus parabéns, o IC/UFF está entre os melhores lugares do mundo para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram ou que estão vagando por aqui resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil. 
+Saudações, pequeno gafanhoto! Se você chegou até aqui, significa que você ou é aluno de mestrado ou de doutorado no Instituto de Computação (IC) da Universidade Federal Fluminense (UFF). Ou então deseja estudar em dos melhores institutos de Computação do Brasil. Independentemente de qual seja o caso, meus parabéns, o IC/UFF está entre os **melhores lugares do mundo** para se estudar! Porém, existem várias "complexidades" que podem tornar sua vida miserável, para dizer o mínimo. Por conta disso, algumas almas que já vagaram, ou que estão vagando por aqui, resolveram escrevem um 'compendium' de dicas que pode tornar sua vida menos difícil.
 
-No Brasil a CAPES atribui notas aos programas de mestrado e doutorado. A nota varia entre 3 e 7, sendo 3 um programa novo e com pouca expressividade e 7 um programa nível internacional. O IC/UFF é nível 6, são poucos os programas de computação que tem esse nível no Brasil. Essa nota foi conquistado com MUITO esforço por todos os que compõem o programa (geralmente na academia abrevia-se 'programa de pós-graduação' para 'programa'): Professora, Alunos e Técnicos. Por conta disso, saiba que em seus ombros, isso mesmo você que está lendo, também está a responsabilidade de não apenas manter a notas 6 mas produzir o máximo que der para ajudar o programa a chegar no tão almejado 7. O bastão está em suas mãos, não pare de correr meu jovem! 
+No Brasil a CAPES atribui notas aos programas de mestrado e doutorado. A nota varia entre 3 e 7, sendo 3 um programa novo e com pouca expressividade e 7 um programa nível internacional. Atualmente o IC/UFF está classificado com nota 6. São poucos os programas de computação que tem esse nível no Brasil. Essa nota foi conquistada com MUITO esforço por todos os que compõem o programa (geralmente na academia abrevia-se 'programa de pós-graduação' para 'programa'): Docentes, discentes e técnicos. Por conta disso, saiba que em seus ombros --- isso mesmo você que está lendo --- também está a responsabilidade de não apenas manter a notas 6, mas também de produzir o máximo que der para ajudar o programa a chegar no tão almejado 7. O bastão está em suas mãos, não pare de correr meu jovem!
 
-Essas dicas começaram a ser escritas por alguém em 2010 (o principal suspeito é o Gabriel Gazolla, mas não temos certeza), o título era: * Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF - 99 dicas úteis – O GUIA DEFINITIVO *. 
+Essas dicas começaram a ser escritas por alguém em 2010 (o principal suspeito é o Gabriel Gazolla, mas não temos certeza), o título era: *Manual de Sobrevivência do Calouro da Pós-Graduação do IC/UFF - 99 dicas úteis – O GUIA DEFINITIVO*. 
 
-O documento original é esse aqui:  https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf
+O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf). 
 
 ### 🚩 Alerta "Red Flag"
 
-* ESSE É UMA GUIA INFORMAL
-* O IC/UFF NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI
-* ESSE MATERIAL É FEITO DE FORMA COLABORATIVA
-* AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO, ENTÃO SEMPRE FIQUE ATENTO AS ATAS DE REUNIÃO DE DEPARTAMENTO, VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
-* LEIA POR SUA CONTA E RISCO
+* ESSE É UM GUIA INFORMAL;
+* O IC/UFF NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI;
+* ESSE MATERIAL É FEITO DE FORMA COLABORATIVA;
+* AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO. SEMPRE FIQUE ATENTO SOBRE AS ATAS DE REUNIÃO DE DEPARTAMENTO! VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
+* LEIA POR SUA CONTA E RISCO;
 
 ## 🦮 Como Posso Ajudar?
 
-* Ajudar ao outro é uam das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
+* Ajudar ao outro é uma das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
 * Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request. Se você não como fazer, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
 
-* Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom :)!
-
-Dado todos os avisos, vamos começar.
+* Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom! :)
 
 ## 📙 Glossário
 
@@ -83,13 +81,13 @@ Dado todos os avisos, vamos começar.
 
 ## 😀 Você é o Seu Maior Ativo!
 
-* Sem você sua pesquisa não acontecerá, então mantenha-se saudável, faça alguma atividade física, assim você libera as tensões dos estudos, manterá a forma e não ficará maluco (não é figura de linguagem, infelizmente algumas pessoas piram mesmo).
+* Sem você sua pesquisa não acontecerá, então mantenha-se saudável. Faça alguma atividade física, assim você libera as tensões dos estudos, mantém a forma e não fica maluco (não é figura de linguagem, infelizmente).
 
-* Tendo isso em mente, acredite nessa palavras, a pessoa que mais deveria se importa com você é  você mesmo, então se cuide, você está por sua conta e risco. It's dangerous to go alone, take this pokemon and go!
+* Tendo isso em mente, acredite nessa palavras, a pessoa que mais deveria se importa com você é você mesmo. Se cuide, porque você está por sua conta e risco. *It's dangerous to go alone, take this pokemon and go!*
 
 * Pense seriamente em gastar uma parte da sua bolsa com plano de saúde / academia.
 
-* Seguro de viagem NÃO é algo opcional quando se viaja pra fora do Brasil! Faça o seguro, acredite, isso literealmente pode salvar sua vida.
+* Seguro de viagem NÃO é algo opcional quando se viaja pra fora do Brasil! Faça o seguro. Acredite, isso literealmente pode salvar sua vida.
 
 ## 🧙 Informações Oficiais
 
@@ -97,17 +95,17 @@ Dado todos os avisos, vamos começar.
 
 * Agora a carteira de estudante é digital: https://play.google.com/store/apps/details?id=br.uff.carteirinha_uff_digital
 
-* Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use apenas em caso de extrema necessidade, talvez a informação não esteja 100% atualizada nesse site)
+* Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use somente em caso de extrema necessidade). Esse 'mirror' é atualizado semanalmente e pode conter informações desatualizadas.
 
-* E-mail para pedir informações:  (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
+* E-mail para pedir informações: (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
 
 <p align="center">
   <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
 </p>
 
-* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras, faça a sua parte, leia o manual!
+* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **RTFM**!
 
-* As reuniões do colegiado são feitas a no fim de cada mês, portanto se você precisa pedir auxilio para alguma viagem, ou qualquer outra coisa, faça com antecedência, caso contrário não irá ir para a pauta. Isso é muito importante, o pessoal do programa é muito sério e sege as regras estabelecidas, não tem 'jeitinho'!
+* As reuniões do colegiado são feitas a no fim de cada mês. Portanto, se você precisa pedir auxílio para alguma viagem, ou qualquer outra coisa, faça com antecedência. Caso contrário, não será anexado na pauta. Isso é muito importante, o pessoal do programa é muito sério e segue as regras estabelecidas. **Não tem 'jeitinho'!**
 
 ## 🐧 Redes Sociais do Programa
 
@@ -119,11 +117,11 @@ Dado todos os avisos, vamos começar.
 
 ## 🧑‍🤝‍🧑 Comunidade Acadêmica
 
-* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V estamos migrando para o Telegram pois gostamos de um pouco de privacidade.
+* Temos um grupo no whats https://chat.whatsapp.com/70K3G6EoNHwJQYbzeuVL3V estamos migrando para o Telegram, pois gostamos de um pouco de privacidade.
 
 * Temos um grupo no Telegram https://t.me/joinchat/T68Px1oIJl9YE_Gc e também um canal https://t.me/joinchat/UfHSreAHm6OPjpdA
 
-* O foco do grupo é discutir temas relacionados ao IC, computação, vagas de empregos, dúvidas sobre disciplinas. Evite polêmica, temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
+* O foco do grupo é discutir temas relacionados ao IC, computação, vagas de emprego, dúvidas sobre disciplinas, _et cetera_. Evite polêmica. Temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
 
 * Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020).
 
@@ -131,143 +129,147 @@ Dado todos os avisos, vamos começar.
 
 * Uma forma super legal de ajudar seus colegas é preenchendo formulários de pesquisas para coleta de dados usados nas dissertações e teses. É uma troca, hoje você preenche o formulário dos colegas e depois os colegas preenchem o seu formulário.
 
-* Outra forma simples de ajudar é participar de experimentos como por exemplo testes de usabilidade de software. Ajudar os outros nas suas pesquisas é uma ótima forma de melhorar a sua própria pesquisa.
+* Outra forma simples de ajudar é participar de experimentos como, por exemplo, testes de usabilidade de software. Ajudar os outros nas suas pesquisas é uma ótima forma de melhorar a sua própria pesquisa.
 
 ## 💪 O Ingresso 
 
-* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou, para a posteridade não basta um documento que afirma que você colou grau
+* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou. Para a posteridade não basta um documento que afirma que você colou grau.
 
-* Fique atento aos prazos, se você perder algum prazo a chance de você ter problema é grande. Fique alerta escoteiro.
+* Fique atento aos prazos. Se você perder algum prazo a chance de você ter problema é grande. Sempre alerta, escoteiro!
 
 ## 🤑 Bolsas 
 
-* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrê-las, certifique-se que você informou seu nome a secretaria para que você possa concorrer. 
+* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrê-las. Certifique-se que você informou seu nome na secretaria para que você possa concorrer. 
 
-* Existem vários alunos que além de trabalharem como mestrando e doutorando ainda acumulam algum outro trabalho. Essas pessoas estão na modalidade de "Tempo parcial". Fique atento pois alguma bolsas permitem alunos em tempo parcial mas algumas são restitas aos alunos em "Tempo integral".
+* Existem vários alunos que além de trabalharem como mestrando e doutorando ainda acumulam algum outro trabalho. Essas pessoas estão na modalidade de "Tempo parcial". Fique atento, pois alguma bolsas permitem alunos em tempo parcial mas algumas são restitas aos alunos em "Tempo integral".
 
-* Você pode perder sua bolsa se seu resultado acadêmico for ruim, portanto, se você é bolsista você tem que ralar muito.
+* Você pode perder sua bolsa se seu resultado acadêmico for ruim, portanto, se você é bolsista você tem que ralar muito. Work hard, play hard!
 
 ## 😎 Seja Pró-ativo
 
-* Passe mais tempo na universidade do que em casa, você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho, e você deixará seu orientador feliz.
+* Passe mais tempo na universidade do que em casa. Você vai conhecer muita gente que vai estar disposta a te ajudar em suas atividades, tirar suas dúvidas e contribuir com idéias para seu trabalho. Além disso, você deixará seu orientador feliz.
 
-* Quando algum colega começar a contar sobre a pesqusia dele, se você puder escute, e se sugestões construtívas são uma ajuda ainda maior. 
+* Quando algum colega começar a contar sobre a pesqusia dele, escute. Sugestões construtívas são uma ajuda ainda maior. 
   
-* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas, geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe todo filho é bonito, entendeu?
+* Quando for a sua vez de falar sobre a sua pesquisa, escute as observações dos colegas. Geralmente nos apaixonamos pelo nosso tema e isso gera uma "cegueira acadêmica". Para a mãe todo filho é bonito, entendeu?
 
-* Mantenha atualizado o seu currículo lattes, todas as pessoas da academia utilizam ele.
+* Mantenha atualizado o seu currículo lattes. Todas as pessoas da academia utilizam ele.
 
-* Você não tem Bolsa? Isto não é um problema, os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome, procure nos murais do IC, procure os professores individualmente terão algum projeto para você trabalhar. Uma bolsa não cairá do céu para você se você não procurar por ela. Não adianta olhar pro céu, com muita fé e pouca luta. 
+* Você não tem bolsa? Isto não é um problema. Os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome. Procure nos murais do IC e, também, procure os professores individualmente. Alguém possui um projeto para você trabalhar. Uma bolsa não cairá do céu para você, caso você não procure por ela. Não adianta olhar pro céu, com muita fé e pouca luta. 
 
-* Crie um blog ou um canal do youtube com a sua pesquisa, é uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
+* Crie um blog ou um canal do youtube com a sua pesquisa. É uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
 
-* Se não souber de algo, não fique na dúvida. PERGUNTE! e também compartilhe informações. Você poderá ajudar o seu colega. É exatamente isso que este manual faz.
+* Se não souber de algo, não fique na dúvida. PERGUNTE! E também compartilhe informações. Você poderá ajudar o seu colega. É exatamente isso que este manual faz.
 
 ## 📄 Informações Gerais
 
-* Se você não poder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega, ele poderá fazer a inscrição nas disciplinas pra você, geralmente as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
+* Se você não puder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega. Ele poderá fazer a inscrição nas disciplinas para você. Geralmente, as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
 
-* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação, essa página pode te ajudar: http://suporte.ic.uff.br/ , quem resolve isso é o Carlos ou o Rafael. 
+* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação. Quem resolve isso é o Carlos, ou o Rafael. Essa página pode te ajudar: http://suporte.ic.uff.br/
 
-* Leia os murais do IC, muita informação valiosa pode ser encontrada por lá. Inclusive já vi muitos informes de bolsa. Alguns professores colocam as notas afixadas por lá. 
+* Leia os murais do IC. Muita informação valiosa pode ser encontrada lá. Inclusive, já vi muitos informes de bolsa. Alguns professores colocam as notas afixadas por lá. 
 
-* O único ônibus que passa em frente ao IC é o 47, ele será seu grande companheiro. Se você não quiser ficar colecionando moedinhas, compre um riocard http://www.riocard.com/ , você utilizar nos ônibus e pode recarregar de casa.
+* O único ônibus que passa em frente ao IC é o 47, ele será seu grande companheiro. Se você não quiser ficar colecionando moedinhas, compre um riocard http://www.riocard.com/, você utilizar nos ônibus e pode recarregar de casa. Ative a integração intermunicipal, caso precise. É uma economia significativa.
 
-* Não existe um caixa eletrônico do Banco do Brasil dentro do campus da praia vermelha, isso é bem triste. Talvez o caixa mais próximo, fique dentro do supermercado SENDAS no ingá.
+* Não existe um caixa eletrônico do Banco do Brasil dentro do campus da Praia Vermelha (PV). Isso é bem triste. O caixa (banco 24h) mais próximo, fica dentro do supermercado Pão de Açúcar no Ingá. Na mesma rua existe o banco Bradesco e Itaú.
 
-* No mestrado, você deve cursar no mínimo duas disciplinas básicas, uma da linha de pesquisa, e no máximo 3 disciplinas de tópicos avançados. 
+* No mestrado, você deve cursar no mínimo duas disciplinas básicas; 01 (uma) da linha de pesquisa, e no máximo 03 (três) disciplinas de tópicos avançados. 
 
-* Você é bolsista da CAPES? Tenho quase certeza que você é obrigado a cursar 4 disciplinas por período.
+* Você é bolsista da CAPES? Então você tem que cursar uma a mais que o restante da galera. Nada vem de graça!
+
+* É bolsista CAPES e está no doutorado? Então recebe de bônus a obrigação de realizar o estágio em docência. Você irá auxiliar o professor na parte mais deliciosa: corrigir trabalhos, provas e auxiliar alunos com dificuldades.
 
 ## 😞 O que pode me fazer ser desligado do programa?
 
-* Certifique-se que você ficou com média superior a 6 em todos os períodos, caso contrário você será desligado sem choro nem vela.
+* Certifique-se que você ficou com média superior a 6.0 em todos os períodos. Caso contrário, você será desligado sem choro nem vela.
 
-* Certifique-se também que você não ficou com dois períodos consecutivos com notas inferiores a 7, você também será desligado. 
+* Se você ficou por dois períodos consecutivos com nota inferior a 7.0, você também será desligado. Não tem molezza.
 
-* Se você for reprovado duas vezes em disciplinas ou em uma mesma disciplina, você também será desligado
+* Na primeira reprovação em disciplinas ou atividades, perde a bolsa (se tiver). Na segunda reprovação, está fora. 
 
 ## 🧪 Laboratórios e Espaço Físico
 
-* Se uma máquina no lab estiver ligada não mexa, você pode estar atrapalhando a pesquisa de alguém.
+* Se uma máquina no lab estiver ligada, **NÃO MEXA!** Você pode estar atrapalhando a pesquisa de alguém.
 
-* Não desconecte os cabos de rede das máquinas do laboratório da pós-graduação, você poderá despertar a ira de muitas pessoas que estão utilizando aquela máquina remotamente ou rodando testes
+* Não desconecte os cabos de rede das máquinas do laboratório da pós-graduação. Você poderá despertar a ira de muitas pessoas que estão utilizando aquela máquina remotamente ou rodando testes.
 
-* Se você precisar de deixar livros, computador, e itens pessoais na universidade, talvez você consiga um armário com a secretaria, existem algumas dezenas deles no laboratório da pós, todos com cadeado
+* Se você precisar deixar livros, computador, ou itens pessoais na universidade, talvez você consiga um armário com a secretaria. Existem algumas dezenas deles no laboratório da pós, todos com cadeado.
 
-* Não utilize o link (conexão) do IC para ficar baixando Torrent, Filmes, P2P e Jogos. Não é uma boa prática e atrapalha bastante a rede
+* Não utilize o link (conexão) do IC para ficar baixando Torrent, Filmes, P2P e Jogos. Não é uma boa prática e atrapalha bastante a rede.
 
-* O Laboratório não é lugar de se alimentar, as pessoas veem com maus olhos quem fica comendo lá dentro
+* O Laboratório não é lugar de se alimentar! As pessoas veem com maus olhos quem fica comendo lá dentro.
 
-* Quer saber se tem energia no IC? Se as redes e se o cluster está funcionando?  Acesse: https://uptime.ic.uff.br/
+* Quer saber se tem energia no IC? Se as redes ou se o cluster estão funcionando? Acesse: https://uptime.ic.uff.br/
 
-* Existe uma impressora a sua disposição, entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pósgraduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
+* Existe uma impressora a sua disposição. Entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pós graduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
 
-* Na copa do mestrado existe uma “Caixinha do Café”, o que isto significa? A água é DIGRATIS, o café e os biscoitos são das pessoas que contribuem para a caixinha do café, acho que a responsável pela caixinha é a Ângela, secretária do IC.
+* Na copa do mestrado existe uma “Caixinha do Café”. O que isto significa? A água é _DIGRATIS_, o café e os biscoitos são das pessoas que contribuem para a caixinha do café. Acho que a responsável pela caixinha é a Ângela, secretária do IC. Se ganhar uma graninha, ajude também. Alguns alunos fazem pesquisa aos trancos e barrancos. Ajuda é sempre bem-vinda! :)
 
-* Se você precisar entrar no Instituto de Computação durante final de semana e feriados, você pode deixar seu nome na secretária da pósgraduação, eles irão fazer uma lista com as pessoas autorizadas a entrar durante o final de semana, o guardinha terá essa lista, apresente seu documento, e você terá livre acesso para trabalhar no FDS! Sem autorização, sem acesso as instalações do IC.
+* Se você precisar entrar no Instituto de Computação durante final de semana e feriados, você pode deixar seu nome na secretária da pós graduação. Eles irão fazer uma lista com as pessoas autorizadas a entrar durante o final de semana. O guardinha terá essa lista. Apresente seu documento e você terá livre acesso para trabalhar no FDS! **Sem autorização, sem acesso as instalações do IC.**
 
 * Se você precisar utilizar a sala de seminários, agende com antecedência da secretária da pós-graduação.
 
 ## 📚 As Disciplinas 
 
-* Evite fazer duas discipinas básicas no mesmo semestre, elas geralmente são puxadas e você pode acabar tendo problemas.
+* Evite fazer duas discipinas básicas no mesmo semestre. Geralmente são puxadas e você pode acabar tendo problemas (perder a tão sonhada bolsa, por exemplo).
 
-* Estrutura de Dados (para os íntimo ED) é uma matéria MUITO importante! Estude e tire notas boas, muita gente PEDE PRA SAIR, você não vai ser um deles. Procure pelo livro do Thomas H. Cormen. Ele é sua bíblia e nada te faltará.  
+* Estrutura de Dados (para os íntimos, ED) é uma matéria MUITO importante! Estude e tire notas boas. Muita gente PEDE PRA SAIR, mas você não vai ser um deles, certo? Procure pelo livro do Thomas H. Cormen. Ele é sua Bíblia e nada te faltará.
 
-* Ainda sobre ED, https://github.com/anselmobattisti/ed_2019 esse repositório tem algumas coisas que pode te ajudar, boa sorte!
+* Ainda sobre ED, [esse repositório](https://github.com/anselmobattisti/ed_2019) tem algumas coisas que pode te ajudar. Boa sorte!
 
-* Verifique com seu orientador quais disciplinas básicas você deve se inscrever, e tire notas boas nessas disciplinas básicas, pois elas podem salvar vidas, em um eventual doutorado, se você tirar notas realmente boas, você não precisará cursa-las novamente. 
+* Verifique com seu orientador quais disciplinas básicas você deve se inscrever. Tire notas boas nessas disciplinas básicas, pois elas podem salvar vidas. Em um eventual doutorado, se você tirar notas realmente boas (7.0 pra cima; não vem com choro), você não precisará cursá-las novamente.
 
-* Se você tem uma aula de 4 horas de duração, apenas uma vez por semana, não ouse faltar esta aula, o professor demorou no mínimo umas 20 horas estudando aquele conteúdo e preparando aulas para você, certamente você vai gastar mais tempo para aprender todo esse conteúdo, talvez 40 horas, portanto não vale a pena ganhar 4 horas para perder 40 horas. 
+* Se você tem uma aula de 4 horas de duração, apenas uma vez por semana, não ouse faltar esta aula, o professor demorou no mínimo umas 20 horas estudando aquele conteúdo e preparando aulas para você. Certamente você vai gastar mais tempo para aprender todo esse conteúdo. Talvez, o dobro. Portanto, não vale a pena ganhar 4 horas para perder 40 horas. 
 
-* Você precisa de no mínimo 75% de presença.
+* Você precisa de, no mínimo, 75% de presença.
 
-* A nota mínima para ser aprovado é 6.0, mas a realidade é dura e vocÊ terá que buscar pelo 7.0, no mínimo.
+* A nota mínima para ser aprovado é 6.0. Mas a realidade é dura e você terá que buscar a nota 7.0 para se manter no programa.
 
-* Diferentemente do ensino fundalmentel e médio que você é aprovado por participação, na pós a  taxa de reprovação em algumas disciplinas é alta. Alguns exemplos são: Estrutura de Dados, Sistemas de Computação, ASA. Não basta assistir as aulas e ser um cara legal, tem que fazer a coisa acontecer, estude.
+* Diferentemente do ensino fundamental e médio, que você é aprovado por participação, na pós a taxa de reprovação em algumas disciplinas é alta. Alguns exemplos são: Estrutura de Dados (ED), Sistemas de Computação (Sistemas), Análise e Síntese de Algoritmos (ASA). Não basta assistir as aulas e ser um cara legal. Tem que fazer a coisa acontecer, estude!
 
-* Quando você for se inscrever nas disciplinas do mestrado ou do doutorado, lembre-se que antes de entregar sua inscrição, o seu orientador precisa assinar a inscrição em cada disciplina, no mesmo formulário da sua inscrição
+* Quando for se inscrever nas disciplinas do mestrado ou doutorado, lembre-se que antes de entregar sua inscrição. O seu orientador precisa assinar a inscrição em cada disciplina, no mesmo formulário da sua inscrição.
 
-* Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos, eles podem ser uma boa fonte de informação sobre como você será cobrado, pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc, eles certamente podem, vão te ajudar e te fornecerão informações valiosas.
+* Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos. Eles podem ser uma boa fonte de informação sobre como você será cobrado. Pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc. Alguém, certamente, vai te ajudar e fornecer informações valiosas.
 
-* Você precisará fazer uma prova de inglês até começar a sua pesquisa. Aqui tem algum material de estudo https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA  a prova é bem tranquila, sem pânico.
+* Você precisará fazer uma prova de inglês até começar a sua pesquisa. [Aqui tem o material de estudo (https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA)](https://drive.google.com/drive/folders/0B09LpkQ_E4zTNHRCOXdqblZWYjA). A prova é bem tranquila, **NO PANIC!**
  
- * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda,  pergunte aos veteranos se eles possuem um modelo, você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo
+ * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda. Pergunte aos veteranos se eles possuem um modelo. Você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo.
  
- * Tente escolher temas de trabalho que envolvam o conteúdo de duas disciplinas, assim você pode fazer apenas um trabalho, dedicando mais tempo, obtendo um trabalho de melhor qualidade, publicável e que atenderá as duas disciplinas de uma vez só. Resumindo: você fará um trabalho que atenderá a duas disciplinas
+ * Tente escolher temas de trabalho que envolvam o conteúdo de duas disciplinas, assim você pode fazer apenas um trabalho. Dedicando mais tempo, obtendo um trabalho de melhor qualidade, publicável e que pode atender duas disciplinas de uma vez só.
  
-* No estágio de docência você não deverá substituir o professor, mas sim apoiá-lo
+* No estágio de docência você não deverá substituir o professor, mas sim apoiá-lo.
 
-* Mesmo tendo acabado as disciplinas, você também precisa se matricular numa disciplina chamada dissertação
+* Mesmo tendo acabado as disciplinas, você também precisa se matricular numa disciplina chamada de Pesquisa em Dissertação (mestrado) ou Pesquisa de Tese (doutorado).
 
-* Se você não estiver gostando de uma disciplina você pode cancelar esta disciplina, isso não é uma boa prática, converse com o professor responsável pela disciplina, antes de se inscrever. 
+* Se você não estiver gostando de uma disciplina você pode cancelar esta disciplina. Isso não é uma boa prática, converse com o professor responsável pela disciplina, antes de se inscrever. 
 
-* Ao entrar no mestrado, você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova, ou você passa nela ou você estará fora do mestrado, você vai precisar ler muitas coisas em inglês, é de fato importante dominá-lo. 
+* Ao entrar no mestrado você assinou um termo que detém conhecimentos de uma língua estrangeira, portanto estude para essa prova. Ou você passa nela, ou você estará fora do mestrado. Você vai precisar ler muitas coisas em inglês, então é de fato importante dominá-lo. 
 
 ## 🧑‍🏫 Seminários
 
-* Se você é bolsista, você deverá ir a todos os seminários, na verdade, todos deveriam ir, lá aparece oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto.
-
-* Aqui na UFF existe uma "disciplina" chamada seminários, ela não conta crédito mas você é obrigado a fazer.
+* Se você é bolsista, você deverá ir a todos os seminários. Na verdade, todos deveriam ir. Lá aparecem oportunidades de trabalhos, intercâmbios e o que as pessoas estão fazendo na atualidade. É um tempo bem gasto. E também é uma disciplina obrigatória para os calouros.
 
 * Ela tem que ser feita até o término das disciplinas normais. No caso do mestrado você pode fazer ou no primeiro ou no segundo semestre, recomendo fazer no primeiro semestre como forma de conhecer o pessoal da UFF.
 
 * Essa disciplina é composta por diversas apresentaçõees feitas por pesquisadores tanto da UFF como visitantes. É muito bom para achar temas de pesquisa ou conhecer mais sobre os demais grupos de pesquisa da UFF.
 
-* Se você tiver 100% de frequência em alguns cursos específicos da escola de verão ou de inverno você pode pedir dispensa dos seminários.
+* Se você tiver 100% de frequência em alguns cursos específicos da Escola de Verão ou de Inverno, você pode pedir dispensa dos seminários.
 
 * Se você é aluno novo no programa eu recomendo que você faça, gera um ótimo network. Eu conheci minha orientadora de doutorado em um seminário.
 
-* Seminário não tem nota, ou vc é aprovado ou reprovado, a aprovação depende da presença no seminário.
+* Seminário não tem nota. Ou você é aprovado, ou é reprovado. A aprovação depende da presença no seminário.
 
-* No modo presencial tem que assinar um livro de chamada, a tolerância de atraso é de 15 minutos, não tem o que fazer, se chegou atrasado perde o ponto.
+* No modo presencial tem que assinar um livro de chamada. A tolerância de atraso é de 15 minutos. Não tem o que fazer, se chegou atrasado perde o ponto.
 
 * No modo online são 10 seminários que devem ser assistidos para ser aprovado.
 
 ## 💁 Dica de Como Escolher Disciplinas 
 
-Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma) 2 - Obrigatória pelo curso, 1 - Obrigatória pela área, 3 - Tópicos Avançados (Máximo 3) e 2 - "Aleatórias"
+Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguinte forma):
+- 02 Obrigatória de curso;
+- 01 Obrigatória de área;
+- 03 Tópicos Avançados (Máximo de 03);
+- 02 "Aleatórias"
 
 As disciplinas obrigatórias pelo curso são:
 
@@ -277,11 +279,11 @@ As disciplinas obrigatórias pelo curso são:
 * Teoria da Computação
 * Tratamento de Incertezas
 
-Mais detalhes podem ser vistos aqui: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-do-curso-de-mestrado
+Mais detalhes podem ser vistos [aqui](http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-do-curso-de-mestrado).
 
-As disciplinas obrigatórias por área podem ser encontradas aqui: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-da-area-de-concentracao
+As disciplinas obrigatórias por área podem ser encontradas [aqui](http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-da-area-de-concentracao).
 
-Se você está na área de Sistemas de Computação então você tem que fazer uma das disciplinas abaixo, obrigarotiamente:
+Se você está na área de Sistemas de Computação então você tem que fazer, pelo menos, uma das disciplinas abaixo:
 
 * Algoritmos Distribuídos
 * Algoritmos Paralelos
@@ -292,132 +294,130 @@ Se você está na área de Sistemas de Computação então você tem que fazer u
 
 Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
 
-* Antes de escolher a disciplina acesse o ementário do programa, lá tem informação sobre o que cada disciplina te ensinará http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf
+* Antes de escolher a disciplina [acesse o ementário do programa](http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf). Lá tem informação sobre o que cada disciplina te ensinará.
 
-* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação, isso ocorre geralmente com os tópicos especiais
+* Caso uma disciplina ofertada não esteja no ementário você deve enviar um e-mail para a secretaria pedindo essa informação. Isso ocorre geralmente com os tópicos especiais, que possuem ementa variável ou que não são oferecidos todos os períodos.
 
 * Por fim, se a dúvida ainda persistir fale com o seu orientador (caso já tenha) ou com o professor da disciplina.
 
 ## 👨‍🏫 Seu Orientador 
 
-* Você necessariamente precisa de um orientador para fazer a dissertação ou tese.
+* Você, necessariamente, precisa de um(a) orientador(a) para fazer a dissertação ou tese.
 
-* Os professores tem um limite de alunos que eles podem orientador por período, regra do programa, então o ideal é conversar com um professor antes de começar o mestrado se ele terá vaga para orietnando quando for a sua vez de escrever a dissertação ou tese.
+* Os professores tem um limite de alunos que eles podem orientador por período. Regra do programa. Então, o ideal é conversar antes de começar o mestrado (ou doutorado) para verificar se terá vagas para orientação quando for a sua vez de escrever a dissertação ou tese.
 
-* Seu orientador provavelmente não estudou no IC e muitas vezes é um professor novo na casa, por conta disso geralmente ele não conhece todas as regras do programa. Leia o manual, se não achou a resposta mande um e-mail para a secretaria acadêmica da pós.
+* Seu orientador, provavelmente, não estudou no IC e muitas vezes é um professor novo na casa. Por conta disso, geralmente, não conhece todas as regras do programa. Leia o manual. Se não achou a resposta, mande um e-mail para a secretaria acadêmica da pós.
 
-* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele, imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Então, não ia funcionar né! Perceba que é VOCÊ que se alinha com a pesquisa do orientador e não o contrário.
+* Escolha um tema de pesquisa que está alinhado com o tema de pesquisa do seu orientador. Você não é o único orientando dele! Imagina se para cada orientando ele tivesse que começar uma pesquisa do zero? Não ia funcionar, né!? Perceba que é VOCÊ que se alinha com a pesquisa do orientador, e não o contrário. #ficaadica
 
-* Mas eu quero pesquisar um tema que ninguém do programa estuda. Bom, nesse caso você tem que se perguntar se o IC é realmente o melhor lugar para você estudar, talvez em outro programa já exista essa linha de pesquisa, acredite, sua vida será muito mais fácil se o tema de pesquisa for alinhado com o tema do orientador. Mas como vc sabe disso? Eu já fiz a cagada quando fiz um mestrado em outra instituição. Foi muito, mas muito doloroso. Aprender com os erros dos outros é sempre mais barato.
+* Mas, e se eu quero pesquisar um tema que ninguém do programa estuda? Bom, nesse caso você tem que se perguntar se o IC é realmente o melhor lugar para você estudar. Talvez em outro programa já possua essa linha de pesquisa. Acredite, sua vida será muito mais fácil se o tema de pesquisa for alinhado com o tema do orientador. Mas como aquele que vos escreve sabe disso? Eu já fiz essa cagada quando fiz um mestrado em outra instituição. Foi muito, mas muito doloroso. **Aprender com os erros dos outros é sempre mais barato.**
 
-* Seu futuro orientador é um cara ocupado, para saber o que ele já pesquisou vá até o lattes dele, veja o que ele já publicou.
+* Seu futuro orientador é uma pessoa ocupada. Para saber o que ele já pesquisou, vá até o lattes e verifique o que foi publicado nos últimos anos.
 
-* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes
+* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC: http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes
 
-* Cada orientador tem um perfil de trabalho, pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do Whats.
+* Cada orientador tem um perfil de trabalho. Pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do whats.
 
-* Seja profissinal com seu orientador. 
+* Seja profissinal com seu orientador. Ele será seu melhor amigo durante os períodos difíceis e, acredite, terão vários!
 
 * Seu orientador não vai pegar leve com você. Ele quer bons orientandos que produzam bons trabalhos.
 
-* Uma coisa IMPORTANTE, existem professores em vias de se aposentar, veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
+* Um detalhe importante: existem professores em vias de se aposentar. Veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
 
-* Antes de mandar um e-mail para o seu orientador se pergunte, eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no google?
+* Antes de mandar um e-mail para o seu orientador se pergunte: "Eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no Google?" 
 
 ## ✍ A Pesquisa
 
-* No primeiro semestre foque nas disciplinas, se você não passar nas disciplinas você não chegará na pesquisa.
+* No primeiro semestre foque nas disciplinas. Se não passar nas disciplinas, não chegará na pesquisa (que é o principal).
 
-* No segundo semestre, tente fazer um estudo orientado com seu provável orientador, isso pode adiantar a sua pesquisa em seis meses. Estudo orientado conta como disciplina! 
+* No segundo semestre, tente fazer um estudo orientado com seu _provável_ orientador. Isso pode adiantar a sua pesquisa em seis meses. Estudo orientado conta como disciplina!
 
-* O Estudo Orientado é uma pesquisa sobre o seu tema de dissertação ou tese, converse com seu orientador, um plano de trabalho deve ser apresentado na secretária da pós-graduação, no ato da inscrição. 
+* O Estudo Orientado é uma pesquisa sobre o seu tema de dissertação ou tese. Converse com seu orientador e elabore um plano de trabalho. O plano deve ser apresentado na secretária da pós-graduação, no ato da inscrição. 
 
-* Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação! 
+* Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação. No caso de doutorado, você já precisa ter definido antes mesmo de entrar. Mas nada impede que você mude ao longo do tempo (porém, não é recomendado).
 
-* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de Dados), se você é aluno regular, você deve ter carteirinha, se você é aluno especial, consiga uma declaração na secretária da pós
+* Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de Dados). Se você é aluno regular, você deve ter carteirinha. Se você é aluno especial, consiga uma declaração na secretária da pós.
 
-*  Agende reuniões semanais com seu orientador, isso vai ajudar a você a não se perder, de preferência no mesmo horário em um dia fixo
+* Agende reuniões semanais com seu orientador. Isso vai ajudar a você a não se perder. Marque, de preferência, no mesmo horário em um dia fixo.
 
-* Assista as defesas de mestrado, se você assistir ao menos meia dúzia delas, você evitará muitas críticas na sua própria defesa, acredite, essas 12 horas que você vai gastar, te salvará de horas de trabalho. 
+* Assista as defesas de mestrado. Se você assistir ao menos meia dúzia delas, você evitará muitas críticas na sua própria defesa. Acredite, essas 12 horas que você vai gastar, te salvará de horas de trabalho.
 
-* Escreva Papers! O seu orientador vai ficar muito feliz. Mesmo que você não tenha um trabalho muito bom, os revisores vão te dar dicas de como melhorar, provavelmente você vai conseguir muitos aceites. 
+* Escreva Papers! O seu orientador vai ficar muito feliz. Mesmo que você não tenha um trabalho muito bom, os revisores vão te dar dicas de como melhorar. Provavelmente, no futuro breve, você vai conseguir muitos aceites. 
 
-* Você quer viajar pelo mundo? Publique! Se você publicar, o instituto provavelmente irá bancar sua viagem e inscrição no congresso, faça essa solicitação na secretaria do mestrado: leve o aceite do seu paper, o empenho da inscrição no congresso, opções de transporte e opções de hospedagem, o seu caso será julgado pelo colegiado, boa sorte!
+* Você quer viajar pelo mundo? Publique! Se você publicar, o IC provavelmente irá bancar sua viagem e inscrição no congresso. Faça essa solicitação na secretaria: leve o aceite do seu paper, o empenho da inscrição no congresso, opções de transporte e opções de hospedagem. O seu caso será julgado pelo colegiado. Boa sorte e sucesso!
 
 * Se você viajou pelo instituto para apresentar algum trabalho, guarde os bilhetes, os comprovantes e etc. Você deverá prestar contas na secretaria,
-caso contrário o governo te mandará e-mails incessantemente.  
+caso contrário o governo te mandará e-mails incessantemente.
 
 * Se você é bolsista, você tem a obrigação de fazer “Estágio em Docência”, que nada mais é do que aprender com um professor sobre dar aulas, ajudar
-na disciplina, corrigir trabalhos e etc, é uma boa oportunidade de aprender um monte de coisas bacanas. É necessário oficializar isso na secretaria do
-mestrado, entregando um plano de trabalho, após finalizar o estágio, também é preciso entregar um relatório com tudo que foi realizado, assinado pelo professor que está te orientando no estágio. 
+na disciplina, corrigir trabalhos e etc. É uma boa oportunidade de aprender um monte de coisas bacanas. É necessário oficializar isso na secretaria, entregando um plano de trabalho e se inscrever na matéria "Estágio em Docência". Após finalizar o estágio, é preciso entregar um relatório com tudo que foi realizado, assinado pelo professor que está te orientando no estágio.
 
-* Se você tem bolsa CAPES, o seu santo dinheirinho sempre cairá no quinto dia útil do mês.
+* Se você tem bolsa CAPES, o seu santo dinheirinho sempre cairá no quinto dia útil do mês. No caso da FAPERJ, boa sorte.
 
 * Alunos possuem uma senha muito bacana, de um proxy, que te dá acesso aos periódicos da CAPES, desta forma você pode baixar papers
 da sua casa, apenas configurando seu navegador. 
 
 * Lembre-se o Google Scholar é o seu melhor amigo. Nada de Wikipedia! 
 
-* Antes de submeter o seu paper para algum lugar, verifique o seu QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente, é muito importante. 
+* Antes de submeter o seu paper para algum lugar, verifique o seu QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente! É muito importante! 
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
-* Aprenda a utilizar um editor de texto chamado LATEX, escreva sua dissertação utilizando ele caso seu orientador permitir, mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto profissional. Se você não souber usar o corretor do LATEX, cole seu texto no word. 
+* Aprenda a utilizar um editor de texto chamado LaTeX. Escreva sua dissertação utilizando ele, caso seu orientador permitir. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
 
-* Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. 
+* Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. E a banca irá te julgar de uma forma mais positiva, afinal você não está sendo julgado apenas por eles.
 
-* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda, utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
+* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda. Utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
 
 ## 🏁 Dicas para a Defesa
 
-* Antes de defender, você precisa enviar uma cópia da sua dissertação pra cada membro da banca com NO MINIMO 15 DIAS DE ANTECEDENCIA. (USE O LATEX!), envie a versão eletrônica também em formato PDF
+* Antes de defender, você precisa enviar uma cópia da sua dissertação pra cada membro da banca com NO MÍNIMO 15 DIAS DE ANTECEDÊNCIA. (USE O LaTeX), envie a versão eletrônica também em formato PDF.
 
-* Quando marcar sua defesa, não se esqueça de agendar o horário e a sala de seminários na secretária da pós-graduação
+* Quando marcar sua defesa, não se esqueça de agendar o horário e a sala de seminários na secretária da pós-graduação.
 
-* Não se esqueça de levar para o dia da defesa, as folhas de rosto da sua dissertação, quem sabe, se os membros da banca confiarem, talvez eles já
-deixem assinado essa papelada para você, evitando contratempos. 
+* Não se esqueça de levar para o dia da defesa, as folhas de rosto da sua dissertação. Quem sabe, se os membros da banca confiarem, talvez eles já
+deixem assinado essa papelada para você --- evitando contratempos.
 
-* Grave sua apresentação e escute ela várias vezes, isso vai ajudar você a refinar sua apresentação
+* Grave sua apresentação preliminar e escute ela várias vezes, isso vai ajudar você a refinar sua apresentação final. Treine, treine, treine!
 
-* Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca. O link ára realizar a solicitação é https://bibliotecas.uff.br/bee/fichacatalografica/. Essa ficha demora até 3 dias para ficar pronta.
+* Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca. O link para realizar a solicitação é https://bibliotecas.uff.br/bee/fichacatalografica/. Essa ficha demora até 3 dias para ficar pronta.
 
-* Você também vai precisar do "Nada Consta" da biblioteca. Esse documento pode ser solicitado via e-mail bee.sdc@id.uff.br.
+* Você também vai precisar do "Nada Consta" da biblioteca. Esse documento pode ser solicitado via e-mail: bee.sdc@id.uff.br
 
 * Após sua defesa, se você foi aprovado sem restrições, você terá apenas um mês para efetuar todas as modificações em sua dissertação. O tempo voa. 
 
-* Tente defender seu mestrado ou doutorado no prazo correto, isso é bom para todos, se você for pedir extensão de prazo, precisará apresentar provas do andamento da sua pesquisa, como por exemplo, um rascunho da sua dissertação. 
+* Tente defender seu mestrado ou doutorado no prazo correto. Isso é bom para todos. Se você for pedir extensão de prazo, precisará apresentar provas do andamento da sua pesquisa. Como, por exemplo, um rascunho da sua dissertação. 
 
-* Para agendar sua defesa, será necessário entregar um exemplar dela para solicitar o agendamento.
+* Para agendar sua defesa, será necessário entregar um exemplar para solicitar o agendamento.
 
-* Na banca do mestrado, você precisará de um membro externo que não seja da UFF, informe também um suplente, isso pode salvar seu dia da defesa, no caso de algum membro da banca ter um contratempo. 
+* Na banca do mestrado, você precisará de um membro externo que não seja da UFF. Informe também um suplente, pois isso pode salvar seu dia da defesa, no caso de algum membro da banca ter um contratempo. 
 
 ## 🎫 Eventos 
 
-* Se qualquer evento foi marcado por exemplo, as 14:00, você tem permissão de chegar alguns minutos atrasados, nada começa exatamente no horário em uma cidade grande como Niterói ou Rio de Janeiro. 
+* Se qualquer evento foi marcado por exemplo, às 14:00, você tem permissão de chegar alguns minutos atrasados. Nada começa exatamente no horário em uma cidade grande como Niterói ou Rio de Janeiro. 
 
-* Você está em uma universidade top, então, muitos eventos legais ocorrem por aqui, sempre que puder participe, isso vai te ajudar bastante, ou no mínimo vai te ensinar algumas coisas novas
+* Você está em uma universidade top. Então, muitos eventos legais ocorrem por aqui. Sempre que puder, participe! Isso vai te ajudar bastante, ou no mínimo, vai te ensinar algumas coisas novas.
 
-* Não se esqueça de se inscrever na lista de discussão da SBC, é básico para todo acadêmico. 
+* Não se esqueça de se inscrever na lista de discussão da SBC. É o básico para todo acadêmico. 
 
 ## 🍲 Onde Comer?
 
-* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é selfservice, e você pode almoçar por lá, existe também o bandejão, detalhe: tickets não são vendidos ali, portanto, compre seus tickets no devido lugar.
+* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é self-service, e o trailer em frente a biblioteca que possui prato feito. Mas caso você queira economizar, existe também o bandejão. Os tickets para o bandejão não são vendidos ali. Portanto, compre seus tickets no devido lugar (no campus do Gragoatá --- na Cantareira).
 
-* O restaurante do Luiz abre as 11:30, se você for lá nesse horário, não estará um tumulto de gente por lá, e a comida ainda estará bastante apresentável. Se você for rico, vá ao restaurante do Jambeiro em frente a entrada da UFF. 
+* O restaurante do Luiz abre às 11:30. Se você for nesse horário, não estará um tumulto de gente. A comida, ainda, estará bastante apresentável. Se você for bem afortunado, vá ao restaurante do Jambeiro em frente a entrada da UFF.
 
 ## 🚸 Aluno Especial 
 
-* Você é aluno especial? Tire notas boas e faça por merecer, isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
+* Você é aluno especial? Tire notas boas e faça por merecer. Isso pode te ajudar bastante a se tornar um aluno regular, pois isso indica que você está
 realmente se esforçando. 
 
-* Se você é um aluno especial procure fazer trabalhos em grupo com outro aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. Caso faça grupo com um aluno regular você tem a obrigação moral de não desistir do curso para não prejudicar o colega.
+* Se você é um aluno especial procure fazer trabalhos em grupo com outro aluno especial. Assim, caso você desista do curso não irá comprometer um aluno regular no seu progresso. Caso faça grupo com um aluno regular, você tem a obrigação moral de não desistir do curso para não prejudicar o colega.
 
-* A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre, ou seja, se você está como aluno especial e quer ser um aluno regular então você precisa se inscrever no processo de seleção no respectivo semestre e^, se você for aprovado você entrará como aluno regular no próximo semestre.
+* A seleção para aluno regular ocorre tanto no primeiro como no segundo semestre, e ocorre DURANTE o semestre. Ou seja, se você está como aluno especial, e quer se tornar um aluno regular, então você precisa se inscrever no processo de seleção no respectivo semestre. E, se você for aprovado você entrará como aluno regular no próximo semestre.
 
 * As datas de selção sempre estão no site do IC http://www.ic.uff.br/index.php/pt/pos-graduacao/resultados-de-selecoes
 
 ## Instruções sobre acesso ao Portal IdUFF
-
 
 1. Acesse o link https://inscricao.id.uff.br/
 2. Se você nunca acessou o portal ou esqueceu sua senha de acesso, clique no
@@ -457,13 +457,13 @@ ao Bandejão, Biblioteca, meia entrada, identificação, etc.), entre outros ser
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
 
-* Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos, isso pode salvar vidas. Use o github ou outro versionador de sua preferência
+* Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos. Isso pode salvar vidas. Use o github, ou outro versionador de sua preferência.
 
-* Se for escrever sua dissertação ou tese usando o LaTex recomendo o uso do https://www.overleaf.com/
+* Se for escrever sua dissertação ou tese usando o LaTex recomendo o [Overleaf](https://www.overleaf.com/).
 
 ## 🆓 Benefícios
 
-Pelo fato de você ser aluno do IC/UFF, existem alguns covênios e benefícios que você pode solicitar, alguns deles são:
+Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios que você pode solicitar. Os mais importantes são:
 
 | Ferramenta | Link | Dica |
 | :---         | :---      | :--- |
@@ -471,8 +471,7 @@ Pelo fato de você ser aluno do IC/UFF, existem alguns covênios e benefícios q
 | AWS     |  https://aws.amazon.com/pt/education/awseducate/contact-us/ | Por padrão a opção de ssd não fica ativa na hora de criar uma VM, mas vc pode usar mesmo no plano grátis, é só escolher a opção de SSD que funciona      |
 | MongoDB | https://studio3t.com/ | se você mandar um e-mail dizendo que é estudante eles liberam a versão professional da plataforma deles |
 | Overleaf | https://www.overleaf.com/ | Crie uma conta no IEEE Collabratec e use a versão completa gratuitamente gratuitamente. Mais informações em https://www.overleaf.com/blog/278-how-to-use-overleaf-with-ieee-collabratec-your-quick-guide-to-getting-started| 
-| Notion | https://www.notion.so/ | Crie um cadastro com o seu ID UFF, vá em Configurações >> Upgrade >> Lá tem uma opção de upgrade de estudante, 
-tem que rolar a tela! |
+| Notion | https://www.notion.so/ | Crie um cadastro com o seu ID UFF, vá em Configurações >> Upgrade >> Lá tem uma opção de upgrade de estudante.
 | Office365 | https://www.microsoft.com/pt-br/education/products/office | Uso do Microsoft Office grátis|
 
 
@@ -480,16 +479,10 @@ tem que rolar a tela! |
 
 * <a href="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/ManualDoCalouroICUFF.pdf">Link para o manual em PDF de como fazer o login com o seu CPF e a senha do idUFF.</a>
 
-# 🤷🏻 Isso aqui vale ainda????
-
-* No andar inferior ao Instituto existe uma copiadora, lá você pode conseguir muitos materiais interessantes.
-
-* No aeroporto do galeão, existe um ônibus chamado GALEÃO – 998, que você pode pegar no EMBARQUE, e ele de deixará em Icaraí, Centro, Ingá por uma bagatela se comparado ao preço de um taxi. Se você não tem carro, e vai sair de férias, você pode pegá-lo na praia em Icaraí. Use sempre o Google Maps, ele pode te ajudar
-
-
 # 👻 Almas Caridosas 
 
 *Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
 
 * Gabriel Gazolla - (Autor da versão original, 2010) - http://lattes.cnpq.br/4143795598794555
 * Anselmo Luiz Éden Battisti - http://lattes.cnpq.br/6937214674204474 
+* R. (ou Ronaldinho) - <anônimo>
