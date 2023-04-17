@@ -359,7 +359,9 @@ da sua casa, apenas configurando seu navegador.
 
 * Lembre-se o Google Scholar é o seu melhor amigo. Nada de Wikipedia! 
 
-* Antes de submeter o seu paper para algum lugar, verifique o seu QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente! É muito importante! 
+* Antes de submeter o seu paper para alguma revista ou evento smpre verifique o QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente! É muito importante! 
+
+* A versão 2022 do QUALIS para a computação <a href="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/docs/qualis-computacao-2022.pdf">está nesse PDF</a>.
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
