@@ -475,6 +475,9 @@ Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios 
 | Overleaf | https://www.overleaf.com/ | Crie uma conta no IEEE Collabratec e use a versão completa gratuitamente gratuitamente. Mais informações em https://www.overleaf.com/blog/278-how-to-use-overleaf-with-ieee-collabratec-your-quick-guide-to-getting-started| 
 | Notion | https://www.notion.so/ | Crie um cadastro com o seu ID UFF, vá em Configurações >> Upgrade >> Lá tem uma opção de upgrade de estudante.
 | Office365 | https://www.microsoft.com/pt-br/education/products/office | Uso do Microsoft Office grátis|
+| Spotify | https://www.spotify.com/br/student/ | Plano Premium Estudantil no Spotify, que custa R$ 8,50/mês. |
+| Coursera | https://pt.coursera.org/for-university-and-college-students/?utm_campaign=header-for-stude1nts&utm_content=corp-to-landing-for-students&utm_medium=coursera&utm_source=header-for-students-link | Você ganha acesso a 1 curso gratuito por ano. |
+| Lucidchat | https://www.lucidchart.com/pages/pt | Acesso gratuito ao perfil Pro, necessário usar o idUFF |
 
 
 ## Periódicos Capes
