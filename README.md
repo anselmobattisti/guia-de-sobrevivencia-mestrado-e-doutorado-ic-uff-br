@@ -91,7 +91,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 🧙 Informações Oficiais
 
-* Site oficial: http://www.ic.uff.br/index.php/pt/pos-graduacao
+* Site oficial: https://www.ic.uff.br/
 
 * Agora a carteira de estudante é digital: https://play.google.com/store/apps/details?id=br.uff.carteirinha_uff_digital
 
@@ -103,7 +103,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
   <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
 </p>
 
-* Nesta página estão as regras e procedimentos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **RTFM**!
+* Nesta página estão as regras e procedimentos do programa https://www.ic.uff.br/regras-e-procedimentos/. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **RTFM**!
 
 * As reuniões do colegiado são feitas a no fim de cada mês. Portanto, se você precisa pedir auxílio para alguma viagem, ou qualquer outra coisa, faça com antecedência. Caso contrário, não será anexado na pauta. Isso é muito importante, o pessoal do programa é muito sério e segue as regras estabelecidas. **Não tem 'jeitinho'!**
 
@@ -200,8 +200,6 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 * O Laboratório não é lugar de se alimentar! As pessoas veem com maus olhos quem fica comendo lá dentro.
 
 * Quer saber se tem energia no IC? Se as redes ou se o cluster estão funcionando? Acesse: https://uptime.ic.uff.br/
-
-* Existe uma impressora a sua disposição. Entregue as folhas de papel que você vai precisar na secretária do mestrado, e utilize a impressora da pós graduação com bom senso, o número de páginas que você dispõe (que foram entregues a secretaria) está no link: http://suporte.ic.uff.br/index.php/servicos/posgrad/impressao.htm
 
 * Na copa do mestrado existe uma “Caixinha do Café”. O que isto significa? A água é _DIGRATIS_, o café e os biscoitos são das pessoas que contribuem para a caixinha do café. Acho que a responsável pela caixinha é a Ângela, secretária do IC. Se ganhar uma graninha, ajude também. Alguns alunos fazem pesquisa aos trancos e barrancos. Ajuda é sempre bem-vinda! :)
 
