@@ -62,14 +62,14 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 * ESSE É UM GUIA INFORMAL;
 * O IC/UFF NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI;
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA;
-* AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO. SEMPRE FIQUE ATENTO SOBRE AS ATAS DE REUNIÃO DE DEPARTAMENTO! VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
+* AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO. SEMPRE FIQUE ATENTO SOBRE AS ATAS DE REUNIÃO DE DEPARTAMENTO! VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI: https://www.ic.uff.br/regras-e-procedimentos/
 * LEIA POR SUA CONTA E RISCO;
 
 ## 🦮 Como Posso Ajudar?
 
 * Ajudar ao outro é uma das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
-* Se você quer ajudar corrigindo ou acrescentando coisas a este guia basta clonar este repositório e enviar um pull request. Se você não como fazer, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
+* Se você quer ajudar corrigindo ou acrescentando coisas deste guia, basta clonar este repositório e enviar um pull request. Se você não como fazer, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
 
 * Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom! :)
 
