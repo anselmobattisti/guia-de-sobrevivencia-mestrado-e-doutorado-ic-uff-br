@@ -139,7 +139,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 🤑 Bolsas 
 
-* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrê-las. Certifique-se que você informou seu nome na secretaria para que você possa concorrer. 
+* Você precisa de Bolsa? A cada novo período você pode se candidatar para concorrer a bolsas distribuídas pelo programa de pós. Certifique-se que você informou seu nome na secretaria para que você possa concorrer. Além dessas bolsas, há bolsas de projetos que não têm vínculo direto com o programa de pós e são normalmente divulgadas por email.
 
 * Existem vários alunos que além de trabalharem como mestrando e doutorando ainda acumulam algum outro trabalho. Essas pessoas estão na modalidade de "Tempo parcial". Fique atento, pois alguma bolsas permitem alunos em tempo parcial mas algumas são restitas aos alunos em "Tempo integral".
 
@@ -199,7 +199,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * O Laboratório não é lugar de se alimentar! As pessoas veem com maus olhos quem fica comendo lá dentro.
 
-* Quer saber se tem energia no IC? Se as redes ou se o cluster estão funcionando? Acesse: https://uptime.ic.uff.br/
+* Quer saber se tem energia no IC? Se as redes ou os sites estão funcionando? Acesse: https://stats.uptimerobot.com/wq9WXhv1Zv
 
 * Na copa do mestrado existe uma “Caixinha do Café”. O que isto significa? A água é _DIGRATIS_, o café e os biscoitos são das pessoas que contribuem para a caixinha do café. Acho que a responsável pela caixinha é a Ângela, secretária do IC. Se ganhar uma graninha, ajude também. Alguns alunos fazem pesquisa aos trancos e barrancos. Ajuda é sempre bem-vinda! :)
 
@@ -363,7 +363,9 @@ da sua casa, apenas configurando seu navegador.
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
-* Aprenda a utilizar um editor de texto chamado LaTeX. Escreva sua dissertação utilizando ele, caso seu orientador permitir. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
+* Aprenda a utilizar um editor de texto chamado LaTeX. Uma opção é utilizar a plataforma [Overleaf](https://www.overleaf.com/). Escreva sua dissertação utilizando ele, caso seu orientador permitir. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
+
+* Os alunos Arthur Zopellaro e Yona Lopes organizam anualmente uma vaquinha para assinatura do Grammarly. Essa ferramenta é muito boa para ajudar na correção de textos escritos em inglês. O preço anual fica em torno de R$ 200,00 para quem participa da vaquinha, o que representa um desconto bem grande em relação ao preço tradicional (US$ 144,00). Normalmente eles enviam um formulário de interesse na lista de emails dos alunos da pós em junho.
 
 * Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. E a banca irá te julgar de uma forma mais positiva, afinal você não está sendo julgado apenas por eles.
 
@@ -402,7 +404,7 @@ deixem assinado essa papelada para você --- evitando contratempos.
 
 ## 🍲 Onde Comer?
 
-* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é self-service, e o trailer em frente a biblioteca que possui prato feito. Mas caso você queira economizar, existe também o bandejão. Os tickets para o bandejão não são vendidos ali. Portanto, compre seus tickets no devido lugar (no campus do Gragoatá --- na Cantareira).
+* Próximo ao prédio da biblioteca existe o restaurante do Luiz, que é self-service, e o trailer em frente a biblioteca que possui prato feito. Mas caso você queira economizar, existe também o bandejão. Para acessá-lo, você pode usar sua carteirinha digital. Para recarregar créditos na sua carteirinha digital, use o aplicativo para [Android](https://play.google.com/store/apps/details?id=br.uff.carteirinha_uff_digital) ou [iOS](https://www.google.com/url?q=https://apps.apple.com/br/app/carteirinha-digital-uff/id1536612106&sa=D&source=editors&ust=1629130262420217&usg=AOvVaw0mUxxwALZawB-PA9iSM6Dr).
 
 * O restaurante do Luiz abre às 11:30. Se você for nesse horário, não estará um tumulto de gente. A comida, ainda, estará bastante apresentável. Se você for bem afortunado, vá ao restaurante do Jambeiro em frente a entrada da UFF.
 
