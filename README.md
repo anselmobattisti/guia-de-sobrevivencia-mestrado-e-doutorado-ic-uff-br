@@ -486,8 +486,9 @@ Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios 
 
 # 👻 Almas Caridosas 
 
-*Escreva seu nome aqui caso você tenha ajudado a escrever este documento.*
+  *Escreva seu nome aqui caso você tenha ajudado na escrita, revisão ou atualização deste documento.*
 
 * Gabriel Gazolla - (Autor da versão original, 2010) - http://lattes.cnpq.br/4143795598794555
 * Anselmo Luiz Éden Battisti - http://lattes.cnpq.br/6937214674204474 
 * R. (ou Ronaldinho) - <anônimo>
+* Heleno Campos - http://lattes.cnpq.br/7179984988211505
