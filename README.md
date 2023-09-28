@@ -277,9 +277,9 @@ As disciplinas obrigatórias pelo curso são:
 * Teoria da Computação
 * Tratamento de Incertezas
 
-Mais detalhes podem ser vistos [aqui](http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-do-curso-de-mestrado).
+Mais detalhes podem ser vistos [aqui](https://www.ic.uff.br/regras-e-procedimentos/).
 
-As disciplinas obrigatórias por área podem ser encontradas [aqui](http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos/disciplinas-obrigatorias-da-area-de-concentracao).
+As disciplinas obrigatórias por área podem ser encontradas [aqui](https://www.ic.uff.br/linhas-de-pesquisa/).
 
 Se você está na área de Sistemas de Computação então você tem que fazer, pelo menos, uma das disciplinas abaixo:
 
@@ -290,7 +290,7 @@ Se você está na área de Sistemas de Computação então você tem que fazer, 
 * Redes de Computadores
 * Sistemas de Tempo Real e Embarcados
 
-Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/regras-e-procedimentos
+Para mais informações acesse: https://www.ic.uff.br/regras-e-procedimentos/
 
 * Antes de escolher a disciplina [acesse o ementário do programa](http://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Ement%C3%A1rio_Reforma_2017_atualizado_pelo_Colegiado_em_24-06-20.pdf). Lá tem informação sobre o que cada disciplina te ensinará.
 
@@ -312,7 +312,7 @@ Para mais informações acesse: http://www.ic.uff.br/index.php/pt/pos-graduacao/
 
 * Seu futuro orientador é uma pessoa ocupada. Para saber o que ele já pesquisou, vá até o lattes e verifique o que foi publicado nos últimos anos.
 
-* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC: http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes
+* Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC: https://www.ic.uff.br/teses-e-dissertacoes/
 
 * Cada orientador tem um perfil de trabalho. Pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do whats.
 
