@@ -367,13 +367,13 @@ da sua casa, apenas configurando seu navegador.
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
-* Aprenda a utilizar um editor de texto chamado LaTeX. Uma opção é utilizar a plataforma [Overleaf](https://www.overleaf.com/). Escreva sua dissertação utilizando ele, caso seu orientador permitir. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
+* Aprenda a utilizar um editor de texto chamado LaTeX. Uma opção é utilizar a plataforma [Overleaf](https://www.overleaf.com/). Escreva sua dissertação utilizando ele, caso seu orientador permita. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
 
 * Os alunos Arthur Zopellaro e Yona Lopes organizam anualmente uma vaquinha para assinatura do Grammarly. Essa ferramenta é muito boa para ajudar na correção de textos escritos em inglês. O preço anual fica em torno de R$ 200,00 para quem participa da vaquinha, o que representa um desconto bem grande em relação ao preço tradicional (US$ 144,00). Normalmente eles enviam um formulário de interesse na lista de emails dos alunos da pós em junho.
 
 * Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. E a banca irá te julgar de uma forma mais positiva, afinal você não está sendo julgado apenas por eles.
 
-* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda. Utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso.
+* Não se esqueça de verificar na sua dissertação se: Todas as referências foram citadas, se todas as figuras foram citadas, se todas as tabelas, figuras, listagens e gráficos possuem legenda. Utilize corretamente a virgula, utilize corretamente a crase, verifique se você está utilizando as normas da ABNT. 90% das críticas você resolverá só verificando isso. (aqui tem algumas dicas interessantes https://github.com/Wookai/paper-tips-and-tricks)
 
 ## 🏁 Dicas para a Defesa
 
@@ -384,7 +384,7 @@ da sua casa, apenas configurando seu navegador.
 * Não se esqueça de levar para o dia da defesa, as folhas de rosto da sua dissertação. Quem sabe, se os membros da banca confiarem, talvez eles já
 deixem assinado essa papelada para você --- evitando contratempos.
 
-* Grave sua apresentação preliminar e escute ela várias vezes, isso vai ajudar você a refinar sua apresentação final. Treine, treine, treine!
+* Grave sua apresentação preliminar e escute ela várias vezes, isso vai te ajudar a refinar sua apresentação. Treine, treine, treine!
 
 * Após sua defesa, você precisará solicitar um ficha catalógráfica da sua dissertação na biblioteca. O link para realizar a solicitação é https://bibliotecas.uff.br/bee/fichacatalografica/. Essa ficha demora até 3 dias para ficar pronta.
 
@@ -394,7 +394,7 @@ deixem assinado essa papelada para você --- evitando contratempos.
 
 * Tente defender seu mestrado ou doutorado no prazo correto. Isso é bom para todos. Se você for pedir extensão de prazo, precisará apresentar provas do andamento da sua pesquisa. Como, por exemplo, um rascunho da sua dissertação. 
 
-* Para agendar sua defesa, será necessário entregar um exemplar para solicitar o agendamento.
+* Para agendar sua defesa, será necessário entregar um exemplar do documento para solicitar o agendamento.
 
 * Na banca do mestrado, você precisará de um membro externo que não seja da UFF. Informe também um suplente, pois isso pode salvar seu dia da defesa, no caso de algum membro da banca ter um contratempo. 
 
