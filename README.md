@@ -63,15 +63,15 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 * O IC/UFF NÃO TEM NENHUMA RESPONSABILIDADE PELO QUE ESTÁ ESCRITO AQUI;
 * ESSE MATERIAL É FEITO DE FORMA COLABORATIVA;
 * AS REGRAS DO PROGRAMA MUDAM COM O PASSAR DO TEMPO. SEMPRE FIQUE ATENTO SOBRE AS ATAS DE REUNIÃO DE DEPARTAMENTO! VOCÊ PODE ENCONTRAR TODAS AS ATAS AQUI: https://www.ic.uff.br/regras-e-procedimentos/
-* LEIA POR SUA CONTA E RISCO;
+* LEIA POR SUA CONTA E RISCO.
 
 ## 🦮 Como Posso Ajudar?
 
 * Ajudar ao outro é uma das melhores formas de tornar o mundo um lugar melhor, essa é a alma da ciência.
 
-* Se você quer ajudar corrigindo ou acrescentando coisas deste guia, basta clonar este repositório e enviar um pull request. Se você não como fazer, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
+* Se você quer ajudar corrigindo ou acrescentando coisas deste guia, basta clonar este repositório e enviar um pull request. Se você não como fazer, de uma lida neste tutorial https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt.
 
-* Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom! :)
+* Aprender a usar o Git será util na sua pesquisa. Não dissemos que ajudar aos outros era bom! :).
 
 ## 📙 Glossário
 
@@ -93,19 +93,19 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Site oficial: https://www.ic.uff.br/
 
-* Agora a carteira de estudante é digital: https://play.google.com/store/apps/details?id=br.uff.carteirinha_uff_digital
+* Agora a carteira de estudante é digital: 
 
 * Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use somente em caso de extrema necessidade). Esse 'mirror' é atualizado semanalmente e pode conter informações desatualizadas.
 
-* E-mail para pedir informações: (Pode ficar tranquilo, se você mandou e-mail eles vão te responder)
+* E-mail para pedir informações: (Pode ficar tranquilo, se você mandou e-mail eles vão te responder).
 
 <p align="center">
   <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
 </p>
 
-* Nesta página estão as regras e procedimentos do programa https://www.ic.uff.br/regras-e-procedimentos/. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **RTFM**!
+* Nesta página estão as regras e procedimentos do programa https://www.ic.uff.br/regras-e-procedimentos/. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **Read The Fucking Manual -RTFM**!
 
-* As reuniões do colegiado são feitas a no fim de cada mês. Portanto, se você precisa pedir auxílio para alguma viagem, ou qualquer outra coisa, faça com antecedência. Caso contrário, não será anexado na pauta. Isso é muito importante, o pessoal do programa é muito sério e segue as regras estabelecidas. **Não tem 'jeitinho'!**
+* As reuniões do colegiado são feitas no fim de cada mês. Portanto, se você precisa pedir auxílio para alguma viagem, ou qualquer outra coisa, faça com antecedência. Caso contrário, não será anexado na pauta. Isso é muito importante, o pessoal do programa é muito sério e segue as regras estabelecidas. **Não tem 'jeitinho'!**
 
 ## 🐧 Redes Sociais do Programa
 
@@ -123,9 +123,9 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * O foco do grupo é discutir temas relacionados ao IC, computação, vagas de emprego, dúvidas sobre disciplinas, _et cetera_. Evite polêmica. Temas que devem ser evitados: política, futebol e 'melhor linguagem de programação'.
 
-* Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Mônica da Silva (2020).
+* Os alunos da pós-graduação possuem um representante perante ao colegiado. Atualmente a nossa representante é Fernando Chagas (2024).
 
-* Seja sempre legal com seus colegas no IC. Existe uma chance muito grande de você trabalhar com algum dos seus colegas no futuro.
+* Seja sempre legal com seus colegas no IC. Existe uma chance muito grande de você trabalhar com algum deles no futuro.
 
 * Uma forma super legal de ajudar seus colegas é preenchendo formulários de pesquisas para coleta de dados usados nas dissertações e teses. É uma troca, hoje você preenche o formulário dos colegas e depois os colegas preenchem o seu formulário.
 
@@ -133,7 +133,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 ## 💪 O Ingresso 
 
-* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma que você se formou. Para a posteridade não basta um documento que afirma que você colou grau.
+* Ao se inscrever no mestrado/doutorado não se esqueça de que é necessário entregar o diploma da graduação. Para a posteridade não basta um documento que afirma que você colou grau.
 
 * Fique atento aos prazos. Se você perder algum prazo a chance de você ter problema é grande. Sempre alerta, escoteiro!
 
@@ -155,7 +155,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Mantenha atualizado o seu currículo lattes. Todas as pessoas da academia utilizam ele.
 
-* Você não tem bolsa? Isto não é um problema. Os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome. Procure nos murais do IC e, também, procure os professores individualmente. Alguém possui um projeto para você trabalhar. Uma bolsa não cairá do céu para você, caso você não procure por ela. Não adianta olhar pro céu, com muita fé e pouca luta. 
+* Você não tem bolsa? Isto não é um problema. Os professores possuem projetos, e se você sabe fazer alguma coisa, provavelmente não morrerá de fome. Procure nos murais do IC e, também, procure os professores individualmente. Alguém terá um projeto para você trabalhar. Uma bolsa não cairá do céu para você, caso você não procure por ela. Como diz a música, "Não adianta olhar pro céu, com muita fé e pouca luta"! 
 
 * Crie um blog ou um canal do youtube com a sua pesquisa. É uma ótima maneira de você deixar o conhecimento do seu trabalho para posteridade e o mundo saber o que você está fazendo.
 
@@ -165,7 +165,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Se você não puder vir fazer sua inscrição nas disciplinas, escreva um documento bem simples e deixe com um colega. Ele poderá fazer a inscrição nas disciplinas para você. Geralmente, as inscrições acontecem uma semana antes de começar as aulas. Lembre-se, o orientador terá que assinar este documento. 
 
-* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação. Quem resolve isso é o Carlos, ou o Rafael. Essa página pode te ajudar: http://suporte.ic.uff.br/
+* Você precisará criar sua conta de email e cadastrar sua digital para ter acesso ao laboratório da pós-graduação. Quem resolve isso é o Carlos, ou o Rafael. Essa página pode te ajudar: https://www.ic.uff.br/suporte-tecnico/
 
 * Leia os murais do IC. Muita informação valiosa pode ser encontrada lá. Inclusive, já vi muitos informes de bolsa. Alguns professores colocam as notas afixadas por lá. 
 
@@ -267,15 +267,15 @@ Você precisa fazer no mínimo 8 disciplinas (32 créditos, divididos da seguint
 - 02 Obrigatória de curso;
 - 01 Obrigatória de área;
 - 03 Tópicos Avançados (Máximo de 03);
-- 02 "Aleatórias"
+- 02 "Aleatórias".
 
 As disciplinas obrigatórias pelo curso são:
 
-* Análise e Síntese de Algoritmos
-* Estrutura de Dados e Algoritmos
-* Sistemas de Computação
-* Teoria da Computação
-* Tratamento de Incertezas
+* Análise e Síntese de Algoritmos;
+* Estrutura de Dados e Algoritmos;
+* Sistemas de Computação;
+* Teoria da Computação;
+* Tratamento de Incertezas.
 
 Mais detalhes podem ser vistos [aqui](https://www.ic.uff.br/regras-e-procedimentos/).
 
@@ -283,12 +283,12 @@ As disciplinas obrigatórias por área podem ser encontradas [aqui](https://www.
 
 Se você está na área de Sistemas de Computação então você tem que fazer, pelo menos, uma das disciplinas abaixo:
 
-* Algoritmos Distribuídos
-* Algoritmos Paralelos
-* Arquiteturas Paralelas I
-* Computação Móvel
-* Redes de Computadores
-* Sistemas de Tempo Real e Embarcados
+* Algoritmos Distribuídos;
+* Algoritmos Paralelos;
+* Arquiteturas Paralelas I;
+* Computação Móvel;
+* Redes de Computadores;
+* Sistemas de Tempo Real e Embarcados.
 
 Para mais informações acesse: https://www.ic.uff.br/regras-e-procedimentos/
 
