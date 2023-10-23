@@ -312,6 +312,8 @@ Para mais informações acesse: https://www.ic.uff.br/regras-e-procedimentos/
 
 * Seu futuro orientador é uma pessoa ocupada. Para saber o que ele já pesquisou, vá até o lattes e verifique o que foi publicado nos últimos anos.
 
+* Veja em quais periódicos ou eventos ele já publicou. Leia também os artigos para ter ideia do nível de qualidade esperado do seu trabalho.
+
 * Veja dissertações e teses de alunos que ele já orientou isso vai te dar uma ideia do perfil de trabalho dele. Aqui tem a lista de todas as teses e dissertações do IC: https://www.ic.uff.br/teses-e-dissertacoes/
 
 * Cada orientador tem um perfil de trabalho. Pense muito bem se o seu perfil de trabalho é parecido com o perfil do professor. Por exemplo, se você não gosta de trabalhar sobre pressão então não escolha um professor com esse perfil. Se você só produz se tiver alguém te cobrando, procure um professor com esse perfil. Para saber mais sobre esse tipo de coisa, fale com o pessoal no grupo do whats.
@@ -320,9 +322,11 @@ Para mais informações acesse: https://www.ic.uff.br/regras-e-procedimentos/
 
 * Seu orientador não vai pegar leve com você. Ele quer bons orientandos que produzam bons trabalhos.
 
-* Um detalhe importante: existem professores em vias de se aposentar. Veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa.
+* Um detalhe importante: existem professores em vias de se aposentar. Veja se o tempo de término do seu trabalho bate com o tempo em que ele estará no programa. Já tivemos colegas que tiveram que trocar de orientador no final da pesquisa por conta desse tipo de coisa. Pergunte também se o professor tem algum projeto de pós-doc em vista.
 
 * Antes de mandar um e-mail para o seu orientador se pergunte: "Eu realmente preciso tomar o tempo dele com isso ou eu posso resolver pesquisando no Google?" 
+
+* Geralmente dúvidas que seu orientador irá te responder é sobre a pesquisa e não sobre as tecnologias que devem ser usadas.
 
 ## ✍ A Pesquisa
 
