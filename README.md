@@ -1,4 +1,4 @@
-# Guia Informal de Sobrevivência no Mestrado/Doutorado do IC/UFF
+# Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/UFF/BR
 
 <p align="center">
   <img width="30%" src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
@@ -103,7 +103,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
   <img src="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/email-secretaria.png" />
 </p>
 
-* Nesta página estão as regras e procedimentos do programa https://www.ic.uff.br/regras-e-procedimentos/. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **Read The Fucking Manual -RTFM**!
+* Nesta página estão as regras e procedimentos do programa https://www.ic.uff.br/regras-e-procedimentos/. Não adianta reclamar do jogo se nem ao menos você leu as regras. Faça a sua parte, **Read The Fucking Manual - RTFM**!
 
 * As reuniões do colegiado são feitas no fim de cada mês. Portanto, se você precisa pedir auxílio para alguma viagem, ou qualquer outra coisa, faça com antecedência. Caso contrário, não será anexado na pauta. Isso é muito importante, o pessoal do programa é muito sério e segue as regras estabelecidas. **Não tem 'jeitinho'!**
 
@@ -437,11 +437,11 @@ b. Se o seu CPF ainda não estiver cadastrado (problema que pode ocorrer com os 
 
 ## Instruções Para criação de UFFMail:
 
-1. entrar no Portal idUFF https://app.uff.br/portal/login;
-2. logar em sua conta do idUFF (CPF e senha do idUFF);
-3. clicar em “Criar UFFMail”;
-4. aceitar termos de uso;
-5. escolher um nome de usuário, dentre os oferecido pelo gmail (após a criação do e-mail, esta informação não poderá ser alterada) e clicar no ícone do final da tela para confirmar;
+1. entrar no Portal idUFF https://app.uff.br/
+2. logar em sua conta do idUFF (CPF e senha do idUFF)
+3. clicar em “Criar UFFMail”
+4. aceitar termos de uso
+5. escolher um nome de usuário, dentre os oferecido pelo gmail (após a criação do e-mail, esta informação não poderá ser alterada) e clicar no ícone do final da tela para confirmar
 
 ## Instrução para emitir declarações e solicitar carteira de estudante, entre outros serviços:
 
