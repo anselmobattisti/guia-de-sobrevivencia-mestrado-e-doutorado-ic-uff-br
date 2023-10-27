@@ -369,7 +369,7 @@ da sua casa, apenas configurando seu navegador.
 
 * Aprenda a utilizar um editor de texto chamado LaTeX. Uma opção é utilizar a plataforma [Overleaf](https://www.overleaf.com/). Escreva sua dissertação utilizando ele, caso seu orientador permita. Mas não se esqueça de utilizar o corretor ortográfico, a sua dissertação ficará com um aspecto mais profissional. Se você não souber usar o corretor do LaTeX, cole seu texto no Word e faça as modificações necessárias. 
 
-* Os alunos Arthur Zopellaro e Yona Lopes organizam anualmente uma vaquinha para assinatura do Grammarly. Essa ferramenta é muito boa para ajudar na correção de textos escritos em inglês. O preço anual fica em torno de R$ 200,00 para quem participa da vaquinha, o que representa um desconto bem grande em relação ao preço tradicional (US$ 144,00). Normalmente eles enviam um formulário de interesse na lista de emails dos alunos da pós em junho, o link atual do form é i: https://forms.gle/mNisud4z2gNsk6Tk9.
+* O aluno Arthur Zopellaro junto com a professora Yona Lopes organizam anualmente uma vaquinha para assinatura do Grammarly. Essa ferramenta é muito boa para ajudar na correção de textos escritos em inglês. O preço anual fica em torno de R$ 200,00 para quem participa da vaquinha, o que representa um desconto bem grande em relação ao preço tradicional (US$ 144,00). Normalmente eles enviam um formulário de interesse na lista de emails dos alunos da pós em junho.
 
 * Tente publicar sua pesquisa antes da defesa, isso te trará mais tranquilidade para sua defesa. E a banca irá te julgar de uma forma mais positiva, afinal você não está sendo julgado apenas por eles.
 
