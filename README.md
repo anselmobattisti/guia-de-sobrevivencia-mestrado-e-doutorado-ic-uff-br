@@ -482,6 +482,7 @@ Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios 
 | Coursera | https://pt.coursera.org/for-university-and-college-students/?utm_campaign=header-for-stude1nts&utm_content=corp-to-landing-for-students&utm_medium=coursera&utm_source=header-for-students-link | Você ganha acesso a 1 curso gratuito por ano. |
 | Lucidchat | https://www.lucidchart.com/pages/pt | Acesso gratuito ao perfil Pro, necessário usar o idUFF |
 | jetbrains | https://www.jetbrains.com/ | Acesso gratuito ao pyCharm entre outras IDEs necessário usar o idUFF |
+| Shodan | https://help.shodan.io/the-basics/academic-upgrade | Membership gratuito no Shodan (Obs: necessário usar o idUFF e enviar email para academic@shodan.io pois o nosso email academico não é reconhecido automaticament) |
 
 ## Periódicos Capes
 
