@@ -41,7 +41,7 @@
   - [Instruções sobre acesso ao Portal IdUFF](#instruções-sobre-acesso-ao-portal-iduff)
   - [Instruções Para criação de UFFMail:](#instruções-para-criação-de-uffmail)
   - [Instrução para emitir declarações e solicitar carteira de estudante, entre outros serviços:](#instrução-para-emitir-declarações-e-solicitar-carteira-de-estudante-entre-outros-serviços)
-  - [👨‍💻 Softwares Importantes](#-softwares-importantes)
+  - [Dicas sobre Escrita e Organização da Dissertação ou Tese](#dicas-sobre-escrita-e-organização-da-dissertação-ou-tese)
   - [🆓 Benefícios](#-benefícios)
   - [Periódicos Capes](#periódicos-capes)
 - [🤷🏻 Isso aqui vale ainda????](#-isso-aqui-vale-ainda)
@@ -459,7 +459,8 @@ emissão da declaração de regularidade (emitida instantaneamente), acesso aos
 periódicos da UFF, solicitação de carteirinha (carteirinha magnética para acesso
 ao Bandejão, Biblioteca, meia entrada, identificação, etc.), entre outros serviços.  
 
-## 👨‍💻 Dicas sobre Escrita e Organização da Dissertação ou Tese
+
+## Dicas sobre Escrita e Organização da Dissertação ou Tese
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
 
