@@ -459,13 +459,32 @@ emissão da declaração de regularidade (emitida instantaneamente), acesso aos
 periódicos da UFF, solicitação de carteirinha (carteirinha magnética para acesso
 ao Bandejão, Biblioteca, meia entrada, identificação, etc.), entre outros serviços.  
 
-## 👨‍💻 Softwares Importantes 
+## 👨‍💻 Dicas sobre Escrita e Organização da Dissertação ou Tese
 
 * Instale uma impressora de PDF em seu computador, você vai precisar.
 
 * Faça backups periódicos dos seus códigos fontes, apresentações e trabalhos. Isso pode salvar vidas. Use o github, ou outro versionador de sua preferência.
 
 * Se for escrever sua dissertação ou tese usando o LaTex recomendo o [Overleaf](https://www.overleaf.com/).
+
+* Organize os artigos utilizados em sua pesquisa através de alguma ferramenta de gestão de citações como por exemplo o Mendeley (https://www.mendeley.com/) ou Zotero (https://www.zotero.org/)
+
+* Fique atento às referências, pois, mesmo ao exportá-las diretamente do site onde o artigo está armazenado, o formato gerado pode não estar de acordo com o tipo de citação exigido pelo modelo adotado pelo IC. Por exemplo, no caso de citações do tipo inproceedings, os campos published e location são obrigatórios no modelo do IC, mas não são incluídos por padrão nas exportações realizadas nos sites oficiais.
+
+
+```shell
+@inproceedings{XXXXX,
+	.....
+  publisher    = {IEEE},
+  location = {Cidade / Pais}
+}
+```
+
+* Se você precisar limpar um artivo .bibtex grande use a ferramenta https://flamingtempura.github.io/bibtex-tidy/ para te ajudar na tarefa.
+
+
+* Ao elaborar diagramas esquemáticos, o Drawio é uma excelente ferramenta. Crie arquivos separados para cada capítulo da tese ou dissertação, mantendo cada figura em uma aba distinta e evitando o uso de caracteres especiais no nome da aba. Ao exportar as imagens, salve-as no formato PDF e mantenha o nome de arquivo sugerido, pois isso ajudará a economizar tempo ao enviar novas versões da mesma figura.
+
 
 ## 🆓 Benefícios
 
