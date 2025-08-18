@@ -229,7 +229,7 @@ O documento original é esse [aqui](https://github.com/anselmobattisti/guia-de-s
 
 * Você está preocupado com as provas das disciplinas básicas? Pergunte aos veteranos. Eles podem ser uma boa fonte de informação sobre como você será cobrado. Pergunte por questões anteriores, provas anteriores, listas de exercícios antigas, trabalhos e etc. Alguém, certamente, vai te ajudar e fornecer informações valiosas.
 
-* Você precisará fazer uma prova de inglês até começar a sua pesquisa. [Aqui tem o material de estudo (https://drive.google.com/drive/folders/1qAce9Wew6UPNrMrdy-pRfNdyMCC2e6De)](https://drive.google.com/drive/folders/1qAce9Wew6UPNrMrdy-pRfNdyMCC2e6De). A prova é bem tranquila, **NO PANIC!**
+* Você precisará fazer uma prova de inglês até começar a sua pesquisa. [Aqui tem o material de estudo (https://drive.google.com/drive/folders/1DJtJ8l-amDm39yKi8M8oJVKRTARuqVt9)](https://drive.google.com/drive/folders/1DJtJ8l-amDm39yKi8M8oJVKRTARuqVt9). A prova é bem tranquila, **NO PANIC!**
  
  * Se você tem um relatório para escrever, um plano de trabalho, uma apresentação, ou qualquer outra coisa para redigir, não reinvente a roda. Pergunte aos veteranos se eles possuem um modelo. Você pode usá-lo como inspiração, aperfeiçoá-lo e economizar tempo.
  
