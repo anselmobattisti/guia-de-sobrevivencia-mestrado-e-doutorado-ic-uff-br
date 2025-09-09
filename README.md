@@ -487,6 +487,8 @@ ao Bandejão, Biblioteca, meia entrada, identificação, etc.), entre outros ser
 * Ao elaborar diagramas esquemáticos, o Drawio é uma excelente ferramenta. Crie arquivos separados para cada capítulo da tese ou dissertação, mantendo cada figura em uma aba distinta e evitando o uso de caracteres especiais no nome da aba. Ao exportar as imagens, salve-as no formato PDF e mantenha o nome de arquivo sugerido, pois isso ajudará a economizar tempo ao enviar novas versões da mesma figura.
 
 
+* Têm dúvidas sobre como escrever um bom artigo científico? Assista aos vídeos desse curso, pode te ajudar https://www.youtube.com/@escritacientifica4096.
+
 ## 🆓 Benefícios
 
 Pelo fato de você ser aluno do IC/UFF, existem alguns convênios e benefícios que você pode solicitar. Os mais importantes são:
