@@ -14,7 +14,8 @@
 
 ## Sumário
 
-- [Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/IFF/BR](#guia-informal-de-sobrevivência-do-mestrandodoutorando-do-iciffbr)
+- [Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/UFF/BR](#guia-informal-de-sobrevivência-do-mestrandodoutorando-do-icuffbr)
+  - [Sumário](#sumário)
   - [Introdução](#introdução)
     - [🚩 Alerta "Red Flag"](#-alerta-red-flag)
   - [🦮 Como Posso Ajudar?](#-como-posso-ajudar)
@@ -44,7 +45,6 @@
   - [Dicas sobre Escrita e Organização da Dissertação ou Tese](#dicas-sobre-escrita-e-organização-da-dissertação-ou-tese)
   - [🆓 Benefícios](#-benefícios)
   - [Periódicos Capes](#periódicos-capes)
-- [🤷🏻 Isso aqui vale ainda????](#-isso-aqui-vale-ainda)
 - [👻 Almas Caridosas](#-almas-caridosas)
 
 ## Introdução
@@ -363,7 +363,7 @@ da sua casa, apenas configurando seu navegador.
 
 * Antes de submeter o seu paper para alguma revista ou evento smpre verifique o QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente! É muito importante! 
 
-* A versão 2022 do QUALIS para a computação <a href="https://github.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/docs/qualis-computacao-2022.pdf">está nesse PDF</a>.
+* A versão do quadriênio 2021-2024 pode ser acessada aqui <a href="https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf">Plataforma Sucupira</a>
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
