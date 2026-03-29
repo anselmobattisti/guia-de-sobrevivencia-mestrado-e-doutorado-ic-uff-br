@@ -363,7 +363,9 @@ da sua casa, apenas configurando o navegador.
 
 * Antes de submeter o seu artigo para alguma revista ou evento sempre verifique o QUALIS. Se não souber o que é isso, procure o seu orientador desesperadamente! É muito importante! 
 
-* A versão do quadriênio 2021-2024 pode ser acessada aqui <a href="https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf">Plataforma Sucupira</a>
+* A versão do quadriênio 2021-2024 pode ser acessada aqui: <a href="https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf">Plataforma Sucupira - Periódicos</a> e  <a href="https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/qualisEventos/listaQualisEventos.xhtml">Plataforma Sucupira - Eventos</a>
+
+
 
 * De uma olhada nos que já trilharam os passos que você quer trilhar, aqui estão as teses e dissertações de todos os alunos antigos do programa http://www.ic.uff.br/index.php/pt/pos-graduacao/teses-e-dissertacoes 
 
