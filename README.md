@@ -95,8 +95,6 @@ O documento original é esse [aqui](https://GitHub.com/anselmobattisti/guia-de-s
 
 * Agora a carteira de estudante é digital.
 
-* Caso o site oficial esteja offline, existe uma versão alternativa, https://ic-uff.gitlab.io/ (use somente em caso de extrema necessidade). Esse 'mirror' é atualizado semanalmente e pode conter informações desatualizadas.
-
 * E-mail para pedir informações: (Pode ficar tranquilo: se você mandou e-mail, eles vão te responder).
 
 <p align="center">
