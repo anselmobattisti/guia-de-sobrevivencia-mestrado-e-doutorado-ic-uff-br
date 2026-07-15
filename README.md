@@ -1,7 +1,7 @@
 # Guia Informal de Sobrevivência do Mestrando/Doutorando do IC/UFF/BR
 
 <p align="center">
-  <img width="30%" src="https://GitHub.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
+  <img width="20%" src="https://GitHub.com/anselmobattisti/guia-de-sobrevivencia-mestrado-e-doutorado-ic-uff-br/blob/main/img/guia-2.jpg" />
 </p>
 
 ```diff
