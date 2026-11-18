@@ -331,6 +331,8 @@ Para mais informações acesse: https://www.ic.uff.br/regras-e-procedimentos/
 
 * O Estudo Orientado é uma pesquisa sobre o seu tema de dissertação ou tese. Converse com seu orientador e elabore um plano de trabalho. O plano deve ser apresentado na secretaria da pós-graduação, no ato da inscrição. 
 
+* Para escrever o relatório do Estudo Orientado em LaTeX, você pode usar este [template de Estudo Orientado da UFF](https://github.com/Andr234ibatera/latex_template_estudo_orientado_uff).
+
 * Ao fim do primeiro ano de mestrado é ideal que você já tenha escolhido o seu tema de dissertação. No caso de doutorado, você já precisa ter definido antes mesmo de entrar. Mas nada impede que você mude ao longo do tempo (porém, não é recomendado).
 
 * Você não tem dinheiro para comprar livros? Próximo ao restaurante do Luiz existe a biblioteca onde você pode conseguir alguns livros (Ex: Estrutura de Dados). Se você é aluno regular, você deve ter carteirinha. Se você é aluno especial, consiga uma declaração na secretaria da pós.
